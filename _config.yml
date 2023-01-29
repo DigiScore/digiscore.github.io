@@ -20,11 +20,12 @@ author: Prof Craig Vear
 ###############################################
 
 navbar-links:
-  About Us: "aboutus"
-  Resources:
+  About: "aboutus"
+  People:  "/_pages/test_page"
+  Research:
     - Test: "/_pages/test_page"
     - Learn markdown: PASS
-  Author's home: PASS
+  Outputs:  "/_pages/test_page"
 
 ################
 # --- Logo --- #
