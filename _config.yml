@@ -23,7 +23,7 @@ navbar-links:
   About: "aboutus"
   People:  "people"
   Research: "test_page"
-  Outputs:  "test_page"
+  Outputs:  "outputs"
   Impact: "test_page"
 
 ################
@@ -41,7 +41,7 @@ round-avatar: true
 # then specify the following parameter
 title-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
 #footer-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
-navbar-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
+#navbar-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
 
 #####################################
 # --- Footer social media links --- #
@@ -132,7 +132,8 @@ page-col: "#FFFFFF"
 text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "eb008e"
+#footer-col: "#EAEAEA"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 footer-hover-col: "#0085A1"
