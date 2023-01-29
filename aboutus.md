@@ -3,7 +3,9 @@ layout: page
 title: About Us
 ---
 
-Digital scores utilising computational technology and digital media are emerging worldwide as the next evolutionary stage in the concept of the music score. They are generating new music experiences, innovative compositional approaches, novel performance opportunities, and broader accessibility for a vast number of musicians and music cultures around the world. This project will launch the first scientific investigation into the transformation of the music score through computational technologies.
+**Note:** Click here to download the ERC application part B1
+
+**Note:** Click here to download the ERC application part B2
 
 ### Our Project
 
@@ -33,6 +35,3 @@ DigiScore is the first large-scale, integrated project to address these challeng
 
 This project will investigate these questions through an innovative combination of artistic and scientific research methods, undertaken by a transdisciplinary and international team of scientists and artists
 
-**Note:** Click here to download the ERC application part B1
-
-**Note:** Click here to download the ERC application part B2

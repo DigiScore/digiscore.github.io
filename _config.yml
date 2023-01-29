@@ -22,10 +22,9 @@ author: The Digital Score
 navbar-links:
   About: "aboutus"
   People:  "people"
-  Research:
-    - Test: "test_page"
-    - Learn markdown: PASS
+  Research: "test_page"
   Outputs:  "test_page"
+  Impact: "test_page"
 
 ################
 # --- Logo --- #
