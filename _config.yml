@@ -20,7 +20,7 @@ author: Prof Craig Vear
 ###############################################
 
 navbar-links:
-  About Us: "_pages/aboutus"
+  About Us: "aboutus"
   Resources:
     - Learn markdown: PASS
   Author's home: PASS
