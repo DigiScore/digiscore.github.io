@@ -21,7 +21,7 @@ author: Prof Craig Vear
 
 navbar-links:
   About: "aboutus"
-  People:  "test_page"
+  People:  "people"
   Research:
     - Test: "test_page"
     - Learn markdown: PASS
