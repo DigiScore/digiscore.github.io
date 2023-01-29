@@ -9,11 +9,11 @@ Digital scores utilising computational technology and digital media are emerging
 
 The core aims of the project are to:
 
-(1) determine scientific knowledge of how digital scores stimulate new creative opportunities and experiences within a range of music practices,
+    1) determine scientific knowledge of how digital scores stimulate new creative opportunities and experiences within a range of music practices,
 
-(2) develop a theoretical framework for digital scores as an important transdisciplinary area of research,
+    2) develop a theoretical framework for digital scores as an important transdisciplinary area of research,
 
-        (3) build a scientific study of inclusive digital musicianship through the transformative potential of the digital score.
+    3) build a scientific study of inclusive digital musicianship through the transformative potential of the digital score.
  
 ### Our Project
 
