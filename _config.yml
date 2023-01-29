@@ -21,11 +21,11 @@ author: Prof Craig Vear
 
 navbar-links:
   About: "aboutus"
-  People:  "/_pages/test_page"
+  People:  "test_page"
   Research:
-    - Test: "/_pages/test_page"
+    - Test: "test_page"
     - Learn markdown: PASS
-  Outputs:  "/_pages/test_page"
+  Outputs:  "test_page"
 
 ################
 # --- Logo --- #
