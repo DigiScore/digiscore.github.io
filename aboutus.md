@@ -3,8 +3,10 @@ layout: page
 title: About Us
 ---
 
+{: .box-note}
 **Note:** Click here to download the ERC application part B1
 
+{: .box-note}
 **Note:** Click here to download the ERC application part B2
 
 ### Our Project
