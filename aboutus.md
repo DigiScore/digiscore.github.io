@@ -4,10 +4,10 @@ title: About Us
 ---
 
 {: .box-note}
-**Note:** Click here to download the ERC application part B1
+**Note:** [Click here to download the ERC application part B1](assets/img/vear_DIGISCORE_ERC_CoG_2020_B1.pdf)
 
 {: .box-note}
-**Note:** Click here to download the ERC application part B2
+**Note:** [Click here to download the ERC application part B2](assets/img/vear_DIGISCORE_ERC_CoG_2020_B2.pdf)
 
 ### Our Project
 
