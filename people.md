@@ -1,5 +1,6 @@
 ## Our Team:
 
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){:: .mx-auto.d-block}
 **Principle Investigator:** Craig Vear
 
 **Post-Doctoral Research Fellow: Embodied Music Cognition:** Solomiya Moroz
