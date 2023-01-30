@@ -1,7 +1,9 @@
-## Books and Book chapters
-**2023**
- 
+---
+layout: page
+title: Outputs
+---
 
+## Books and Book chapters
 
 **2022**
 
@@ -21,7 +23,7 @@ The Language of Creative AI - [https://link.springer.com/book/10.1007/978-3-031-
 ## Residencies & Fellowships
 **2023**
 
-Web Audio
+Web Audio someting or other
 
 **2022**
 
