@@ -9,11 +9,19 @@ title: People
 
 **Principle Investigator:** Craig Vear
 
+
+
 **Post-Doctoral Research Fellow: Embodied Music Cognition:** Solomiya Moroz
+
+
 
 **Project Manager:** Siobhan Urquhart
 
+
+
 **Post-Doctoral Research Fellow: Creative Computing:** position vacant 
+
+
 
 
 ## The research partners are:
