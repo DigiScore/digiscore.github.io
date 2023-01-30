@@ -10,10 +10,12 @@ title: People
 **Principle Investigator:** Craig Vear
 
 
+<img align="right" width="100" height="200" src="/assets/img/thumbnail_S_Moroz1.jpg">
 
 **Post-Doctoral Research Fellow: Embodied Music Cognition:** Solomiya Moroz
 
 
+<img align="right" width="100" height="200" src="/assets/img/siobhan_thumbnail.jpg">
 
 **Project Manager:** Siobhan Urquhart
 
