@@ -2,20 +2,46 @@ import requests
 from bs4 import BeautifulSoup
 
 orig_url = 'https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts?order=asc'
-# orig_url = 'https://digiscore.dmu.ac.uk/2022/03/01/digital-musicianship-forum-oporto-portugal/'
-blog_name = 'The Digital Score'
 
-headers = {
-        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
+headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 blog_json = requests.get(orig_url, headers=headers).json()
+path_to_images = "../../digiscore.dmu.ac.uk/wp-content/uploads/"
+path_to_save = "_posts"
 
+print(len(blog_json))
 # print(blog_json)
 # blog_json = requests.get(orig_url, headers=headers).json()
-entry = blog_json[0]
-list(entry.keys())
+for blog in blog_json:
+    entry = blog
+    list(entry.keys())
 
-entry_content = entry['content']['rendered']
-print(entry_content)
+    entry_date = entry['date_gmt']
+    entry_title = entry['title']['rendered']
+    entry_content = entry['content']['rendered']
+    # entry_text = BeautifulSoup(entry_content).get_text()
+    print(entry_date[:10], entry_title) #, entry_content)
+
+    entry_title_snakey = entry_title.replace(" ", "_")
+
+    title = f"{entry_date[:10]}-{entry_title_snakey}.md"
+    print(title)
+
+    header = "---\n" \
+             "layout: post\n" \
+             f"title: {entry_title}\n" \
+             "---"
+
+    # make the md doc
+    f = open(f"{path_to_save}/{title}", "w")
+    f.write(header)
+    f.write(entry_content)
+    f.close()
+
+
+
+    # link_to_image = f"{path_to_images}/{entry_date[:5]}/{entry_date[5:8]}"
+
+
 
 
 #
