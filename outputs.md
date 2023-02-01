@@ -11,8 +11,9 @@ The Routledge International Handbook of Practice-Based Research - [https://www.r
 
 The Language of Creative AI - [https://link.springer.com/book/10.1007/978-3-031-10960-7](https://link.springer.com/book/10.1007/978-3-031-10960-7)
 
-## Peer-reviewed published conference papers
-
+## Peer-reviewed published papers and articles
+**2021**
+"Creative AI and Musicking Robots" in Frontiers in Robotics and AI [https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full](https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full)
 
 ## Symposia and workshops
 
