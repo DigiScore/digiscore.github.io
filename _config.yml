@@ -24,9 +24,9 @@ navbar-links:
   People:  "people"
   Research:
     - Case_Studies: "case_studies"
-    - Digital_Musicianship: "test"
-    - Theoretical_Development: "test"
-    - Trans-Disciplinary_Insights: "test"
+    - Digital_Musicianship: "test_page"
+    - Theoretical_Development: "test_page"
+    - Trans-Disciplinary_Insights: "test_page"
   Outputs:  "outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
