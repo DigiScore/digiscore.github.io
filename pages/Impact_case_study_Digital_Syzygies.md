@@ -99,7 +99,7 @@ cover-img: /assets/img/impact_banner.png
 
 <p><strong>Participants:</strong></p>
 
-<p>Andrew Hugill, who is both autistic and has severe hearing loss</p>
-<p>Anya Ustaszewski, an autistic composer and musician who works with a variety of sounds and instruments and has a particular interest in immersive and abstract narrative sound experiences</p>
-<p>Elisabeth Wiklander, a classical cellist with the London Philharmonic Orchestra who is also a Cultural Ambassador of the National Autistic Society</p>
-<p>Simon Allen, a composer and percussionist, who experienced a slow change in his hearing up until 1993(?) which has brought 50% loss from the top down in terms of area on the audiogram, accompanied by hyperacusis, tinnitus and two hearing aids.</p>
+<p><strong>Andrew Hugill</strong>, is both autistic and has severe hearing loss</p>
+<p><strong>Anya Ustaszewski</strong>, an autistic composer and musician who works with a variety of sounds and instruments and has a particular interest in immersive and abstract narrative sound experiences</p>
+<p><strong>Elisabeth Wiklander</strong>, a classical cellist with the London Philharmonic Orchestra who is also a Cultural Ambassador of the National Autistic Society</p>
+<p><strong>Simon Allen</strong>, a composer and percussionist, who experienced a slow change in his hearing up until 1993(?) which has brought 50% loss from the top down in terms of area on the audiogram, accompanied by hyperacusis, tinnitus and two hearing aids.</p>
