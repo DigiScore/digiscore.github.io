@@ -2,8 +2,8 @@
 layout: post
 title: Digital Musicianship Workshop, Bilkent University, Ankara, Turkey
 categories: Digital Musicianship
-share-img: assets/img/digi_mus_banner.png
-cover-img: assets/img/digi_mus_banner.png
+share-img: /assets/img/digi_mus_banner.png
+cover-img: /assets/img/digi_mus_banner.png
 ---
 <p>Digital Musicianship/ Score workshop &nbsp;– Bilkent University, Music department, November 2022</p>
 

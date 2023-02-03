@@ -2,8 +2,8 @@
 layout: post
 title: The Digital Score Methodology
 categories: Theory
-share-img: assets/img/theory_banner.png
-cover-img: assets/img/theory_banner.png
+share-img: /assets/img/theory_banner.png
+cover-img: /assets/img/theory_banner.png
 ---
 <p>A methodology is a system of methods used to generate critical data that can lead to new insights and defined knowledge of a research project. This methodology is specific to the case study work package, and the aim is:</p>
 

@@ -6,7 +6,7 @@ orig_url = ['https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts?order=asc',
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
-path_to_images = "assets/img"
+path_to_images = "/assets/img"
 path_to_save = "_posts"
 
 
@@ -41,11 +41,14 @@ for posts in orig_url:
         entry_content = entry['content']['rendered']
         categories = entry['categories']
         cat_text, cat_banner = get_cat_banner_image(categories[0])
-        print(categories, cat_text, cat_banner)
+        # print(categories, cat_text, cat_banner)
         # entry_text = BeautifulSoup(entry_content).get_text()
-        print(entry_date[:10], entry_title, categories) #, entry_content)
+        # print(entry_text)
+        # print(entry_date[:10], entry_title, categories) #, entry_content)
 
         entry_title_snakey = entry_title.replace(" ", "_")
+        entry_title_snakey = entry_title_snakey.replace("/", "_")
+        entry_title_snakey = entry_title_snakey.replace("-", "_")
 
         title = f"{entry_date[:10]}-{entry_title_snakey}.md"
         print(title)

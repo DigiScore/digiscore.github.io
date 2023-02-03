@@ -2,8 +2,8 @@
 layout: post
 title: Interview with Dejana Sekulic on artefacts of presence
 categories: Theory
-share-img: assets/img/theory_banner.png
-cover-img: assets/img/theory_banner.png
+share-img: /assets/img/theory_banner.png
+cover-img: /assets/img/theory_banner.png
 ---
 <p><strong>Key Insights</strong></p>
 
