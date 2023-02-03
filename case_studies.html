@@ -5,7 +5,7 @@ title: Case Studies
 
 {{ content }}
 
-{% assign posts = paginator.posts | default: site.posts.tag.case_studies %}
+{% assign posts = site.posts.tag.case_studies | default: site.posts.tag.case_studies %}
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
