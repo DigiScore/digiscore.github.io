@@ -23,7 +23,7 @@ navbar-links:
   About: "aboutus"
   People:  "people"
   Research:
-    - Case_Studies: "case_studies"
+    - Case_Studies: "tags"
     - Digital_Musicianship: "digimus"
     - Theoretical_Development: "theory"
     - Trans-Disciplinary_Insights: "tdi"
