@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Impact case study: Digital Syzygies
 categories: Impact
 thumbnail-img: /assets/img/impact_banner.png
