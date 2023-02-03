@@ -92,5 +92,5 @@ cover-img: /assets/img/digi_mus_banner.png
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="Interview with Ine Vanoeveren" width="500" height="281" src="https://www.youtube.com/embed/I3utpeD-Yb0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Interview with Ine Vanouveren" width="1200" height="675" src="https://www.youtube.com/embed/I3utpeD-Yb0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>

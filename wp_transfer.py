@@ -1,8 +1,12 @@
 import requests
 from bs4 import BeautifulSoup
+from glob import glob
+import json
 
 orig_url = ['https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts?order=asc',
             'https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts']
+
+blog_file = glob('_wp_originals/*')
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
@@ -26,14 +30,21 @@ def get_cat_banner_image(tags):
     else:
         return None, None
 
-for posts in orig_url:
-    blog_json = requests.get(posts, headers=headers).json()
+# for posts in orig_url:
+#     blog_json = requests.get(posts, headers=headers).json()
+#
+#     print(len(posts))
+#     # print(blog_json)
+#     # blog_json = requests.get(orig_url, headers=headers).json()
+#     for blog in blog_json:
+#         entry = blog
+for blog in blog_file:
 
-    print(len(posts))
-    # print(blog_json)
-    # blog_json = requests.get(orig_url, headers=headers).json()
-    for blog in blog_json:
-        entry = blog
+    with open(blog, 'r') as f:
+        try:
+            entry = json.load(f)
+        except:
+            continue
         list(entry.keys())
 
         entry_date = entry['date_gmt']
@@ -44,9 +55,9 @@ for posts in orig_url:
             tag_text, tag_banner = get_cat_banner_image(tags[0])
         else:
             tags, tag_text, tag_banner = None, None, None
-        # print(tags, tag_text, tag_banner)
+        print(tags, tag_text, tag_banner)
         # entry_text = BeautifulSoup(entry_content).get_text()
-        # print(entry_text)
+        # print(entry_content)
         # print(entry_date[:10], entry_title, tags) #, entry_content)
 
         entry_title_snakey = entry_title.replace(" ", "_")
@@ -69,6 +80,7 @@ for posts in orig_url:
         f.write(header)
         f.write(entry_content)
         f.close()
+        print("complete")
 
 #################################
 # get blog from URL

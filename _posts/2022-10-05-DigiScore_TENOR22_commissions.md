@@ -9,7 +9,7 @@ cover-img: /assets/img/case_study_banner.png
 
 
 
-<p><a href="https://figshare.dmu.ac.uk/articles/dataset/TENOR22_dataset/21269277">https://figshare.dmu.ac.uk/articles/dataset/TENOR22_dataset/21269277</a></p>
+<p><a href="https://figshare.dmu.ac.uk/account/projects/132254/articles/21269277">https://figshare.dmu.ac.uk/account/projects/132254/articles/21269277</a></p>
 
 
 
@@ -22,7 +22,7 @@ cover-img: /assets/img/case_study_banner.png
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="ast-oembed-container" style="height: 100%;"><iframe loading="lazy" title="Tenor 22 : Concerts" width="500" height="281" src="https://www.youtube.com/embed/videoseries?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Tenor 22 : Concerts" width="1200" height="675" src="https://www.youtube.com/embed/videoseries?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
 

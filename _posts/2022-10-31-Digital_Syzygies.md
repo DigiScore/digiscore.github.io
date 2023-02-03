@@ -190,7 +190,7 @@ cover-img: /assets/img/case_study_banner.png
 
 
 <figure class="wp-block-embed is-type-wp-embed is-provider-the-digital-score wp-block-embed-the-digital-score"><div class="wp-block-embed__wrapper">
-<blockquote class="wp-embedded-content" data-secret="eDC0kiCsXf"><a href="https://digiscore.dmu.ac.uk/2022/10/11/impact-case-study-digital-syzygies/">Impact case study: Digital Syzygies</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Impact case study: Digital Syzygies&#8221; &#8212; The Digital Score" src="https://digiscore.dmu.ac.uk/2022/10/11/impact-case-study-digital-syzygies/embed/#?secret=Fdp5wotHkk#?secret=eDC0kiCsXf" data-secret="eDC0kiCsXf" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<blockquote class="wp-embedded-content" data-secret="dwXiPOlJgt"><a href="https://digiscore.dmu.ac.uk/2022/10/11/impact-case-study-digital-syzygies/">Impact case study: Digital Syzygies</a></blockquote><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" style="position: absolute; clip: rect(1px, 1px, 1px, 1px);" title="&#8220;Impact case study: Digital Syzygies&#8221; &#8212; The Digital Score" src="https://digiscore.dmu.ac.uk/2022/10/11/impact-case-study-digital-syzygies/embed/#?secret=Yct3By7vbp#?secret=dwXiPOlJgt" data-secret="dwXiPOlJgt" width="600" height="338" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 </div></figure>
 
 
