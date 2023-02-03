@@ -1,5 +1,5 @@
 ---
-layout: mini_blog
+layout: page
 title: Case Studies
 ---
 
