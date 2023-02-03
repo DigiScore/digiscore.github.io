@@ -26,6 +26,7 @@ navbar-links:
   Outputs:  "outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
+  Neoscore: "neoscore"
 
 ################
 # --- Logo --- #
