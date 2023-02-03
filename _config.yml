@@ -22,9 +22,14 @@ author: The Digital Score
 navbar-links:
   About: "aboutus"
   People:  "people"
-  Research: "test_page"
+  Research:
+    - Case_Studies: "test"
+    - Digital_Musicianship: "test"
+    - Theoretical_Development: "test"
+    - Trans-Disciplinary_Insights: "test"
   Outputs:  "outputs"
-  Impact: "test_page"
+  Impact:
+    - Digital Sygygies: "/_pages/2022-10-11-Impact_case_study:_Digital_Syzygies.md"
 
 ################
 # --- Logo --- #
