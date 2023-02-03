@@ -5,10 +5,10 @@ title: People
 
 ## Our Team:
 
-<img align="right" width="100" height="100" src="/assets/img/cv_robots.jpg">
+[//]: # (<img align="right" width="100" height="100" src="/assets/img/cv_robots.jpg">)
 
 **Principle Investigator:** Craig Vear
-
+![Crepe](/assets/img/cv_robots.jpg)
  
  
  
