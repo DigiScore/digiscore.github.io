@@ -101,7 +101,7 @@ To add pages to your site, you can either write a markdown file (`.md`) or you c
 
 To see an example of a markdown file, click on any file that ends in `.md`, for example [`aboutme.md`](aboutus.md). On that page you can see some nicely formatted text (there's a word in bold, a link, a few bullet points), and if you click on the pencil icon to edit the file, you'll see the markdown code that generated the pretty text. Very easy!
 
-In contrast, look at [`tags.html`](./tags.html). That's how your write HTML - not as pretty. So stick with markdown if you don't know HTML.
+In contrast, look at [`tags.html`](./research.html). That's how your write HTML - not as pretty. So stick with markdown if you don't know HTML.
 
 Any markdown or HTML file that you create will be available on your website under `https://<yourusername>.github.io/<pagename>`. For example, if you create a file `about.md` (or `about.html`) then it'll exist at `https://<yourusername>.github.io/about`.
 

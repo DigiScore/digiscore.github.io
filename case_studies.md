@@ -34,7 +34,7 @@ title: Case Studies
                   </div>
               </div>
         {%- endfor -%}
-    </div>
+</div>
   {%- endif -%}
 {%- endfor -%}
 </div>
