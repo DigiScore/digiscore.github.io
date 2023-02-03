@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TENOR 2022 Keynote &#8211; Craig Vear
-categories: Outputs
-thumbnail-img: /assets/img/outputs_banner.png
-cover-img: /assets/img/outputs_banner.png
+tags: None
+thumbnail-img: None
+cover-img: None
 ---
 <p>This keynote introduces and explores meaning-making in digital scores. After a short introduction outlining the nature and principles of digital score research, Vear will then outline some of the factors that can contribute to understanding meaning-making in digital score musicking (Small 1998). This will go beyond the how-to and what of digital score creativity, and outline ways of thinking about “what is really going on here” (Small). To do this Vear will draw upon theories and concepts from outside the normal boundaries of music, and introduce a trans-disciplinary approach to studying music-making with digital scores. From affordance to phenomenology, game-play to media theory Vear will explain the importance of these and map them onto an analysis of a digital score case study.&nbsp;</p>
 

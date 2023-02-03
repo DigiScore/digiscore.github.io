@@ -23,7 +23,7 @@ navbar-links:
   About: "aboutus"
   People:  "people"
   Research:
-    - Case_Studies: "test"
+    - Case_Studies: "case_studies"
     - Digital_Musicianship: "test"
     - Theoretical_Development: "test"
     - Trans-Disciplinary_Insights: "test"

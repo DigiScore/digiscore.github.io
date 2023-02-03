@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Digital Score – The Medium and its Message
-categories: Theory
-thumbnail-img: /assets/img/theory_banner.png
-cover-img: /assets/img/theory_banner.png
+tags: None
+thumbnail-img: None
+cover-img: None
 ---
 <p><strong>The Digital Score – The Medium and its Message</strong></p>
 

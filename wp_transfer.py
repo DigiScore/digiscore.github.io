@@ -10,18 +10,18 @@ path_to_images = "/assets/img"
 path_to_save = "_posts"
 
 
-def get_cat_banner_image(categories):
-    if categories == 30:
+def get_cat_banner_image(tags):
+    if tags == 30:
         return "Theory", f"{path_to_images}/theory_banner.png"
-    elif categories == 31:
+    elif tags == 31:
         return "Case Study", f"{path_to_images}/case_study_banner.png"
-    elif categories == 32:
+    elif tags == 32:
         return "Digital Musicianship", f"{path_to_images}/digi_mus_banner.png"
-    elif categories == 33:
+    elif tags == 33:
         return "Outputs", f"{path_to_images}/outputs_banner.png"
-    elif categories == 34:
+    elif tags == 34:
         return "Trans-disciplinary Insights", f"{path_to_images}/tdi_banner.jpg"
-    elif categories == 36:
+    elif tags == 36:
         return "Impact", f"{path_to_images}/impact_banner.png"
     else:
         return None, None
@@ -39,12 +39,15 @@ for posts in orig_url:
         entry_date = entry['date_gmt']
         entry_title = entry['title']['rendered']
         entry_content = entry['content']['rendered']
-        categories = entry['categories']
-        cat_text, cat_banner = get_cat_banner_image(categories[0])
-        # print(categories, cat_text, cat_banner)
+        tags = entry['tags']
+        if tags:
+            tag_text, tag_banner = get_cat_banner_image(tags[0])
+        else:
+            tags, tag_text, tag_banner = None, None, None
+        # print(tags, tag_text, tag_banner)
         # entry_text = BeautifulSoup(entry_content).get_text()
         # print(entry_text)
-        # print(entry_date[:10], entry_title, categories) #, entry_content)
+        # print(entry_date[:10], entry_title, tags) #, entry_content)
 
         entry_title_snakey = entry_title.replace(" ", "_")
         entry_title_snakey = entry_title_snakey.replace("/", "_")
@@ -56,9 +59,9 @@ for posts in orig_url:
         header = "---\n" \
                  "layout: post\n" \
                  f"title: {entry_title}\n" \
-                 f"categories: {cat_text}\n"\
-                 f"thumbnail-img: {cat_banner}\n"\
-                 f"cover-img: {cat_banner}\n"\
+                 f"tags: {tag_text}\n"\
+                 f"thumbnail-img: {tag_banner}\n"\
+                 f"cover-img: {tag_banner}\n"\
                  "---"
 
         # make the md doc

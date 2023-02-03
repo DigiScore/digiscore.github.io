@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Pathways by Dejana Sekulic
-categories: Case Study
-thumbnail-img: /assets/img/case_study_banner.png
-cover-img: /assets/img/case_study_banner.png
+tags: None
+thumbnail-img: None
+cover-img: None
 ---
 <p>Developed as part of DigiScore fellowship (2022) (work in progress digital score for the solo performer)</p>
 

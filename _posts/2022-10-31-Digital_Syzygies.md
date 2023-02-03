@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Digital Syzygies
-categories: Case Study
-thumbnail-img: /assets/img/case_study_banner.png
-cover-img: /assets/img/case_study_banner.png
+tags: None
+thumbnail-img: None
+cover-img: None
 ---
 <p>A collection of digital scores by Andrew Hugill in collaboration with Anya Ustaszewski, Elisabeth Winklander and Simon Allen</p>
 
