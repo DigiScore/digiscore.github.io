@@ -1,7 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-orig_url = 'https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts' #?order=asc'
+orig_url = 'https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts?order=asc'
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 blog_json = requests.get(orig_url, headers=headers).json()
@@ -11,17 +11,19 @@ path_to_save = "_posts"
 
 def get_cat_banner_image(categories):
     if categories == 30:
-        return f"{path_to_images}/theory_banner.png"
+        return "Theory", f"{path_to_images}/theory_banner.png"
     elif categories == 31:
-        return f"{path_to_images}/case_study_banner.png"
+        return "Case Study", f"{path_to_images}/case_study_banner.png"
     elif categories == 32:
-        return f"{path_to_images}/digi_mus_banner.png"
+        return "Digital Musicianship", f"{path_to_images}/digi_mus_banner.png"
     elif categories == 33:
-        return f"{path_to_images}/outputs_banner.png"
+        return "Outputs", f"{path_to_images}/outputs_banner.png"
     elif categories == 34:
-        return f"{path_to_images}/tdi_banner.jpg"
+        return "Trans-disciplinary Insights", f"{path_to_images}/tdi_banner.jpg"
     elif categories == 36:
-        return f"{path_to_images}/impact_banner.png"
+        return "Impact", f"{path_to_images}/impact_banner.png"
+    else:
+        return None, None
 
 
 print(len(blog_json))
@@ -35,7 +37,7 @@ for blog in blog_json:
     entry_title = entry['title']['rendered']
     entry_content = entry['content']['rendered']
     categories = entry['categories']
-    cat_banner = get_cat_banner_image(categories)
+    cat_text, cat_banner = get_cat_banner_image(categories)
     # entry_text = BeautifulSoup(entry_content).get_text()
     print(entry_date[:10], entry_title, categories) #, entry_content)
 
@@ -48,7 +50,8 @@ for blog in blog_json:
              "layout: post\n" \
              f"title: {entry_title}\n" \
              f"categories: {categories}"\
-                f"cover-img: {cat_banner}"\
+             f"share-img: {cat_banner:}"\
+             f"cover-img: {cat_banner}"\
              "---"
 
     # make the md doc
