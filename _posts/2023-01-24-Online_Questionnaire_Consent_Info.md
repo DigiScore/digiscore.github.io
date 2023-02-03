@@ -2,7 +2,7 @@
 layout: post
 title: Online Questionnaire Consent Info
 categories: None
-share-img: None
+thumbnail-img: None
 cover-img: None
 ---
 <p>Digital Scores</p>

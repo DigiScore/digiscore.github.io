@@ -57,7 +57,7 @@ for posts in orig_url:
                  "layout: post\n" \
                  f"title: {entry_title}\n" \
                  f"categories: {cat_text}\n"\
-                 f"share-img: {cat_banner}\n"\
+                 f"thumbnail-img: {cat_banner}\n"\
                  f"cover-img: {cat_banner}\n"\
                  "---"
 
@@ -66,6 +66,26 @@ for posts in orig_url:
         f.write(header)
         f.write(entry_content)
         f.close()
+
+#################################
+# get blog from URL
+#################################
+
+#
+#
+# URL = "https://digiscore.dmu.ac.uk/2022/03/18/tdi-4-jesper-juul/"
+#
+# # soup = BeautifulSoup(html, features="lxml")
+# entry = requests.get(URL)
+# # print(entry.content)
+#
+# soup = BeautifulSoup(entry.content, 'html5lib') # If this line causes an error, run 'pip install html5lib' or install html5lib
+# print(soup.prettify())
+#
+#
+#
+
+
 
 
 
