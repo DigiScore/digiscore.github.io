@@ -29,7 +29,7 @@ navbar-links:
     - Trans-Disciplinary_Insights: "test"
   Outputs:  "outputs"
   Impact:
-    - Digital Sygygies: "/_pages/Impact_case_study_Digital_Syzygies"
+    - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
 
 ################
 # --- Logo --- #
