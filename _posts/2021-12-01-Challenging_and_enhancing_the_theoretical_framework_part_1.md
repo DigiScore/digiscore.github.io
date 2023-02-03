@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Challenging and enhancing the theoretical framework part 1
-categories: None
-share-img: None
-cover-img: None
+categories: Theory
+share-img: assets/img/theory_banner.png
+cover-img: assets/img/theory_banner.png
 ---
 <p>Today we started working on challenging and enhancing the underlying theoretical framework of the digital score. As introduced in a previous post <a href="https://digiscore.dmu.ac.uk/2021/11/04/the-starting-point/">https://digiscore.dmu.ac.uk/2021/11/04/the-starting-point/</a> and outlined in detail in The Digital Score book (2019), the existing theoretical framework is built on 3 underlying principles:</p>
 

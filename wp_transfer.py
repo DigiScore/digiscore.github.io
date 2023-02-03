@@ -40,7 +40,8 @@ for posts in orig_url:
         entry_title = entry['title']['rendered']
         entry_content = entry['content']['rendered']
         categories = entry['categories']
-        cat_text, cat_banner = get_cat_banner_image(categories)
+        cat_text, cat_banner = get_cat_banner_image(categories[0])
+        print(categories, cat_text, cat_banner)
         # entry_text = BeautifulSoup(entry_content).get_text()
         print(entry_date[:10], entry_title, categories) #, entry_content)
 
