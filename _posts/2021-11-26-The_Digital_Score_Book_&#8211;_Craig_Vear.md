@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Digital Score Book &#8211; Craig Vear
----
+categories: [33]cover-img: None---
 <p>Digital technology is transforming the musical score as a broad array of innovative score systems have become available to musicians. From attempts to mimic the print score, to animated and graphical scores, to artificial intelligence-based options, digital scoring affects the musical process by opening up new possibilities for dynamic interaction between the performer and the music, changing how we understand the boundaries between composition, score, improvisation and performance.&nbsp;<em>The Digital Score: Musicianship, Creativity and Innovation&nbsp;</em>offers a guide into this new landscape, reflecting on what these changes mean for music-making from both theoretical and applied perspectives.</p>
 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Challenging and enhancing the theoretical framework part 2
----
+categories: [30]cover-img: None---
 <h4><strong>1<sup>st</sup> stage expansion of theoretical framework.</strong></h4>
 
 

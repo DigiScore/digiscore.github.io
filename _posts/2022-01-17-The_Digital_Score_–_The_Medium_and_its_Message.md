@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Digital Score – The Medium and its Message
----
+categories: [30]cover-img: None---
 <p><strong>The Digital Score – The Medium and its Message</strong></p>
 
 
