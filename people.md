@@ -8,7 +8,7 @@ title: People
 [//]: # (<img align="right" width="100" height="100" src="/assets/img/cv_robots.jpg">)
 
 **Principle Investigator:** Craig Vear
-![Crepe](/assets/img/cv_robots.jpg)
+![Image](/assets/img/cv_robots.jpg){: .mx-auto.d-block :}
  
  
  
