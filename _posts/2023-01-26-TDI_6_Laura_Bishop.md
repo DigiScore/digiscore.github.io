@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TDI-4 Jesper Juul
+title: TDI-6 Laura Bishop
 tags: trans_disciplinary_insights
 thumbnail-img: /assets/img/tdi_banner.jpg
 cover-img: /assets/img/tdi_banner.jpg
@@ -62,5 +62,7 @@ cover-img: /assets/img/tdi_banner.jpg
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="TDI 4 JesperJuul" width="600" height="335" src="https://www.youtube.com/embed/_oJRNavMjl8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="TDI 6 Laura Bishop" width="600" height="335" src="https://www.youtube.com/embed/VfATlNUdT8w?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
+
+
