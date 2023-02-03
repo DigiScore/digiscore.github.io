@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Pathways by Dejana Sekulic
-categories: [31]share-img: Nonecover-img: None---
+categories: None
+share-img: None
+cover-img: None
+---
 <p>Developed as part of DigiScore fellowship (2022) (work in progress digital score for the solo performer)</p>
 
 

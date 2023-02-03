@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Digital Syzygies
-categories: [31]share-img: Nonecover-img: None---
+categories: None
+share-img: None
+cover-img: None
+---
 <p>A collection of digital scores by Andrew Hugill in collaboration with Anya Ustaszewski, Elisabeth Winklander and Simon Allen</p>
 
 

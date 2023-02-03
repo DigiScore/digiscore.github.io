@@ -1,10 +1,11 @@
 import requests
 from bs4 import BeautifulSoup
 
-orig_url = 'https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts?order=asc'
+orig_url = ['https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts?order=asc',
+            'https://digiscore.dmu.ac.uk/wp-json/wp/v2/posts']
 
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
-blog_json = requests.get(orig_url, headers=headers).json()
+
 path_to_images = "assets/img"
 path_to_save = "_posts"
 
@@ -25,40 +26,42 @@ def get_cat_banner_image(categories):
     else:
         return None, None
 
+for posts in orig_url:
+    blog_json = requests.get(posts, headers=headers).json()
 
-print(len(blog_json))
-# print(blog_json)
-blog_json = requests.get(orig_url, headers=headers).json()
-for blog in blog_json:
-    entry = blog
-    list(entry.keys())
+    print(len(posts))
+    # print(blog_json)
+    # blog_json = requests.get(orig_url, headers=headers).json()
+    for blog in blog_json:
+        entry = blog
+        list(entry.keys())
 
-    entry_date = entry['date_gmt']
-    entry_title = entry['title']['rendered']
-    entry_content = entry['content']['rendered']
-    categories = entry['categories']
-    cat_text, cat_banner = get_cat_banner_image(categories)
-    # entry_text = BeautifulSoup(entry_content).get_text()
-    print(entry_date[:10], entry_title, categories) #, entry_content)
+        entry_date = entry['date_gmt']
+        entry_title = entry['title']['rendered']
+        entry_content = entry['content']['rendered']
+        categories = entry['categories']
+        cat_text, cat_banner = get_cat_banner_image(categories)
+        # entry_text = BeautifulSoup(entry_content).get_text()
+        print(entry_date[:10], entry_title, categories) #, entry_content)
 
-    entry_title_snakey = entry_title.replace(" ", "_")
+        entry_title_snakey = entry_title.replace(" ", "_")
 
-    title = f"{entry_date[:10]}-{entry_title_snakey}.md"
-    print(title)
+        title = f"{entry_date[:10]}-{entry_title_snakey}.md"
+        print(title)
 
-    header = "---\n" \
-             "layout: post\n" \
-             f"title: {entry_title}\n" \
-             f"categories: {categories}"\
-             f"share-img: {cat_banner:}"\
-             f"cover-img: {cat_banner}"\
-             "---"
+        header = "---\n" \
+                 "layout: post\n" \
+                 f"title: {entry_title}\n" \
+                 f"categories: {cat_text}\n"\
+                 f"share-img: {cat_banner}\n"\
+                 f"cover-img: {cat_banner}\n"\
+                 "---"
 
-    # make the md doc
-    f = open(f"{path_to_save}/{title}", "w")
-    f.write(header)
-    f.write(entry_content)
-    f.close()
+        # make the md doc
+        f = open(f"{path_to_save}/{title}", "w")
+        f.write(header)
+        f.write(entry_content)
+        f.close()
 
 
 

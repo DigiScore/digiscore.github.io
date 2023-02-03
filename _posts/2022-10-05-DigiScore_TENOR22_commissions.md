@@ -1,7 +1,10 @@
 ---
 layout: post
 title: DigiScore TENOR22 commissions
-categories: [31]share-img: Nonecover-img: None---
+categories: None
+share-img: None
+cover-img: None
+---
 <p>Completed Dataset can be found here</p>
 
 

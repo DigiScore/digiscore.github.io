@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Interview with Dejana Sekulic on artefacts of presence
-categories: [30]share-img: Nonecover-img: None---
+categories: None
+share-img: None
+cover-img: None
+---
 <p><strong>Key Insights</strong></p>
 
 

@@ -1,7 +1,10 @@
 ---
 layout: post
 title: The Digital Score Methodology
-categories: [30]share-img: Nonecover-img: None---
+categories: None
+share-img: None
+cover-img: None
+---
 <p>A methodology is a system of methods used to generate critical data that can lead to new insights and defined knowledge of a research project. This methodology is specific to the case study work package, and the aim is:</p>
 
 

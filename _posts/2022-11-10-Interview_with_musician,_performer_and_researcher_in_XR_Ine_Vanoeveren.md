@@ -1,7 +1,10 @@
 ---
 layout: post
 title: Interview with musician, performer and researcher in XR Ine Vanoeveren
-categories: [32]share-img: Nonecover-img: None---
+categories: None
+share-img: None
+cover-img: None
+---
 <p><strong>Key Insights</strong></p>
 
 
