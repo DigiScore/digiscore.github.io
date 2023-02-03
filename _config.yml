@@ -44,7 +44,7 @@ round-avatar: true
 # then specify the following parameter
 #title-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
 #footer-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
-#navbar-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
+navbar-img: /assets/img/DigiScore-new-logo-with-added-circles-2022.png
 
 #####################################
 # --- Footer social media links --- #
