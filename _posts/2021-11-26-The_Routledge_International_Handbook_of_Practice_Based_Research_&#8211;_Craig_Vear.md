@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Routledge International Handbook of Practice-Based Research &#8211; Craig Vear
-tags: Outputs
+tags: outputs
 thumbnail-img: /assets/img/outputs_banner.png
 cover-img: /assets/img/outputs_banner.png
 ---

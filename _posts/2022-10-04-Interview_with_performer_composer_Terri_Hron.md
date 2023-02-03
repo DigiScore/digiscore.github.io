@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview with performer/composer Terri Hron
-tags: Digital Musicianship
+tags: digital_musicianship
 thumbnail-img: /assets/img/digi_mus_banner.png
 cover-img: /assets/img/digi_mus_banner.png
 ---

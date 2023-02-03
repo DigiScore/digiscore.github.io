@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Interview with Dejana Sekulic on artefacts of presence
-tags: Theory
+tags: theory
 thumbnail-img: /assets/img/theory_banner.png
 cover-img: /assets/img/theory_banner.png
 ---

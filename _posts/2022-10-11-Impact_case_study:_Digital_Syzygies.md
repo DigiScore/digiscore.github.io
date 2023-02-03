@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Impact case study: Digital Syzygies
-tags: Impact
+tags: impact
 thumbnail-img: /assets/img/impact_banner.png
 cover-img: /assets/img/impact_banner.png
 ---

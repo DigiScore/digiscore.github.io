@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Creative AI and Musicking Robots &#8211; Craig Vear
-tags: Outputs
+tags: outputs
 thumbnail-img: /assets/img/outputs_banner.png
 cover-img: /assets/img/outputs_banner.png
 ---

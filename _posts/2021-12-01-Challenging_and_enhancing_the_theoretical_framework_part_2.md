@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Challenging and enhancing the theoretical framework part 2
-tags: Theory
+tags: theory
 thumbnail-img: /assets/img/theory_banner.png
 cover-img: /assets/img/theory_banner.png
 ---

@@ -16,17 +16,17 @@ path_to_save = "_posts"
 
 def get_cat_banner_image(tags):
     if tags == 30:
-        return "Theory", f"{path_to_images}/theory_banner.png"
+        return "theory", f"{path_to_images}/theory_banner.png"
     elif tags == 31:
-        return "Case Study", f"{path_to_images}/case_study_banner.png"
+        return "case_study", f"{path_to_images}/case_study_banner.png"
     elif tags == 32:
-        return "Digital Musicianship", f"{path_to_images}/digi_mus_banner.png"
+        return "digital_musicianship", f"{path_to_images}/digi_mus_banner.png"
     elif tags == 33:
-        return "Outputs", f"{path_to_images}/outputs_banner.png"
+        return "outputs", f"{path_to_images}/outputs_banner.png"
     elif tags == 34:
-        return "Trans-disciplinary Insights", f"{path_to_images}/tdi_banner.jpg"
+        return "trans_disciplinary_insights", f"{path_to_images}/tdi_banner.jpg"
     elif tags == 36:
-        return "Impact", f"{path_to_images}/impact_banner.png"
+        return "impact", f"{path_to_images}/impact_banner.png"
     else:
         return None, None
 

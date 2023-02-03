@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TDI-1 Simon Emmerson
-tags: Trans-disciplinary Insights
+tags: trans_disciplinary_insights
 thumbnail-img: /assets/img/tdi_banner.jpg
 cover-img: /assets/img/tdi_banner.jpg
 ---

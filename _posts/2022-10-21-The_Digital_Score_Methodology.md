@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Digital Score Methodology
-tags: Theory
+tags: theory
 thumbnail-img: /assets/img/theory_banner.png
 cover-img: /assets/img/theory_banner.png
 ---

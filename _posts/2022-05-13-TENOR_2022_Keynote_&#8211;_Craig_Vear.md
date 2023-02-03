@@ -1,7 +1,7 @@
 ---
 layout: post
 title: TENOR 2022 Keynote &#8211; Craig Vear
-tags: Outputs
+tags: outputs
 thumbnail-img: /assets/img/outputs_banner.png
 cover-img: /assets/img/outputs_banner.png
 ---
