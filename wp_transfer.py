@@ -39,7 +39,7 @@ for posts in orig_url:
         entry_date = entry['date_gmt']
         entry_title = entry['title']['rendered']
         entry_content = entry['content']['rendered']
-        tags = entry['tags']
+        tags = entry['categories']
         if tags:
             tag_text, tag_banner = get_cat_banner_image(tags[0])
         else:

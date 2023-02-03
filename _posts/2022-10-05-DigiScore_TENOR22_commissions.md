@@ -1,9 +1,9 @@
 ---
 layout: post
 title: DigiScore TENOR22 commissions
-tags: None
-thumbnail-img: None
-cover-img: None
+tags: Case Study
+thumbnail-img: /assets/img/case_study_banner.png
+cover-img: /assets/img/case_study_banner.png
 ---
 <p>Completed Dataset can be found here</p>
 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TDI-1 Simon Emmerson
-tags: None
-thumbnail-img: None
-cover-img: None
+tags: Trans-disciplinary Insights
+thumbnail-img: /assets/img/tdi_banner.jpg
+cover-img: /assets/img/tdi_banner.jpg
 ---
 <p><meta charset="utf-8"><strong>TOPIC: &#8216;what signals the difference between a digital instrument (such as NIME) and a digital score&#8217;</strong></p>
 

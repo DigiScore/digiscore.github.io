@@ -1,9 +1,9 @@
 ---
 layout: post
 title: The Routledge International Handbook of Practice-Based Research &#8211; Craig Vear
-tags: None
-thumbnail-img: None
-cover-img: None
+tags: Outputs
+thumbnail-img: /assets/img/outputs_banner.png
+cover-img: /assets/img/outputs_banner.png
 ---
 <p><em>The Routledge International Handbook of Practice-Based Research</em>&nbsp;presents a cohesive framework with which to conduct practice-based research or to support, manage and supervise practice-based researchers. It has been written with an inclusive approach, with the intention of presenting deep and meaningful knowledge for the benefit of all readers.</p>
 
