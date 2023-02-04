@@ -2,8 +2,8 @@
 layout: post
 title: DigiScore TENOR22 commissions
 tags: case_study
-thumbnail-img: /assets/img/case_study_banner.png
-cover-img: /assets/img/case_study_banner.png
+thumbnail-img: /assets/img/TENORg.png
+cover-img: /assets/img/TENORg.png
 ---
 <p>Completed Dataset can be found here</p>
 
@@ -22,7 +22,7 @@ cover-img: /assets/img/case_study_banner.png
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="Tenor 22 : Concerts" width="1200" height="675" src="https://www.youtube.com/embed/videoseries?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Tenor 22 : Concerts" width="600" height="335" src="https://www.youtube.com/embed/videoseries?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
 
