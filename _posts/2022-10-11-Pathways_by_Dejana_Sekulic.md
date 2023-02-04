@@ -2,8 +2,8 @@
 layout: post
 title: Pathways by Dejana Sekulic
 tags: case_study
-thumbnail-img: /assets/img/case_study_banner.png
-cover-img: /assets/img/case_study_banner.png
+thumbnail-img: /assets/img/dejana.jpg
+cover-img: /assets/img/dejana.jpg
 ---
 <p>Developed as part of DigiScore fellowship (2022) (work in progress digital score for the solo performer)</p>
 
@@ -30,7 +30,7 @@ cover-img: /assets/img/case_study_banner.png
 
 
 <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="&amp;quot;Pathways&amp;quot; (2022) : end-of-fellowship presentation" src="https://player.vimeo.com/video/751007166?h=fee7f25ec1&amp;dnt=1&amp;app_id=122963" width="1200" height="675" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="&amp;quot;Pathways&amp;quot; (2022) : end-of-fellowship presentation" src="https://player.vimeo.com/video/751007166?h=fee7f25ec1&amp;dnt=1&amp;app_id=122963" width="600" height="335" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
 
