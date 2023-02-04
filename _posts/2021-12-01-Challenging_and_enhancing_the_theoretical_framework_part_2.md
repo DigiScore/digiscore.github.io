@@ -2,8 +2,8 @@
 layout: post
 title: Challenging and enhancing the theoretical framework part 2
 tags: theory
-thumbnail-img: /assets/img/theory_banner.png
-cover-img: /assets/img/theory_banner.png
+thumbnail-img: /assets/img/framework2.jpg
+cover-img: /assets/img/framework2.jpg
 ---
 <h4><strong>1<sup>st</sup> stage expansion of theoretical framework.</strong></h4>
 
