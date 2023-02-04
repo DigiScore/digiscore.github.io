@@ -1,6 +1,6 @@
 ---
 layout: post
-title: TENOR 2022 Keynote &#8211; Craig Vear
+title: TENOR 2022 Keynote - Craig Vear
 tags: outputs
 thumbnail-img: /assets/img/outputs_banner.png
 cover-img: /assets/img/outputs_banner.png
@@ -9,7 +9,7 @@ cover-img: /assets/img/outputs_banner.png
 
 
 
-<div class="wp-block-file"><object class="wp-block-file__embed" data="https://digiscore.dmu.ac.uk/wp-content/uploads/2022/05/digiscore1-TENOR-2022-Keynote.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Embed of digiscore1-TENOR-2022-Keynote.."></object><a id="wp-block-file--media-7d92ba1c-0040-412d-8e1d-74a7f633396e" href="https://digiscore.dmu.ac.uk/wp-content/uploads/2022/05/digiscore1-TENOR-2022-Keynote.pdf">digiscore1-TENOR-2022-Keynote</a><a href="https://digiscore.dmu.ac.uk/wp-content/uploads/2022/05/digiscore1-TENOR-2022-Keynote.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-7d92ba1c-0040-412d-8e1d-74a7f633396e">Download</a></div>
+<div class="wp-block-file"><object class="wp-block-file__embed" data="/assets/img/digiscore1-TENOR-2022-Keynote.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Embed of digiscore1-TENOR-2022-Keynote.."></object><a id="wp-block-file--media-7d92ba1c-0040-412d-8e1d-74a7f633396e" href="/assets/img/digiscore1-TENOR-2022-Keynote.pdf">digiscore1-TENOR-2022-Keynote</a><a href="/assets/img/digiscore1-TENOR-2022-Keynote.pdf" class="wp-block-file__button" download aria-describedby="wp-block-file--media-7d92ba1c-0040-412d-8e1d-74a7f633396e">Download</a></div>
 
 
 
