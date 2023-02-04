@@ -2,8 +2,8 @@
 layout: post
 title: The Starting Point
 tags: theory
-thumbnail-img: /assets/img/theory_banner.png
-cover-img: /assets/img/theory_banner.png
+thumbnail-img: /assets/img/digiscore_book_cover.jpg
+cover-img: /assets/img/digiscore_book_cover.jpg
 ---
 <p>In 2019 I published my book <em>The Digital Score</em>. In this book, I started a conversation towards understanding how digital technology is transforming our relationships with the notion of the music “score”. I proposed that this transformation could be understood by studying the affect and effect of the multiplicity of relationships that are created between a score, its media, the music, the musicians, the space and the performance, to name but a few.</p>
 
