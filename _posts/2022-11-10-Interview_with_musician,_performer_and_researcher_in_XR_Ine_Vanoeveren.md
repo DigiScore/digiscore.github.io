@@ -2,8 +2,8 @@
 layout: post
 title: Interview with musician, performer and researcher in XR Ine Vanoeveren
 tags: digital_musicianship
-thumbnail-img: /assets/img/digi_mus_banner.png
-cover-img: /assets/img/digi_mus_banner.png
+thumbnail-img: /assets/img/Ine.png
+cover-img: /assets/img/Ine.png
 ---
 <p><strong>Key Insights</strong></p>
 
