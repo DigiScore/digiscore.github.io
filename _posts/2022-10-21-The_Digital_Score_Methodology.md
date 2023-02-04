@@ -129,22 +129,6 @@ cover-img: /assets/img/theory_banner.png
 
 
 
-<p><strong>Some Examples of analysed case studies and their datasets (accessed on figshare):</strong></p>
-
-
-
-<p>Nautilus <a href="https://digiscore.dmu.ac.uk/2022/01/27/nautilus/%20">https://digiscore.dmu.ac.uk/2022/01/27/nautilus/</a></p>
-
-
-
-<p>DigiScore TENOR22 commissions <a href="https://digiscore.dmu.ac.uk/2022/10/05/digiscore-tenor22-commissions/">https://digiscore.dmu.ac.uk/2022/10/05/digiscore-tenor22-commissions/</a></p>
-
-
-
-<p>Pathways by Dejana Sekulic <a href="https://digiscore.dmu.ac.uk/2022/10/11/pathways-by-dejana-sekulic/">https://digiscore.dmu.ac.uk/2022/10/11/pathways-by-dejana-sekulic/</a></p>
-
-
-
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
