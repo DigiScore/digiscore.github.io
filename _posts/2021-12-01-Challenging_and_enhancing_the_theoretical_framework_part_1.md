@@ -5,7 +5,7 @@ tags: theory
 thumbnail-img: /assets/img/framework1.jpg
 cover-img: /assets/img/framework1.jpg
 ---
-<p>Today we started working on challenging and enhancing the underlying theoretical framework of the digital score. As introduced in a previous post <a href="https://digiscore.dmu.ac.uk/2021/11/04/the-starting-point/">https://digiscore.dmu.ac.uk/2021/11/04/the-starting-point/</a> and outlined in detail in The Digital Score book (2019), the existing theoretical framework is built on 3 underlying principles:</p>
+<p>Today we started working on challenging and enhancing the underlying theoretical framework of the digital score. As introduced in a previous post and outlined in detail in The Digital Score book (2019), the existing theoretical framework is built on 3 underlying principles:</p>
 
 
 
