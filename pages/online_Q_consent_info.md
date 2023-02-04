@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Online Questionnaire Consent Info
 categories: None
 thumbnail-img: /assets/img/impact_banner.png
