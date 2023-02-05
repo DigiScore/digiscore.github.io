@@ -53,7 +53,7 @@ cover-img: /assets/img/theory_banner.png
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="936" height="430" src="/assets/img/image-3.png" alt="" class="wp-image-4756" srcset="/assets/img/image-3.png 936w, /assets/img/image-3.png 300w, /assets/img/image-3.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
+<figure class="wp-block-image size-full"><img decoding="async" loading="lazy" width="100%" height="100%" src="/assets/img/image-3.png" alt="" class="wp-image-4756" srcset="/assets/img/image-3.png 936w, /assets/img/image-3.png 300w, /assets/img/image-3.png 768w" sizes="(max-width: 936px) 100vw, 936px" /></figure>
 
 
 
