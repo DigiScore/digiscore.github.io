@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Digital Score Book: Craig Vear
+title: The Digital Score Book - Craig Vear
 tags: outputs
 thumbnail-img: /assets/img/digiscore_book_cover.jpg
 cover-img: /assets/img/digiscore_book_cover.jpg
