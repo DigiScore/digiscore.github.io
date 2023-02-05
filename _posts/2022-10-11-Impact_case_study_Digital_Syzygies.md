@@ -2,8 +2,8 @@
 layout: post
 title: Impact case study - Digital Syzygies
 tags: impact
-thumbnail-img: /assets/img/impact_banner.png
-cover-img: /assets/img/impact_banner.png
+thumbnail-img: /assets/img/hugill_eeg.png
+cover-img: /assets/img/hugill_eeg.png
 ---
 <p><strong>Digital Syzygies: Digital Score as a shared creative platform for d/Deaf and autistic musicians</strong></p>
 
