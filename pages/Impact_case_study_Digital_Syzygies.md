@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Impact case study: Digital Syzygies
+title: Impact case study - Digital Syzygies
 categories: Impact
 thumbnail-img: /assets/img/impact_banner.png
 cover-img: /assets/img/impact_banner.png
