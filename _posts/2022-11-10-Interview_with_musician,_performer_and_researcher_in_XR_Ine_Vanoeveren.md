@@ -92,5 +92,5 @@ cover-img: /assets/img/Ine.png
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="Interview with Ine Vanouveren" width="600" height="335" src="https://www.youtube.com/embed/I3utpeD-Yb0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Interview with Ine Vanouveren" width="100%" height="100%" src="https://www.youtube.com/embed/I3utpeD-Yb0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
