@@ -29,13 +29,13 @@ navbar-links:
   Neoscore: "neoscore"
   Podcast: "in_music"
   中国人:
-    - Zhǔyè: "/ch/index.html"
-    - Guānyú: "aboutus_ch"
-    - Rénmen: "people_ch"
+    - Zhǔyè: "/ch/home.html"
+    - Guānyú: "/ch/aboutus_ch"
+    - Rénmen: "/ch/people_ch"
     - Yánjiū: "research"
     - Chǎn_chū: "outputs"
-    - Neoscore: "neoscore_ch"
-    - Bòkè: "in_music_ch"
+    - Neoscore: "/ch/neoscore_ch"
+    - Bòkè: "/ch/in_music_ch"
 
 ################
 # --- Logo --- #
