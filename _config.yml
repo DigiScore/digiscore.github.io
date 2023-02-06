@@ -28,6 +28,13 @@ navbar-links:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
   Neoscore: "neoscore"
   Podcast: "in_music"
+  Chinese:
+    - Guānyú: "aboutus_ch"
+    - Rénmen: "people_ch"
+    - Yánjiū: "research"
+    - Chǎn_chū: "outputs"
+    - Neoscore: "neoscore_ch"
+    - Bòkè: "in_music_ch"
 
 ################
 # --- Logo --- #
