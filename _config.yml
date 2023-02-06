@@ -20,7 +20,7 @@ author: The Digital Score
 ###############################################
 
 navbar-links:
-  About: "aboutus"
+  About: "/pages/aboutus"
   People: "people"
   Research: "research"
   Outputs:  "outputs"
