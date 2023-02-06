@@ -9,7 +9,13 @@ title: People
 
 **Principle Investigator:** Craig Vear
 
- 
+**Biog** Craig Vear is Professor of Music and Computer Science at the University of Nottingham split between music and the mixed
+reality lab. His research is naturally hybrid as he draws together the fields of music, digital performance, creative technologies,
+Artificial Intelligence, creativity, gaming, mixed reality and robotics. He has been engaged in practice-based research with
+emerging technologies for nearly three decades, and was editor for The Routledge International Handbook of Practice-Based
+Research, published in 2022. His recent monograph The Digital Score: creativity, musicianship and innovation, was published by
+Routledge in 2019, and he is Series Editor of Springer’s Cultural Computing Series. In 2021 he was awarded a €2Million ERC
+Consolidator Grant to continue to develop his Digital Score research.
  
  
  
