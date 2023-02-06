@@ -20,9 +20,8 @@ author: The Digital Score
 ###############################################
 
 navbar-links:
-  About:
-    - The_Project: "aboutus"
-    - The_People:  "people"
+  About: "aboutus"
+  People:  "people"
   Research: "research"
   Outputs:  "outputs"
   Impact:
