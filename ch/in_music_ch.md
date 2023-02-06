@@ -5,7 +5,9 @@ title: In Music Podcast
 
 ## About
 
-In this series, the musician Craig Vear talks with a range of musicians about what goes on in their music-making, and where they find meaning. These discussions are insightful and educational and are suitable for a range of listeners and musicians at all levels.
+在本系列中，音乐家 Craig Vear 与众多音乐家讨论了他们的音乐创作过程，以及他们在哪里找到了意义。这些讨论富有洞察力和教育意义，适合各种级别的听众和音乐家。
+
+Zài běn xìliè zhōng, yīnyuè jiā Craig Vear yǔ zhòngduō yīnyuè jiā tǎolùnle tāmen de yīnyuè chuàngzuò guòchéng, yǐjí tāmen zài nǎlǐ zhǎodàole yìyì. Zhèxiē tǎolùn fùyǒu dòngchá lì hé jiàoyù yìyì, shìhé gè zhǒng jíbié de tīngzhòng hé yīnyuè jiā.
 
 ## Links
 
