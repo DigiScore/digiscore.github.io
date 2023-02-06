@@ -29,6 +29,7 @@ navbar-links:
   Neoscore: "neoscore"
   Podcast: "in_music"
   Chinese:
+    - Zhǔyè: "/ch/index.html"
     - Guānyú: "aboutus_ch"
     - Rénmen: "people_ch"
     - Yánjiū: "research"
