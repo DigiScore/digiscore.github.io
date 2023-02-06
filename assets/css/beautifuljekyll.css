@@ -144,8 +144,8 @@ img {
 
 .navbar-custom .navbar-brand {
   line-height: 1.5;
-  padding-top: 3.125rem;
-  padding-bottom: 3.125rem;
+  padding-top: 0.625rem;
+  padding-bottom: 0.625rem;
   font-size: 1.125rem;
 }
 
