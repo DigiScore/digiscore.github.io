@@ -3,6 +3,9 @@ layout: page
 title: Neoscore
 ---
 
+<img width="100%" height="100%" src="/assets/img/neoscore.png">
+
+
 ## Neoscore - Python Library
 
 Neoscore is a Python programming library for creating scores without limits. While other notation software assumes scores follow a narrow set of rules, neoscore treats scores as shapes and text with as few assumptions as possible. In neoscore, staves and noteheads are just one way of writing.

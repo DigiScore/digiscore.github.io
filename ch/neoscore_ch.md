@@ -3,6 +3,9 @@ layout: page
 title: Neoscore
 ---
 
+<img width="100%" height="100%" src="/assets/img/neoscore.png">
+
+
 ## Neoscore - Python Library
 
 Neoscore 是一个 Python 编程库，用于无限制地创建乐谱。虽然其他乐谱软件假定乐谱遵循一组狭窄的规则，但 neoscore 将乐谱视为形状和文本，并尽可能少地进行假设。在 neoscore 中，五线谱和符头只是一种书写方式。
