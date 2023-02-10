@@ -32,6 +32,8 @@ title: Outputs
 
 2022    New Music from Digital Scores from Monash University Ensemble – Hamburg, Germany, Dec 11, 2022
 
+2022    Nautilus, Royal Academy of Music, London, Nov 2022
+
 2022    Pathways in-lab performance by Dejana Sekulic, July 2022 
 
 2022    New commisssions, TENOR conference performance, May 2022 [https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R](https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R)
