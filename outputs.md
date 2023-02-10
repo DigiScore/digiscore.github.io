@@ -3,83 +3,129 @@ layout: page
 title: Outputs
 ---
 
-# UNDER DEVELOPMENT
 
 ## Books and Book chapters
 
-2022, Vear, C., (ed) The Routledge International Handbook of Practice-Based Research - [https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435](https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435)
+2022    Vear, C., (ed) (2022) "The Routledge International Handbook of Practice-Based Research" - [https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435](https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435)
 
-2022, Vear, C., & Poltronieri, F., (eds) The Language of Creative AI - [https://link.springer.com/book/10.1007/978-3-031-10960-7](https://link.springer.com/book/10.1007/978-3-031-10960-7)
+2022    Vear, C., & Poltronieri, F., (eds)(2022) The Language of Creative AI - [https://link.springer.com/book/10.1007/978-3-031-10960-7](https://link.springer.com/book/10.1007/978-3-031-10960-7)
+
+2022    Vear, C., (2022) "Embodied Musicking Robots" in Vear, C., & Poltronieri, F., (eds) (2022) The Language of Creative AI
+
+2022    Vear, C., & Poltronieri, F.,(2022) "Introduction" in Vear, C., & Poltronieri, F., (eds) (2022) The Language of Creative AI
+
 
 
 ## Peer-reviewed published papers and articles
 
-2021, Vear, C., "Creative AI and Musicking Robots" in Frontiers in Robotics and AI [https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full](https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full)
+2023    Vear, C., Rees, C., & Stephenson, A. (2023). "NAUTILUS: A CASE STUDY IN HOW A DIGITAL SCORE CAN TRANSFORM CREATIVITY". Tempo, 77(303), 33-42. doi:10.1017/S0040298222000791 [https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C](https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C)
 
+2022    Vear, C., & Moroz, S., (2022) "Diving Deep with Nautilus: an analysis of musicking with a game engine as a digital score" 
 
-## Symposia and workshops
+2021    Vear, C., "Creative AI and Musicking Robots" in Frontiers in Robotics and AI [https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full](https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full)
+
 
 
 ## Performances
 
+2023    DigiScore Concert – presenting works of DigiScore partners and CIRMMT composers, Montreal, Canada March 9, 2023 
+
+2022    New Music from Digital Scores from Monash University Ensemble – Hamburg, Germany, Dec 11, 2022
+
+2022    Pathways in-lab performance by Dejana Sekulic, July 2022 
+
+2022    New commisssions, TENOR conference performance, May 2022 [https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R](https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R)
+
+2022    Nautilus in-lab performance by Franziska Baumann, DMU, May 2022 [https://youtu.be/SV6TqzJkiX4](https://youtu.be/SV6TqzJkiX4)
+
+2022    Nautilus in-lab performance by Carla Rees, DMU, March 2022 [https://youtu.be/XK-9eXCJxCg](https://youtu.be/XK-9eXCJxCg)
+
+
 
 ## Residencies & Fellowships
 
-2023 Browser Festival – DigiScore is supporting one individual artist in creation of a browser based digital score, July 2023
+2023    Browser Festival – DigiScore is supporting one individual artist in creation of a browser based digital score, July 2023
 
-2022 Dejana Sekulic’s fellowship in DigiScore Lab – making of an interactive digital score based on migration patterns of birds, July, 2022 
-
-
-## Presentations
-
-DigiScore Keynote by Craig Vear at TENOR 2022 conference in Marseille, France – May 9-11, 2022 
-
-Systematic Musicology Conference in Ghent – Poster presentation on the Methodology of the Digital Score project – September 7-9, Ghent, Belgium
-
-DigiScore Online Lecture Presentation at Université d’Aix en Provence, October 21, 2022 
-
-DigiScore Lecture Presentation at HKMT (Hamburg University School of Music and Theatre) – Dec 13, 2022
-
-Belkent University, Turkey
-
-Royal Academy of Music, London, UK
-
-Portugal
-
-Instiute of Musicology, Vienna
-
-Leman, Ghent
+2022    Dejana Sekulic’s fellowship in DigiScore Lab – making of an interactive digital score based on migration patterns of birds, July, 2022 
 
 
-## Concerts
 
-DigiScore Concert – presenting works of DigiScore partners and CIRMMT composers, Montreal, Canada March 9, 2023 
+## Presentations & Workshops
 
-Nautilus in-lab performance by Carla Rees, DMU, March 2022 
+2022    DigiScore Lecture Presentation (Solomiya Moroz) at HKMT (Hamburg University School of Music and Theatre) – Dec 13, 2022
 
-Pathways in-lab performance by Dejana Sekulic, July 2022 
+2022    Systematic Musicology Conference in Ghent (Solomiya Moroz) Poster presentation on the Methodology of the Digital Score project – September 7-9, Ghent, Belgium
 
-New Music from Digital Scores from Monash University Ensemble – Hamburg, Germany, Dec 11, 2022 
+2022    DigiScore Online Lecture Presentation (Solomiya Moroz) at Université d’Aix en Provence, October 21, 2022 
+
+2022    Digiscore workshop, (Craig Vear) Music Department Belkent University, Turkey - November 2022
+
+2022    Digiscore lecture with Dr Carla Rees (Craig Vear) Royal Academy of Music, London, UK - September 2022
+
+2022    DigiScore Keynote (Craig Vear) at TENOR 2022 conference in Marseille, France – May 9-11, 2022 
+
+2022    Digiscore lecture (Craig Vear) Institute of Musicology, Graz University - March 2022
+
+2022    Digiscore lecture (Craig Vear) Institute of Systematic Musicology, Ghent University - March 2022
+
+2022    Digiscore lecture (Craig Vear) University of Porto & University of Algarve, Portugal - February 2022
 
 
 
 ## Consultations
 
-Universal Edition
+Universal Edition - [https://www.universaledition.com/](https://www.universaledition.com/)
 
-Orchestras Live
+Orchestras Live - [https://www.orchestraslive.org.uk/](https://www.orchestraslive.org.uk/)
 
-Sinfonia Viva
+Sinfonia Viva - [https://www.sinfoniaviva.co.uk/](https://www.sinfoniaviva.co.uk/)
+
+Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.be/en/)
+
+
+
+## Interviews and Podcasts
+
+2023    In-Music Podcast - Elisabeth Wiklander [https://shows.acast.com/in-music/episodes/elisabeth-wiklander](https://shows.acast.com/in-music/episodes/elisabeth-wiklander)
+
+2023    Trans-Disciplinary Insight 6 - Laura Bishop, Jan 2023 [https://youtu.be/VfATlNUdT8w](https://youtu.be/VfATlNUdT8w)
+
+2022    Interview with Ine Vanoeveren, Nov 2022 [https://youtu.be/I3utpeD-Yb0](https://youtu.be/I3utpeD-Yb0)
+
+2022    Interview with Terri Hron, October 2022 
+
+2022    In-Music Podcast - Marco Ciciliani, July 2022 [https://play.acast.com/s/6246daa76baf5b00124b9927/628f7a2f351b980013e5e77f](https://play.acast.com/s/6246daa76baf5b00124b9927/628f7a2f351b980013e5e77f)
+
+2022    Interview with Dejana Sekulic, July 2022
+
+2022    In-Music Podcast - Julian Arguelles, June 2022 [https://play.acast.com/s/6246daa76baf5b00124b9927/628f8308351b980013e61290](https://play.acast.com/s/6246daa76baf5b00124b9927/628f8308351b980013e61290)
+
+2022    In-Music Podcast - Franziska Baumann, May 2022 [https://play.acast.com/s/6246daa76baf5b00124b9927/6271961c979ede001285133a](https://play.acast.com/s/6246daa76baf5b00124b9927/6271961c979ede001285133a)
+
+2022    In-Music Podcast - Craig Hultgren, May 2022 [https://play.acast.com/s/6246daa76baf5b00124b9927/626bb21a162abf00141a2b60](https://play.acast.com/s/6246daa76baf5b00124b9927/626bb21a162abf00141a2b60)
+
+2022    Trans-Disciplinary Insight 5 - Ulla Kallenbach, April 2022 [https://youtu.be/G-W_7I1bDRU](https://youtu.be/G-W_7I1bDRU)
+
+2022    In-Music Podcast - Carla Rees, April 2022 [https://play.acast.com/s/6246daa76baf5b00124b9927/6246e9b4b68b3c0012ad2ebe](https://play.acast.com/s/6246daa76baf5b00124b9927/6246e9b4b68b3c0012ad2ebe)
+
+2022    Trans-Disciplinary Insight 4 - Jesper Juul, March 2022 [https://youtu.be/_oJRNavMjl8](https://youtu.be/_oJRNavMjl8)
+
+2022    Trans-Disciplinary Insight 3 - Marc Leman, March 2022 [https://youtu.be/PUIbr16p39Q](https://youtu.be/PUIbr16p39Q)
+
+2022    Trans-Disciplinary Insight 2 - Andrea Schiavio, Feb 2022 [https://youtu.be/SRLeLxNEXwk](https://youtu.be/SRLeLxNEXwk)
+
+2022    Interview with PA Tremblay, Feb 2022
+
+2022    Trans-Disciplinary Insight 1 - Simon Emmerson, Jan 2022 [https://youtu.be/eta3PQBI_Ys](https://youtu.be/eta3PQBI_Ys)
 
 
 
 ## Open source code
-**2023**
 
-**2022**
+Project GitHub repository [https://github.com/DigiScore](https://github.com/DigiScore)
 
-Nautilus - Digital Score
+2022    "Nautilus (2022)" Digital Score;  Intermedia composition for bass flute, neural network and Unity game environment (2022) [https://figshare.dmu.ac.uk/articles/software/Nautilus_digital_score_Win_Mac_/19762120](https://figshare.dmu.ac.uk/articles/software/Nautilus_digital_score_Win_Mac_/19762120)
 
-neoscore - [https://neoscore.org/](https://neoscore.org/)
+2022    "neoscore" Python Library - [https://neoscore.org/](https://neoscore.org/)
 
 
