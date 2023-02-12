@@ -11,7 +11,7 @@ blog_file = glob('_wp_originals/*')
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
 path_to_images = "/assets/img"
-path_to_save = "_posts"
+path_to_save = "../_posts"
 
 
 def get_cat_banner_image(tags):
