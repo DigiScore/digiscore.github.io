@@ -32,3 +32,11 @@ Plurality Spring was well received in the lecture presentation. Musicians enjoye
 In the brainwave reader piece for Neoscore, the brainwave reader operating musician enjoyed her role in the score more when she found out about different focus modes that her mind should be in if she wanted to navigate with a better sense of intentionality. For the other musicians, it helped to go through several trials with the system as some of the graphic interface controls regarding the tempo interface were not coinciding with the staves' horizontal reading. Once they got used to symbols and the way the materials of the score were working it helped them to play better together with a sense of intentionality.
 
 
+**Musicians**
+Litha Ashforth, voice
+
+Emiliano Lopez, guitar
+
+Ben Eidson, sax
+
+
