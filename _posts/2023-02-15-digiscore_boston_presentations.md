@@ -6,9 +6,9 @@ thumbnail-img: /assets/img/US_roadshow_2023_Boston.png
 tags: digital_musicianship
 ---
 
-**Boston**
+# **Boston**
 
-DigiScore delivered two lecture and workshop presentations in the Boston area, one at the North Eastern University at the invitation of Antony de Ritis and the second one at the New England Conservatory. 
+DigiScore delivered two lecture and workshop presentations in the Boston area, one at the North Eastern University at the invitation of Anthony de Ritis and the second one at the New England Conservatory, wonderfully organised by John Mallia. 
 
 
 ## **Lecture**
@@ -23,7 +23,7 @@ Overall, we were pleased to see that the NEC has already included courses on pro
 
 Musicians were curious to engage with the graphic and animated scores as these are the types of scores, they thought digital scores mostly were. For Variations I by John Cage digitized by Decibel Score Ensemble, they liked the challenge of having to figure out how they could best use the notation system for their musicking. They tried two versions of the score; they seemed to prefer the second one as they felt it was more cohesive with their intentionality. Some of the graphic symbols became more understood in the second version as well as Cage’s aesthetic intentions - proposing all possible and impossible choices that could be taken in this digital score. The way they connected to the score has improved also as they felt more comfortable not relying on the graphic notation alone but also listening to what each other was playing to become immersed in this process together.
 
-As already mentioned, the musicians liked Gunnar’s Kwartette because it allowed them to play together without committing to read complex music notation and to experience playfulness which allowed easier entry into musicking. The score seemed more indicative to them of the kinds of sounds they could use than Cage’s Variations and they seemed to enjoy that. 
+As already mentioned, the musicians liked Guðmundur Steinn Gunnarsson - Kvartett no. 8, 3rd movement (2011) because it allowed them to play together without committing to read complex music notation and to experience playfulness which allowed easier entry into musicking. The score seemed more indicative to them of the kinds of sounds they could use than Cage’s Variations and they seemed to enjoy that. 
 
 All musicians tried Plumber, a non-graphic score interface, which they remarked allowed them to feel their way through the system by imagining falling through an imaginary plumbing system. Going through the nooks and crannies, as if falling through the pipes, the way a musician navigated through the score with short interjections made more sense as the way the system was responding best was in this scenario. They also tried it with longer notes which didn’t really work and decided that the original description of how one should interact was the best.
 
