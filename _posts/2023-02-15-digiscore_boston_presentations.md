@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Digiscore Boston Presentations
-cover-img: /assets/img/digi_mus_banner.png
-thumbnail-img: /assets/img/digi_mus_banner.png
+cover-img: /assets/img/US_roadshow_2023_Boston.png
+thumbnail-img: /assets/img/US_roadshow_2023_Boston.png
 tags: digital_musicianship
 ---
 
