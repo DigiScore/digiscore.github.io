@@ -34,6 +34,6 @@ Use this boilerplate code for YouTube videos (change links:)
 </div></figure>
 
 
-** Once you have completed the changes above you can delete the body of this blog and re3place it with you real text (everything below the 2nd set of 3 hyphens) **
+**Once you have completed the changes above you can delete the body of this blog and re3place it with you real text (everything below the 2nd set of 3 hyphens)**
 
 
