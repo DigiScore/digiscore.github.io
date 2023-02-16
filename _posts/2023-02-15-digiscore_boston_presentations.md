@@ -86,6 +86,7 @@ Areas of study may include, among others; recording, mixing, production, perform
 installation, scoring for new media, synthesis, real-time processing and interactivity, sensor-based controllers and 
 digital instrument prototyping, computer-aided composition and analysis, and multichannel spatialization.*
 
+[https://necmusic.edu/music-technology-concentration](https://necmusic.edu/music-technology-concentration)
 
 **Musicians**
 Our sincerest thanks go out to the amazing musicians who performed these pieces:
