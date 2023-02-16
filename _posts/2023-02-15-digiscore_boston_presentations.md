@@ -73,7 +73,7 @@ of intentionality.
 
 
 Interestingly, the music students who performed the digital scores were from a course led by John Mallia. We felt that the
-digital musicians that they brought to the performance exemplifies digital musicianship. Here is the course overview:
+skills, awareness, perceptions, contexts and expereinces that they brought to the performance exemplifies digital musicianship. Here is the course overview:
 
 *NEC offers a Music Technology Concentration for undergraduate students interested in utilizing technology in their 
 creative work. Whether your intent is to enhance the production of your recorded music, live performance presentation 
