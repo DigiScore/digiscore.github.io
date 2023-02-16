@@ -17,19 +17,19 @@ The first lecture was delivered at Northeastern University for the class of Anth
 It was noted that the students were very open to the notion of digital scores and what could be a score as they originally 
 imagined scores as paper-based with traditional notation. They were curious to ask musicians questions on how they interpreted 
 very open graphic and animated scores, what kinds of decisions they made in navigating the score, and how they felt in the 
-flow of performing with more interactive scores, such as a sound-based PD score for Plumber. 
+flow of performing with more interactive scores, such as a sound-based PD score for *The Plumber*. 
 
 For the second lecture and presentation of digital scores from the musicians of NEC, it was noted that the questions were 
 more composer-specific to do with different types of technologies and how it felt to be inside these different processes 
-for musicians. For instance, there was an interesting discussion after the Plumber performance, whether this digital score 
+for musicians. For instance, there was an interesting discussion after the *The Plumber* performance, whether this digital score 
 could be discussed as AI-driven or if it was an interactive system with particular narrow goals that would not define it 
 as a living system digital score. There was an interest from students to interact with biosynthetic digital devices such 
 as the Emotive EEG brain wave reader, which we also had as one of the digital scores in our presentation. There was also 
 an interesting discussion around accessibility for amateur musicians and those who do not read traditional notation as 
-the students noted that some of the animated and digitized scores like the Decibel Player’s Variation I by Cage could be 
+the students noted that some of the animated and digitized scores like the Decibel Player’s *Variation I* by Cage could be 
 interpreted by those who do not read the traditional Western type of notation. It was also noted by students that interesting 
-complex rhythmic textures could be produced with animated scrolling scores such as Gunnarson’s Kwartette, not requiring 
-traditional music reading skills.
+complex rhythmic textures could be produced with animated scrolling scores such as Guðmundur Steinn Gunnarsson 
+*Kvartett no. 8, 3rd movement* (2011), not requiring traditional music reading skills.
 
 Overall, we were pleased to see that the NEC has already included courses on programming and coding as part of its 
 undergraduate curriculum. Many students including the ones in our workshop already used digital technology in creative 
@@ -58,7 +58,7 @@ if falling through the pipes, the way a musician navigated through the score wit
 the way the system was responding best was in this scenario. They also tried it with longer notes which didn’t really work 
 and decided that the original description of how one should interact was the best.
 
-Plurality Spring was well received in the lecture presentation. Musicians enjoyed the video game experience that took 
+*Plurality Spring* was well received in the lecture presentation. Musicians enjoyed the video game experience that took 
 them through different levels of navigation. 
 
 In the brainwave reader piece for Neoscore, the brainwave reader operating musician enjoyed her role in the score more 
@@ -70,6 +70,9 @@ of intentionality.
 
 
 **Musicians**
+Our sincerest thanks go out to the amazing musicians who workshoped these pieces:
+
+
 Litha Ashforth, voice
 
 Emiliano Lopez, guitar
