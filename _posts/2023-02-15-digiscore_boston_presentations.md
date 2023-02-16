@@ -8,32 +8,35 @@ tags: digital_musicianship
 
 # **Boston**
 
-DigiScore delivered two lecture and workshop presentations in the Boston area, one at the North Eastern University at 
-the invitation of Anthony de Ritis and the second one at the New England Conservatory, wonderfully organised by John Mallia. 
+DigiScore delivered two lectures presentations and a workshop in the Boston area, one at the Northeastern University at 
+the invitation of Anthony de Ritis and the second one at the New England Conservatory organised by John Mallia. 
 
 
 ## **Lecture**
 The first lecture was delivered at Northeastern University for the class of Anthony de Ritis’ general area music students. 
-It was noted that the students were very open to the notion of digital scores and what could be a score as they originally 
+It was noted that the students were very open to the notion of the digital scores and what could be a score as they originally 
 imagined scores as paper-based with traditional notation. They were curious to ask musicians questions on how they interpreted 
 very open graphic and animated scores, what kinds of decisions they made in navigating the score, and how they felt in the 
 flow of performing with more interactive scores, such as a sound-based PD score for *The Plumber*. 
 
 For the second lecture and presentation of digital scores from the musicians of NEC, it was noted that the questions were 
 more composer-specific to do with different types of technologies and how it felt to be inside these different processes 
-for musicians. For instance, there was an interesting discussion after the *The Plumber* performance, whether this digital score 
+for musicians. For instance: 
+- there was an interesting discussion after the *The Plumber* performance, whether this digital score 
 could be discussed as AI-driven or if it was an interactive system with particular narrow goals that would not define it 
-as a living system digital score. There was an interest from students to interact with biosynthetic digital devices such 
-as the Emotive EEG brain wave reader, which we also had as one of the digital scores in our presentation. There was also 
-an interesting discussion around accessibility for amateur musicians and those who do not read traditional notation as 
+as a living system digital score. 
+- There was an interest from students to interact with biosynthetic digital devices such 
+as the Emotive EEG brain wave reader, which we also had as one of the digital scores in our presentation. 
+- There was also an interesting discussion around accessibility for amateur musicians and those who do not read traditional notation as 
 the students noted that some of the animated and digitized scores like the Decibel Player’s *Variation I* by Cage could be 
-interpreted by those who do not read the traditional Western type of notation. It was also noted by students that interesting 
-complex rhythmic textures could be produced with animated scrolling scores such as Guðmundur Steinn Gunnarsson 
+interpreted by those who do not read the traditional Western type of notation. 
+- It was also noted by students that interesting complex rhythmic textures could be produced with animated scrolling scores such as Guðmundur Steinn Gunnarsson 
 *Kvartett no. 8, 3rd movement* (2011), not requiring traditional music reading skills.
 
 Overall, we were pleased to see that the NEC has already included courses on programming and coding as part of its 
 undergraduate curriculum. Many students including the ones in our workshop already used digital technology in creative 
-ways to facilitate their music-making, programming and composition.
+ways to facilitate their music-making, programming and composition. Computer languages such as R, Python and C++ was offered
+as courses for the students at NEC, and some of them were involved in game design using Unity. 
 
 
 ## **Workshop**
@@ -69,8 +72,23 @@ used to symbols and the way the materials of the score were working it helped th
 of intentionality.
 
 
+Interestingly, the music students who performed the digital scores were from a course led by John Mallia. We felt that the
+digital musicians that they brought to the performance exemplifies digital musicianship. Here is the course overview:
+
+*NEC offers a Music Technology Concentration for undergraduate students interested in utilizing technology in their 
+creative work. Whether your intent is to enhance the production of your recorded music, live performance presentation 
+with interactivity and multimedia, or electronic composition/scoring, technology-based courses offered at NEC will help 
+you to build skills in these areas and to acquire new techniques that may prove useful when pursuing work in the music industry.*
+
+*Students enrolled in the concentration are required to take three technology courses from NEC’s available offerings and 
+to work independently with a faculty mentor on a capstone project designed around their specific interests. 
+Areas of study may include, among others; recording, mixing, production, performance with electronics and multimedia, 
+installation, scoring for new media, synthesis, real-time processing and interactivity, sensor-based controllers and 
+digital instrument prototyping, computer-aided composition and analysis, and multichannel spatialization.*
+
+
 **Musicians**
-Our sincerest thanks go out to the amazing musicians who workshoped these pieces:
+Our sincerest thanks go out to the amazing musicians who performed these pieces:
 
 
 Litha Ashforth, voice
