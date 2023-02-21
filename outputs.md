@@ -131,3 +131,15 @@ Project GitHub repository [https://github.com/DigiScore](https://github.com/Digi
 2022    "neoscore" Python Library - [https://neoscore.org/](https://neoscore.org/)
 
 
+
+## Data set
+
+2022    "Digital Syzygies" [https://figshare.dmu.ac.uk/articles/dataset/Digital_Syzygies/21429138](https://figshare.dmu.ac.uk/articles/dataset/Digital_Syzygies/21429138)
+
+2022    "Dejana Fellowship" [https://figshare.dmu.ac.uk/articles/dataset/Pathways_Dejana_Sekulic_s_fellowship/21270609](https://figshare.dmu.ac.uk/articles/dataset/Pathways_Dejana_Sekulic_s_fellowship/21270609)
+
+2022    "Nautilus" [https://figshare.dmu.ac.uk/articles/dataset/Nautilus_digiscore_case_study_dataset_2022/20418447](https://figshare.dmu.ac.uk/articles/dataset/Nautilus_digiscore_case_study_dataset_2022/20418447)
+
+2022    "TENOR 2022 premieres" [https://figshare.dmu.ac.uk/articles/dataset/TENOR22_dataset/21269277](https://figshare.dmu.ac.uk/articles/dataset/TENOR22_dataset/21269277)
+
+
