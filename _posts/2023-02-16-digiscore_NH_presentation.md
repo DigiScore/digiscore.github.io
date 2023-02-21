@@ -1,14 +1,16 @@
 ---
 layout: post
 title: DigiScore New Haven Lecture
-cover-img: /assets/img/US_roadshow_2023_Boston.png
-thumbnail-img: /assets/img/US_roadshow_2023_Boston.png
+cover-img: /assets/img/digi_mus_banner.png
+thumbnail-img: /assets/img/digi_mus_banner.png
 tags: digital_musicianship
 ---
 
 # **New Haven University Music Department Lecture**
 
-As the presentation unfolded, different types of tablature scores got the staffs’ attention with some remarks on the prescriptive nature of scores like guitar tablatures and that with those like with traditional scores, one needs to know the song and its context.
+
+As the presentation unfolded, different types of tablature scores got the staffs’ attention with some remarks on the 
+prescriptive nature of scores like guitar tablatures and that with those like with traditional scores, one needs to know the song and its context.
 
 Some of our insights on the nature of digital musicianship at New Haven music department:
 
