@@ -13,6 +13,7 @@ As the presentation unfolded, different types of tablature scores got the staffs
 Some of our insights on the nature of digital musicianship at New Haven music department:
 
 -there is no requirement for students to know how to read notation on entry into the program, students are required to acquire this skill through their studies
+
 -relationship with scores is difficult for students here – students would be more challenged to respond to a prompt that was not sonic if they had to interpret digital scores.
 
 -most students here identify themselves as music producers, rather than ‘composers’
