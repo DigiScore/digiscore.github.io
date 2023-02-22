@@ -22,6 +22,8 @@ UG cohorts they teach.
 There were two main discussion point, that is also mirrored in the other presentations so far:
 
 1) the traditional music studies divide of performer and composer is no longer representational of the type of activities that these musicians engage with
+
+
 2) that coding skills (algorithmic thinking, computational creativity, data representation and management, and modern language) is a vital and important attribute in the workplace, and that music studies should engage with it, as it is a perfect platform with which to explore and learn these skills.
 
 
