@@ -1,8 +1,8 @@
 ---
 layout: post
 title: DigiScore NY-Columbia Lecture
-cover-img: /assets/img/digi_mus_banner.png
-thumbnail-img: /assets/img/digi_mus_banner.png
+cover-img: /assets/img/ny_columbia.JPG
+thumbnail-img: /assets/img/ny_columbia.JPG
 tags: digital_musicianship
 ---
 
