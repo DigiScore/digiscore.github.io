@@ -38,3 +38,12 @@ Several other key insights were also introduced:
   - Aumi by Pauline Oliveros [http://aumiapp.com/](http://aumiapp.com/)
 
 
+Following the discussion Seth kindly showed us around the electronic music studios at Columbia. We were particuarly 
+impressed by the 80:5 rule in each of the studios and teaching spaces. That is that 80% of the functionality should be
+achievable in the first 5 minutes of walking into one of the creative spaces. There were many other principles such as this
+that are remarkable and ultimatly supportve of inclusive studio creativity. Others that springs to mind is that every
+component was mapped to a specific location in the studio; all recordable channels are permanently tied into the main recording
+PC; plug and copy USB drives to walk away with work after sessions; buying and installing equipment that has very few hidden 
+features so that the operational functions of, say, routing, aux sends, matrixing is clearly operational by knobs and switches. 
+
+
