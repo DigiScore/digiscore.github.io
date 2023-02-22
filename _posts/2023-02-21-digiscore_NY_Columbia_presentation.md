@@ -32,5 +32,6 @@ Several other key insights were also introduced:
   - "Music - Drastic or Gnostic" by Carolyn Abbate
   - Ichiro Fujinaga's researchj into symbolic representations of notation and scores
   - Mariusz Kozak's research on enacting time in embodied musicking expereince.
+  - Aumi by Pauline Oliveros [http://aumiapp.com/](http://aumiapp.com/)
 
 
