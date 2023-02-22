@@ -28,7 +28,7 @@ There were two main discussion point, that is also mirrored in the other present
 
 
 Several other key insights were also introduced:
-- the digital score, due to its interactivity and open relationships between musicians, is helping move the power balance away from "the composer" (who dicatets) and "the performer" (who obeys). This is very helpful in supporting current concerns of inclusivity and social equality.
+- the digital score, due to its interactivity and open relationships between musicians, is helping move the power balance away from "the composer" (who dictates) and "the performer" (who obeys). This is very helpful in supporting current concerns of inclusivity and social equality.
 - the term digital musician should embrace all musicians who creatively use digital technology in music-making (which thankfully the DigiScore project also supports)
 - several sources of inspiration were recalled that could enhance the digiscore project:
   - "Music - Drastic or Gnostic" by Carolyn Abbate
