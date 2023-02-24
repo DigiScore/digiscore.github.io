@@ -1,7 +1,6 @@
 ---
 layout: post
 title: DigiScore Lecture for IDeATe at Carnegie Mellon
-subtitle: Copy this to _posts folder before you modify
 cover-img: /assets/img/digi_mus_banner.png
 thumbnail-img: /assets/img/digi_mus_banner.png
 tags: digital_musicianship
