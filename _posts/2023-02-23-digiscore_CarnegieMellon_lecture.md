@@ -21,4 +21,7 @@ Some critical insights:
 
 Overall, students and staff of Carnegie Mellon seemed interested in our research and the results our current investigation into the digital musicianship will bring forth the future.
 
+The programme outline from the CM website [https://ideate.cmu.edu/undergraduate-programs/sonic-arts/index.html](https://ideate.cmu.edu/undergraduate-programs/sonic-arts/index.html):
+
+*Students in the Sonic Arts minor explore the processes and products of digital sound and music. They receive basic training in key component areas: principles of computer music, sound synthesis, spatialization, and concepts in sound design. Combining this training with courses that bring together experts from many disciplines, they create experimental music or explore new, technology-enabled, applications and markets for sound design, music creation, and performance.*
 
