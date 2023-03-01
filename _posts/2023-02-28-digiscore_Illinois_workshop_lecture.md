@@ -1,8 +1,8 @@
 ---
 layout: post
 title: DigiScore workshop and lecture at University of Illinois
-cover-img: /assets/img/digi_mus_banner.png
-thumbnail-img: /assets/img/digi_mus_banner.png
+cover-img: /assets/img/illinois.png
+thumbnail-img: /assets/img/illinois.png
 tags: digital_musicianship
 ---
 
