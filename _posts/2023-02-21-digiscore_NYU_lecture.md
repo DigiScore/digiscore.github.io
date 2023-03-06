@@ -1,8 +1,8 @@
 ---
 layout: post
 title: NYU Composition Seminar Lecture
-cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
+cover-img: /assets/img/NYU_Craig.jpg
+thumbnail-img: /assets/img/NYU_Craig.jpg
 tags: digital_musicianship
 ---
 
