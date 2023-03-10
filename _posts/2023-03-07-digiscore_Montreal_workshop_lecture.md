@@ -11,7 +11,7 @@ tags: digital_musicianship
 DigiScore was invited to present a workshop and a lecture at the 2-day event, *The impact of digital technology on instruments, 
 performances, notations and compositions* curated by Takuto Fukuda for the CIRMMT members network, March 7-8, Montreal, Canada. 
 
-The details of the event are available here: https://www.cirmmt.org/en/events/workshops/research/impact-digital-technology?fbclid=IwAR2cT1wWijsAihLOmJUPKLc5P6kNrIrIuzOM4oZY8Im_S6LKKlw_2ZH09cA
+The details of the event are available here: [https://www.cirmmt.org/en/events/workshops/research/impact-digital-technology?fbclid=IwAR2cT1wWijsAihLOmJUPKLc5P6kNrIrIuzOM4oZY8Im_S6LKKlw_2ZH09cA](https://www.cirmmt.org/en/events/workshops/research/impact-digital-technology?fbclid=IwAR2cT1wWijsAihLOmJUPKLc5P6kNrIrIuzOM4oZY8Im_S6LKKlw_2ZH09cA)
 
 In the DigiScore workshop, we discussed various types of digital scores with musicians and how one should 
 approach them as an interpreter. We started with digital scores which we define as static. These scores are graphic and 
