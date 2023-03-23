@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Interview with composer and researcher in VR Konstantina Orlandatou
-cover-img: /assets/img/Konstantina.png
-thumbnail-img: /assets/img/Konstantina.png
+cover-img: /assets/img/konstantina.png
+thumbnail-img: /assets/img/konstantina.png
 tags: digital_musicianship
 ---
 ## **Critical Insights** 
