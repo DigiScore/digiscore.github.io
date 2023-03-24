@@ -7,6 +7,7 @@ tags: digital_musicianship
 ---
 ## **Critical Insights** 
 
+
 -  for the past 6 years has been incorporating VR technologies into her artistic practice
 -  it came with some experimentation of how to create different sonic environments in the visual environments of modernist paintings
 -  [Moving Sound Pictures](https://stage2.hfmt-hamburg.de/portfolio-item/moving-sound-pictures/) - Konstantina takes paintings of well-known painters, the classic moderns and turns them into 3D spaces in virtual reality. The user has the opportunity to interact and make music with these 3D objects in VR
@@ -38,7 +39,7 @@ When she started working on re-imagining classical modernists in 3D, she was ver
 
 ### **On Tools and Technology**
 She is always trying to understand where technology intersects with composition.
-Sometimes when she has constraints it becomes inspiring for her work. She often seeks the overall mood of the paintings as it is not certain how the user will interact with the sound events. Colour plays a big part in setting the mood where all the events have to work together in the painting. She had to learn Unreal and how it works to create works in VR. She prefers to work with very stable systems since her installations can sometimes run for 3 months at an art gallery. She often likes to work in Middleware to create her sounds for VR objects and sometimes uses F Mold. She also likes to work with a sequencer which helps to organize her sound materials logically. For the visuals, she collaborates with a visual artist who makes all the artwork of the paintings in VR.
+Sometimes when she has constraints it becomes inspiring for her work. She often seeks the overall mood of the paintings as it is not certain how the user will interact with the sound events. Colour plays a big part in setting the mood where all the events have to work together in the painting. She had to learn Unreal and how it works to create works in VR. She prefers to work with very stable systems since her installations can sometimes run for 3 months at an art gallery. She often likes to work in Middleware to create her sounds for VR objects and sometimes uses FMod. She also likes to work with a sequencer which helps to organize her sound materials logically. For the visuals, she collaborates with a visual artist who makes all the artwork of the paintings in VR.
 
 Her work with the musical material in VR is very focused on the objects and what it feels like to hold them inside the painting, their texture and their behaviour. The idea of music as a medium needs to be adjusted in her VR work, she feels like she is working more as a sound designer who is composing the user’s experience in the paintings. The objects become embodied when the user engages with them, so she has to think about the details of their behaviour and the kinds of experiences that the user will have with these objects. Thus, she focuses on building a closed system with interactive objects that you can think of as instrument on the whole.
 
@@ -52,14 +53,13 @@ It is hard to predict in VR what the new heights of it will be, it is becoming m
 ### **Future Projects**
 She is currently looking into implementing animated graphical scores into the VR environment, maybe also with musicians who would be playing in the VR space. She finds that animation as a medium is very powerful and popular with younger generations.
 She is still questioning where VR will land in the future, how we can use the medium as a window for new opportunities, how you can experiment with new things, and where you can do things that normally you would not be able to.
-The pandemic showed us that we can do a lot of things online and create new user experiences. Now it’s the question of extending this knowledge into musical activities that can also happen live. Konstantina finds that there are limitations because it still takes a lot of work to achieve something good in VR. However, with time, she thinks the technology part of VR will become lighter, more mobile and more affordable, thus VR could become a bigger part of our creative activities. She would love to see more mixing of technologies for concerts for example between virtual, mediatized and acoustic music.
+The pandemic showed us that we can do a lot of things online and create new user experiences. Now it’s the question of extending this knowledge into musical activities that can also happen live. Konstantina finds that there are limitations because it still takes a lot of work to achieve something good in VR. However, with time, she thinks the technology part of VR will become lighter, more mobile and more affordable, thus VR could become a bigger part of our creative activities. She would love to see more mixing of technologies for concerts for example between virtual, mediatized and acoustic.
 
 
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="Interview with Konstantina Orlandatou" width="100%" height="100%" src="https://www.youtube.com/watch?v=orAS-CfyB8g" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Interview with Konstantina Orlandatou" width="100%" height="100%" src="https://www.youtube.com/embed/orAS-CfyB8g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
-
 
 
 
