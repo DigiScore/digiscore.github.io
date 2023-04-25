@@ -16,20 +16,20 @@ The project by DigiScore partner, Cat Hope was aimed at commissioning four Monas
 
 Four individual projects were realized:
 
-[Jaslyn Robertson's](http://jaslyn.biz/) Shadow Aria is a spatialized work using multichannel audio and lighting as a digital score. Conceptually, it is about the silenced voices of marginalized people in new music. When a spotlight is directed at a performer, they are instructed to stop playing and stop moving. In this context, this represents the silenced soloist as a metaphor for erased marginalised voices. 
+[Jaslyn Robertson's](http://jaslyn.biz/) _Shadow Aria_ is a spatialized work using multichannel audio and lighting as a digital score. Conceptually, it is about the silenced voices of marginalized people in new music. When a spotlight is directed at a performer, they are instructed to stop playing and stop moving. In this context, this represents the silenced soloist as a metaphor for erased marginalised voices. 
 
-[Helen Svoboda's](https://www.helensvoboda.com/) Wormwood is an animated visual score made in Max/MSP for solo double bass and video. It is inspired by the patterns on the tree bark which are translated into different shape categories to represent overtone groupings and their integer multiples. The shape categories act as launching pads for improvisatory moments, with the inclusion of some extended techniques to vary the timbre and palette of sound. The form is different across each performance; a different order of events is presented to the performer each time. 
+[Helen Svoboda's](https://www.helensvoboda.com/) _Wormwood_ is an animated visual score made in Max/MSP for solo double bass and video. It is inspired by the patterns on the tree bark which are translated into different shape categories to represent overtone groupings and their integer multiples. The shape categories act as launching pads for improvisatory moments, with the inclusion of some extended techniques to vary the timbre and palette of sound. The form is different across each performance; a different order of events is presented to the performer each time. 
 
-[Iran Sanadzadeh's](https://www.iransanadzadeh.com/) 502 Days of self is a digital score which uses AI and Machine learning categorization of pre-recorded 502 days of the composer’s practice data on a pressure-sensitive floors instrument. Its examination of the recordings used speech analysis algorithms. The composer wanted to understand her formed habits on the instrument by sonifying them to other instruments with existing sonic gestural vocabulary. The score translates these pre-recorded habits into the movement, shape and colour of polygons on each part, which the performers interpret based on instructions from the composer. 
+[Iran Sanadzadeh's](https://www.iransanadzadeh.com/) _502 Days of self_ is a digital score which uses AI and Machine learning categorization of pre-recorded 502 days of the composer’s practice data on a pressure-sensitive floors instrument. Its examination of the recordings used speech analysis algorithms. The composer wanted to understand her formed habits on the instrument by sonifying them to other instruments with existing sonic gestural vocabulary. The score translates these pre-recorded habits into the movement, shape and colour of polygons on each part, which the performers interpret based on instructions from the composer. 
 
-[Chloë Sobek's](https://chloesobek.com) Immanence is a VR work which uses paintings of Julian Aubrey Smith. The visual environments and movements of Smith’s paintings served as sonic prompts in the digital score composed by Chloë Sobek. Additionally, the work takes the audience on a journey through ‘alien’ worlds that are strange and yet familiar; depicting the remnants of human presence in a world absent of any perceivable human life. Immanence is about exploring ideas of VR’s ubiquitous use that could become part of our everyday life with companies like Metaverse. The work contemplates the positive and negative aspects of VR, with a particular focus on ways to represent post-anthropocentric values in art.
+[Chloë Sobek's](https://chloesobek.com) _Immanence_ is a VR work which uses paintings of Julian Aubrey Smith. The visual environments and movements of Smith’s paintings served as sonic prompts in the digital score composed by Chloë Sobek. Additionally, the work takes the audience on a journey through ‘alien’ worlds that are strange and yet familiar; depicting the remnants of human presence in a world absent of any perceivable human life. Immanence is about exploring ideas of VR’s ubiquitous use that could become part of our everyday life with companies like Metaverse. The work contemplates the positive and negative aspects of VR, with a particular focus on ways to represent post-anthropocentric values in art.
 
 
 
 
 ## **Critical Insights** 
 
-**502 Days of Self**
+**_502 Days of Self_**
 
 **AI** - translation of sonic features through an AI algorithm to an animated digital score can fail to make a connection with the musicians without a rehearsal process
 
@@ -41,7 +41,7 @@ Four individual projects were realized:
 
 **Further reflection** on the behaviour of the animated notation as guided by a Machine Learning algorithm could lead to the development of a new sonic aesthetic in Iran’s work 
 
-**Wormwood**
+**_Wormwood_**
 
 **Randomization** - the algorithm in the Max/MSP patch of Wormwood propelled the performer to make different creative decisions to her habitual improvisation habits on the double bass
 
@@ -52,7 +52,7 @@ Four individual projects were realized:
 - purple flashes intended to break the performer away from the previously chosen bowed overtone texture into a more percussive pizzicato 
 - did not make her move too drastically away from the previous texture but triggered a change rather than a disruption to her flow
 
-**Shadow Aria**
+**_Shadow Aria_**
 
 **Lighting Interruptions:**
 - players did not feel a disruption with composed interruptions when a spotlight had to stop their playing making them freeze momentarily
@@ -65,7 +65,7 @@ Four individual projects were realized:
 **On Form:** sudden interruptions also affected the form of the piece and players’ decision-making
 **Connection to the spatialized soundtrack** and reaction to each other's playing helped to maintain a sense of flow during the interruptions
 
-**Immanence**
+**_Immanence_**
 
 **Composer’s intentionality:**
 - the sound world of the score was aimed to create an atmosphere rather than a direct relationship to the objects
@@ -96,17 +96,17 @@ Overall, all the works were designed to be accessible to the performers and the 
 
 All the participants had innovative new experiences through working with their digital scores or they hoped to create such an experience for the performers of their works. 
  
-For Iran Sanadzadeh, making 502 Days of self, using Machine Learning analysis from the recordings of her performance practice on the pressure-sensitive floors instrument allowed her to have a perspective on what is possible across many different ways in animating scores while using digital components. It was also an opportunity to deeply explore through the use of AI and Machine Learning the relationship between movement and sound, encouraging the performers in her piece to explore their gestural vocabulary. 
+For Iran Sanadzadeh, making _502 Days of self_, using Machine Learning analysis from the recordings of her performance practice on the pressure-sensitive floors instrument allowed her to have a perspective on what is possible across many different ways in animating scores while using digital components. It was also an opportunity to deeply explore through the use of AI and Machine Learning the relationship between movement and sound, encouraging the performers in her piece to explore their gestural vocabulary. 
  
 For Chloë Sobek, the creation of the score was a transformative experience as it showed her how a digital score could operate in a more interactive and immersive environment. Making a VR digital score contributed significantly to her skill set and allowed her to build on her previous skills in Reaper. In the future, she hopes this could be a transformative experience for the audience once the digital score becomes more interactive. Perhaps, also extending the possibility for them to create sounds through the game engine while being immersed in the digital score, creating their unique version. 
  
-Helen Svoboda’s visualization for the double bass in Wormwood encouraged spontaneity and challenged her embodied habits as an improviser through different pacing, structure and dynamics. By relying on the digital score, she found new ways to navigate sound on her instrument while discovering new sound combinations. She finds this to be a transformative component in this digital score. She hopes Wormwood will continue to inspire herself and other performers who will interpret the work.
+Helen Svoboda’s visualization for the double bass in _Wormwood_ encouraged spontaneity and challenged her embodied habits as an improviser through different pacing, structure and dynamics. By relying on the digital score, she found new ways to navigate sound on her instrument while discovering new sound combinations. She finds this to be a transformative component in this digital score. She hopes _Wormwood_ will continue to inspire herself and other performers who will interpret the work.
  
 While Jaslyn Robertson created a performance environment where players could respond sensitively with care while listening to the subtle movements of the spatialized audio. To do this, she had to overcome the challenges of working in a new space in Hamburg with a different speaker configuration and lighting setup. She also had to become comfortable in giving up some control over the musical material by including musicians’ improvisation in response to the audio score as well as a randomized spotlight element.
 
-Working on the digital scores, prompted the composer/performers to reflect on how using different new technologies could be transforming their creativity. For instance, Iran finds that based on her experiences with 502 Days of self, innovative new ways of using digital notation could create a new sonic aesthetic in her work. In making the digital score, the process of translation of her audio recordings to the animated notation through Machine learning analysis challenged her sonic aesthetic as a composer. In this process, she had to constantly evaluate how the behaviour of the animated notation reflected her original intentions and what sound world it was creating. Iran works primarily with text scores, thus the process that she chose for making 502 Days of self, showed her a new way of composing.
+Working on the digital scores, prompted the composer/performers to reflect on how using different new technologies could be transforming their creativity. For instance, Iran finds that based on her experiences with _502 Days of self_, innovative new ways of using digital notation could create a new sonic aesthetic in her work. In making the digital score, the process of translation of her audio recordings to the animated notation through Machine learning analysis challenged her sonic aesthetic as a composer. In this process, she had to constantly evaluate how the behaviour of the animated notation reflected her original intentions and what sound world it was creating. Iran works primarily with text scores, thus the process that she chose for making _502 Days of self_, showed her a new way of composing.
  
-While Chloë Sobek reflects that the experience of making Immanence made her feel like she is expanding her sonic practice towards more visuality. She questions how much of it relates to being a musician and a composer. She also questions how deeply she could go into this field before engaging in a collaboration with people who work in the visual medium. In this discussion, it was highlighted that her expansion
+While Chloë Sobek reflects that the experience of making _Immanence_ made her feel like she is expanding her sonic practice towards more visuality. She questions how much of it relates to being a musician and a composer. She also questions how deeply she could go into this field before engaging in a collaboration with people who work in the visual medium. In this discussion, it was highlighted that her expansion
 towards more transdisciplinary might not be embraced in some circles of the music field which still praises expertise in one’s field above other forms of creativity. While this reflects on other conversations DigiScore has had with practitioners who venture into VR and other technologies, we are also noticing that many musicians choose to engage with transdisciplinary practices despite the disciplinary pressures.
 
 
