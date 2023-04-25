@@ -33,9 +33,13 @@ Consolidator Grant to continue to develop his Digital Score research.
 
 **Project Manager:** Siobhan Urquhart
 
+
+
+## Current Fellows and Interns:
+
+**Post-Doctoral Research Fellow: Creative Computing (April - July 2023)** Johann Benerradi [https://hanbnrd.gitlab.io/#](https://hanbnrd.gitlab.io/#)
  
- 
- 
+**EPSRC mixed reality internship (June - Sept 2023)** Elsa Kitching
  
 
 
@@ -52,9 +56,9 @@ Consolidator Grant to continue to develop his Digital Score research.
 
 **USA:** Prof. Dr. Kenneth Fields is a world leader in telematic and network music performance and score distribution.
 
-**Asia:** Prof. Dr. Li Xiaobing has composed digital scores for multi-media, Chinese opera and small ensembles and has written on the cultural history of digital music in China. . Project manager/ assistance by Zhang Yuan (Nancy)
+**China:** Prof. Dr. Li Xiaobing has composed digital scores for multi-media, Chinese opera and small ensembles and has written on the cultural history of digital music in China. . Project manager/ assistance by Zhang Yuan (Nancy)
 
 
 ## Past Fellows:
 
-**Post-Doctoral Research Fellow: Creative Computing:** Prashanth Thattai (Feb-Oct 2022)
+**Post-Doctoral Research Fellow: Creative Computing (Feb-Oct 2022)** Prashanth Thattai
