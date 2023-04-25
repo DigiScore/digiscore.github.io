@@ -32,7 +32,8 @@ Four individual projects were realized:
 **502 Days of Self**
 
 **AI** - translation of sonic features through an AI algorithm to an animated digital score can fail to make a connection with the musicians without a rehearsal process
-Managing parameter scale - animated shapes had to be reduced in the number of parameters to facilitate players’ connection to the digital score
+
+**Managing parameter scale** - animated shapes had to be reduced in the number of parameters to facilitate players’ connection to the digital score
 
 **Performance strategies:**
 - players connected to each other’s sound as they were paired up in interpreting the animated score; in this way, they could react to the rhythmic interpretation of each other 
@@ -62,7 +63,7 @@ Managing parameter scale - animated shapes had to be reduced in the number of pa
 - the decision to go back to playing what they were before or to continue with something else helped to maintain their sense of flow and engagement in the piece
 
 **On Form:** sudden interruptions also affected the form of the piece and players’ decision-making
-Connection to the spatialized soundtrack and reaction to each other's playing helped to maintain a sense of flow during the interruptions
+**Connection to the spatialized soundtrack** and reaction to each other's playing helped to maintain a sense of flow during the interruptions
 
 **Immanence**
 
