@@ -33,16 +33,18 @@ Four individual projects were realized:
 
 **AI** - translation of sonic features through an AI algorithm to an animated digital score can fail to make a connection with the musicians without a rehearsal process
 Managing parameter scale - animated shapes had to be reduced in the number of parameters to facilitate players’ connection to the digital score
+
 **Performance strategies:**
 - players connected to each other’s sound as they were paired up in interpreting the animated score; in this way, they could react to the rhythmic interpretation of each other 
 - intentionality in players’ sonic gestures was more important than following the shapes closely 
+
 **Further reflection** on the behaviour of the animated notation as guided by a Machine Learning algorithm could lead to the development of a new sonic aesthetic in Iran’s work 
 
 **Wormwood**
 
 **Randomization** - the algorithm in the Max/MSP patch of Wormwood propelled the performer to make different creative decisions to her habitual improvisation habits on the double bass
 **Emergent behaviour in the performance** - performer had to be reactive and step out of her comfort zone when interpreting the work
-Surprising elements:
+**Surprising elements:**
 - pushed the performer to explore different overtone groupings on her instrument
 - purple flashes intended to break the performer away from the previously chosen bowed overtone texture into a more percussive pizzicato 
 - did not make her move too drastically away from the previous texture but triggered a change rather than a disruption to her flow
@@ -53,8 +55,10 @@ Surprising elements:
 - players did not feel a disruption with composed interruptions when a spotlight had to stop their playing making them freeze momentarily
 - were experienced more as a trigger for a change rather than an interruption in one’s flow
 - affected the form of the piece and players’ decision-making
+
 **Managing the digital score:**
 - the decision to go back to playing what they were before or to continue with something else helped to maintain their sense of flow and engagement in the piece
+
 **On Form:** sudden interruptions also affected the form of the piece and players’ decision-making
 Connection to the spatialized soundtrack and reaction to each other's playing helped to maintain a sense of flow during the interruptions
 
@@ -63,9 +67,12 @@ Connection to the spatialized soundtrack and reaction to each other's playing he
 **Composer’s intentionality:**
 - the sound world of the score was aimed to create an atmosphere rather than a direct relationship to the objects
 - composer aimed to make the interactive form feel alienating, there is some logic there, but it is not directly perceivable
+
 **Flow through navigation** was achieved with each revelation of the new painting, moving the viewer closer and closer towards a ‘portal’ and through to the other side
 Navigation through the sound world of the digital score also contributed to the viewer’s immersion
+
 **On Form:** audience’s expectations of the form through the visual prompts were constantly propelled forward without resolution
+
 **Viewing the work through a headset** provided further immersion that allowed one to move with the work where the visuals and audio became one
  
 
