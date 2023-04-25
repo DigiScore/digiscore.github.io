@@ -43,7 +43,9 @@ Managing parameter scale - animated shapes had to be reduced in the number of pa
 **Wormwood**
 
 **Randomization** - the algorithm in the Max/MSP patch of Wormwood propelled the performer to make different creative decisions to her habitual improvisation habits on the double bass
+
 **Emergent behaviour in the performance** - performer had to be reactive and step out of her comfort zone when interpreting the work
+
 **Surprising elements:**
 - pushed the performer to explore different overtone groupings on her instrument
 - purple flashes intended to break the performer away from the previously chosen bowed overtone texture into a more percussive pizzicato 
