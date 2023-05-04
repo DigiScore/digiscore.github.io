@@ -8,14 +8,13 @@ tags: case_study
 
 # **The Australian Composers’ Residency in HfMT, Hamburg, Germany**
 
-**Complete data set**: https://rdmc.nottingham.ac.uk/handle/internal/10506
+**Complete data set**: [https://rdmc.nottingham.ac.uk/handle/internal/10506](https://drive.google.com/file/d/1TWYYqLaGEe_gDnrZWFUOVac--Y1_kRgD/view)
 
 **Performances**: 
 
 _502 Days of self_ by Iran Sanadzadeh: [https://www.youtube.com/watch?v=kPy1iQK8NrM](https://docs.google.com/document/d/1vAtGAySBNf3LciW2y9YmnxzdKLO67NGe5ExT3Udgh4c/edit?usp=sharing)
 
-_Immanence_ by Chloe Sobek: [https://docs.google.com/document/d/1vAtGAySBNf3LciW2y9YmnxzdKLO67NGe5ExT3Udgh4c/edit?usp=sharing](https://docs.google.com/document/d/1vAtGAySBNf3LciW2y9YmnxzdKLO67NGe5ExT3Udgh4c/edit?usp=sharing)
-
+_Immanence_ by Chloe Sobek: [https://drive.google.com/file/d/1TWYYqLaGEe_gDnrZWFUOVac--Y1_kRgD/view](https://drive.google.com/file/d/1TWYYqLaGEe_gDnrZWFUOVac--Y1_kRgD/view)
 
 The project by DigiScore partner, Cat Hope was aimed at commissioning four Monash University early career composers/performers/researchers to perform in an ensemble concert in Hamburg. The project enabled the participants to hire technologists to assist them in the realisation of their digital score idea which could include Artificial Intelligence, Machine Learning, VR/AR/XR, etc. The participants did not have extensive experience in making digital scores with new technologies before therefore the project also looked into what this could bring to them as composers. In addition, DigiScore supported the final preparation and the performance which took place in Hamburg’s School for Music and Theatre (HfMT). In realisation of their digital scores there, participants benefitted from their peers and mentors' feedback as well as from HfMT’s multimedia faculty and community.
 
