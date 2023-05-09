@@ -88,6 +88,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Interviews and Podcasts
 
+2023    In-Music Podcast - Sandeep Bhagwati [https://shows.acast.com/in-music/episodes/sandeep-bhagwati](https://shows.acast.com/in-music/episodes/sandeep-bhagwati)
+
 2023    In-Music Podcast - Elisabeth Wiklander [https://shows.acast.com/in-music/episodes/elisabeth-wiklander](https://shows.acast.com/in-music/episodes/elisabeth-wiklander)
 
 2023    Trans-Disciplinary Insight 6 - Laura Bishop, Jan 2023 [https://youtu.be/VfATlNUdT8w](https://youtu.be/VfATlNUdT8w)
