@@ -136,6 +136,8 @@ Project GitHub repository [https://github.com/DigiScore](https://github.com/Digi
 
 ## Data set
 
+2023    "Australian Composers’ Residency in HfMT, Hamburg, Germany" [https://rdmc.nottingham.ac.uk/handle/internal/10506](https://rdmc.nottingham.ac.uk/handle/internal/10506) 
+
 2022    "Digital Syzygies" [https://figshare.dmu.ac.uk/articles/dataset/Digital_Syzygies/21429138](https://figshare.dmu.ac.uk/articles/dataset/Digital_Syzygies/21429138)
 
 2022    "Dejana Fellowship" [https://figshare.dmu.ac.uk/articles/dataset/Pathways_Dejana_Sekulic_s_fellowship/21270609](https://figshare.dmu.ac.uk/articles/dataset/Pathways_Dejana_Sekulic_s_fellowship/21270609)
