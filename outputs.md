@@ -126,7 +126,7 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Open source code
 
-Project GitHub repository [https://github.com/DigiScore](https://github.com/DigiScore)
+*Project GitHub repository [https://github.com/DigiScore](https://github.com/DigiScore)*
 
 2023    "RNN_Groover (2023)" A collection of scripts to generate performances and variations of Irish traditional folk tunes. Collaboration with Marco Amerotti, Steve Benford, Bob Sturm [https://github.com/DigiScore/RNN_groover](https://github.com/DigiScore/RNN_groover) ; Examples [https://amerotz.notion.site/A-Live-Performance-Rule-System-arising-from-Irish-Traditional-Dance-Music-425c07e5d1ea42f0b7e351d93dbdba52](Examples) 
 
