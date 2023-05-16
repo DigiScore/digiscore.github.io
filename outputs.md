@@ -128,6 +128,10 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 **Project GitHub repository [https://github.com/DigiScore](https://github.com/DigiScore)**
 
+2023    "Jess+ (2023)" Musicking robot interacting in real-time with a musician ensemble through drawing digital score. [https://github.com/DigiScore/jess_plus](https://github.com/DigiScore/jess_plus) 
+
+2023    "GuitaRPG (2023)"   An interactive 2-dimensional score through which the performer may freely navigate. [https://github.com/Xavman42/GuitaRPG](https://github.com/Xavman42/GuitaRPG)
+
 2023    "RNN_Groover (2023)" A collection of scripts to generate performances and variations of Irish traditional folk tunes. Collaboration with Marco Amerotti, Steve Benford, Bob Sturm [https://github.com/DigiScore/RNN_groover](https://github.com/DigiScore/RNN_groover) ; Examples [https://amerotz.notion.site/A-Live-Performance-Rule-System-arising-from-Irish-Traditional-Dance-Music-425c07e5d1ea42f0b7e351d93dbdba52](Examples) 
 
 2022    "Nautilus (2022)" Digital Score;  Intermedia composition for bass flute, neural network and Unity game environment (2022) [https://figshare.dmu.ac.uk/articles/software/Nautilus_digital_score_Win_Mac_/19762120](https://figshare.dmu.ac.uk/articles/software/Nautilus_digital_score_Win_Mac_/19762120)
