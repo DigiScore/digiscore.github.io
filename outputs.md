@@ -18,6 +18,8 @@ title: Outputs
 
 ## Peer-reviewed published papers and articles
 
+2023    Vear, C., Morox, S., (2023) 
+
 2023    Vear, C., Rees, C., & Stephenson, A. (2023). "NAUTILUS: A CASE STUDY IN HOW A DIGITAL SCORE CAN TRANSFORM CREATIVITY". Tempo, 77(303), 33-42. doi:10.1017/S0040298222000791 [https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C](https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C)
 
 2022    Vear, C., & Moroz, S., (2022) "Diving Deep with Nautilus: an analysis of musicking with a game engine as a digital score" 
@@ -28,19 +30,33 @@ title: Outputs
 
 ## Performances
 
-2023    DigiScore Concert – presenting works of DigiScore partners and CIRMMT composers, Montreal, Canada March 9, 2023 
+2023    *GuitaRPG* by Xavier Davenport. Premiere of Neoscore competition award winner. TENOR conference 2023, Boston, USA
 
-2022    New Music from Digital Scores from Monash University Ensemble – Hamburg, Germany, Dec 11, 2022
+2023    *Shadow Aria* by Jaslyn Robertson. TENOR conference 2023, Boston, USA
 
-2022    Nautilus, Royal Academy of Music, London, Nov 2022
+2023    *502 Days of Self* by Iran Sanadzadeh. TENOR conference 2023, Boston, USA
 
-2022    Pathways in-lab performance by Dejana Sekulic, July 2022 
+2023    *Their Lives are Stripped of Meaning* by Cat Hope. TENOR conference 2023, Boston, USA
 
-2022    New commisssions, TENOR conference performance, May 2022 [https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R](https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R)
+2023    *Kaleidescope* by Lauren McCall. Premiere of Neoscore competition award runner-up. TENOR conference 2023, Boston, USA
 
-2022    Nautilus in-lab performance by Franziska Baumann, DMU, May 2022 [https://youtu.be/SV6TqzJkiX4](https://youtu.be/SV6TqzJkiX4)
+2023    *Tendons For Transformation* by Kitty Xiao. Commissioned by DigiScore and TENOR 2023. TENOR conference 2023, Boston, USA
 
-2022    Nautilus in-lab performance by Carla Rees, DMU, March 2022 [https://youtu.be/XK-9eXCJxCg](https://youtu.be/XK-9eXCJxCg)
+2023    *Paths/Fields* by Ingrid Laubrock. Commissioned by DigiScore and TENOR 2023. TENOR conference 2023, Boston, USA
+
+2023    *DigiScore Concert* – presenting works of DigiScore partners and CIRMMT composers, Montreal, Canada March 9, 2023 
+
+2022    *New Music from Digital Scores* from Monash University Ensemble – Hamburg, Germany, Dec 11, 2022
+
+2022    *Nautilus*, Royal Academy of Music, London, Nov 2022
+
+2022    *Pathways* in-lab performance by Dejana Sekulic, July 2022 
+
+2022    *New commisssions*, TENOR conference performance, May 2022 [https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R](https://www.youtube.com/playlist?list=PLvNSDtsreCf5QjQckk5ryIYBqxZ6xuc0R)
+
+2022    *Nautilus* in-lab performance by Franziska Baumann, DMU, May 2022 [https://youtu.be/SV6TqzJkiX4](https://youtu.be/SV6TqzJkiX4)
+
+2022    *Nautilus* in-lab performance by Carla Rees, DMU, March 2022 [https://youtu.be/XK-9eXCJxCg](https://youtu.be/XK-9eXCJxCg)
 
 
 
