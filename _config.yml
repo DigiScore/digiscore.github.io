@@ -21,24 +21,24 @@ author: The Digital Score
 
 navbar-links:
   About: "/pages/aboutus"
-  People: "people"
-  Research: "research"
+  People: "/pages/people"
+  Research: "/pages/research"
   Case Studies:
     - 1. Nautilus: "404"
     - 2.: "404"
     - 3.: "404"
     - 4.: "404"
-  Outputs:  "outputs"
+  Outputs:  "/pages/outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
-  Neoscore: "neoscore"
-  Podcast: "in_music"
+  Neoscore: "/pages/neoscore"
+  Podcast: "/pages/in_music"
   中国人:
     - Zhǔyè: "/ch/index.html"
     - Guānyú: "/ch/aboutus_ch"
     - Rénmen: "/ch/people_ch"
-    - Yánjiū: "research"
-    - Chǎn_chū: "outputs"
+    - Yánjiū: "/pages/research"
+    - Chǎn_chū: "/pages/outputs"
     - Neoscore: "/ch/neoscore_ch"
     - Bòkè: "/ch/in_music_ch"
 
