@@ -23,6 +23,7 @@ navbar-links:
   About: "/pages/aboutus"
   People: "people"
   Research: "research"
+  Case_Studies: "404"
   Outputs:  "outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
