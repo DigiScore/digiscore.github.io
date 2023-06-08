@@ -5,11 +5,11 @@ title: Digital Score Types
 
 ## Introduction
 
-There are many types of digital scores, but they all have one thing in common: *they communicate musical ideas using the creative potential of technology*. 
+There are many types of digital scores, but they all have one thing in common: *they communicate musical ideas using the creative potential of technology*. \
 We can consider the range of digital scores as a continuum ranging from relatively simple usage of digital screens to show images or animations, to more complicated systems involving AI and intelligent agents. 
-At points along this continuum the technology transforms what can be communicated, and shifts creativity: it has a profound effect upon musical ideas and music-making.
+At points along this continuum the technology transforms what can be communicated, and shifts creativity: it has a profound effect upon musical ideas and music-making.\
 In studying this range and analysing these shifts, I have defined a typology. This has been determined by significant step-changes in how a digital score affects musicking using the seven modalities as qualifying parameters. 
-The aim is to present a clear taxonomy of the nature of a broad range of digital scores so that it can be used to analyse, reflect, identify or inspire innovation and novel creative practices inside musicking. 
+The aim is to present a clear taxonomy of the nature of a broad range of digital scores so that it can be used to analyse, reflect, identify or inspire innovation and novel creative practices inside musicking. \
 The classification is sub-divided into three parts based on the type of relationships they stimulate inside musicking. These are:
 
 Part A - Referential Screen 
