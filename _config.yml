@@ -30,12 +30,12 @@ navbar-links:
   Case Studies:
     - 1. Nautilus: "/pages/nautilus"
     - 2. TENOR commissions 2022: "2022-10-05-DigiScore_TENOR22_commissions"
-    - 3. Digital Syzygies: "404"
-    - 4. Dejana Sekulic residency: "2022-10-11-Pathways_by_Dejana_Sekulic.md"
+    - 3. Digital Syzygies: "/pages/digital_syzygies"
+    - 4. Dejana Sekulic residency: "2022-10-11-Pathways_by_Dejana_Sekulic"
     - 5. The Australian Composers’ Residency in HfMT, Hamburg, Germany: "2023-04-25-Cat_Hope_Aus-comp"
-    - 6. Neoscore Competition: "404"
+    - 6. GuitaRPG - Neoscore Competition: "/pages/guitaRPG"
     - 7. TENOR commissions 2023: "404"
-    - 8. Jess+: "404"
+    - 8. Jess+: "/pages/jess+"
   Outputs:  "/pages/outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
