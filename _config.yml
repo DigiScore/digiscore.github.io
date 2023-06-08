@@ -24,7 +24,7 @@ navbar-links:
     - Intro: "/pages/aboutus"
     - Types: "/pages/typology"
     - 7 Modes: "/pages/seven_modalities"
-    - P word: "404"
+    - P word: "/pages/p-word"
   People: "/pages/people"
   Research: "/pages/research"
   Case Studies:
