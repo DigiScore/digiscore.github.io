@@ -9,7 +9,7 @@ cover-img: /assets/img/Nautilus_figure1.jpg
 
 Nautilus (2022) is an intermedia composition for bass flute, neural network and Unity game environment. It was created by Craig Vear, Adam Stephenson (games developer) and Carla Rees (performer). The piece was performed by Carla and a follow-on performance by Franziska Baumann. On an artistic level Nautilus is inspired by an imaginary deep-sea journey of a nautilus mollusc, as it navigates deep water trenches across the oceans. The music describes this journey with the bass flute and generative sound-design highlighting the topography of the oceans and vast openness of the depths. On a technical level, Nautilus used a Unity game engine as the main platform for the visual elements of the digital score, which included sea-bed imagery and sinking notes written on staves tied to anchors. The compositional process involved training a neural network on an initial improvisation by Carla Rees. This improvisation attempted to capture an interpretation of the artistic vision of the piece. It was then used to a) define note choices by training a neural network and b) provide short samples of sound design. In the final version, the Unity engine listens to Carla and makes judgments about what and when to generate a sound design, the behaviour and choices of the neural network was consolidated into the Unity programming as symbolic probabilities. 
 
-[Further details can be found here LINK] (../_posts/2022-01-27-Nautilus.md)
+Further details can be found here [LINK](../_posts/2022-01-27-Nautilus.md)
 
 
 ## Analysis (using the 7 modalities)
