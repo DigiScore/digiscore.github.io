@@ -18,7 +18,9 @@ title: Outputs
 
 ## Peer-reviewed published papers and articles
 
-2023    Vear, C., Morox, S., (2023) "The Digital Score: a review of research spanning 2022-23". Proceedings from TENOR Conference 2023, [https://www.tenor-conference.org/proceedings.html](https://www.tenor-conference.org/proceedings.html)
+2023    Benford, S., Hazzard, A., Vear, C., Webb, H., Chamberlain, A., Greenhalgh, C., Ramchurn, R., Marshall, J., (2023) "Five Provocations for a Mor Creative Trustworthy Autonomous System". Proceedings from trustworthy Autonomous Systems symposium, 2023.
+
+2023    Vear, C., Moroz, S., (2023) "The Digital Score: a review of research spanning 2022-23". Proceedings from TENOR Conference 2023, [https://www.tenor-conference.org/proceedings.html](https://www.tenor-conference.org/proceedings.html)
 
 2023    Vear, C., Rees, C., & Stephenson, A. (2023). "NAUTILUS: A CASE STUDY IN HOW A DIGITAL SCORE CAN TRANSFORM CREATIVITY". Tempo, 77(303), 33-42. doi:10.1017/S0040298222000791 [https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C](https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C)
 

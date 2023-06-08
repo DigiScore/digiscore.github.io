@@ -20,14 +20,17 @@ author: The Digital Score
 ###############################################
 
 navbar-links:
-  About: "/pages/aboutus"
+  About:
+    - Intro: "/pages/aboutus"
+    - Typology: "/pages/typology"
+    - Seven Modalities: "/pages/seven_modalities"
   People: "/pages/people"
   Research: "/pages/research"
   Case Studies:
-    - 1. Nautilus: "404"
-    - 2.: "404"
-    - 3.: "404"
-    - 4.: "404"
+    - 1. Nautilus: "/pages/nautilus"
+#    - 2.: "404"
+#    - 3.: "404"
+#    - 4.: "404"
   Outputs:  "/pages/outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
