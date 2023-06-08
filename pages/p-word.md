@@ -26,16 +26,16 @@ Not wanting to rewrite the whole of it here, it is important to understand what 
 There is, according to Ihde, a *First Phenomenology* which in the very next instance retreats into a *Second Phenomenology*. 
 The *First* is our immediate experience of some new phenomenon, say a game-engine score, 
 and how it shifts our “sense ratios” and “patterns of perception steadily and without any resistance” (McLuhan, 1964) [more about that here](../2022-01-17-The_Digital_Score_–_The_Medium_and_its_Message.md). 
-This sensation of the experience lasts for a brief instance before our conscious mind start to assign it names, expectations, bias, understanding, memories, labels, perspectives, subjectivity
+This sensation of the experience lasts for a brief instance before our conscious mind starts to assign it names, expectations, bias, understanding, memories, labels, perspectives, subjectivity
 which are characteristics of a *Second Phenomenology*.
 
 
-The *DigiScore* research is interested in investigating this *First Phenomenology* as best we can, using methods that help us examine the subjective experience of musicians as they negotiate digital score creativity. 
+The *DigiScore* research is interested in investigating this *First Phenomenology* as best we can, using methods that help us examine the experience of musicians as they negotiate digital score creativity. 
 We feel that a *First* phenomenological approach gets us closer to understanding what is really going on inside musicking, 
 and to a broader theory of digital score creativity and musicianship than individual subjective reflection can facilitate. 
 A *First Phenomenology* is naturally very difficult to define, capture, describe, as these are all traits of a *Second Phenomenology*, so we have established methods that enable us to reverse engineer (as best we can), 
 *Second Phenomenology* experience so that it may shine a light on the very instance of a *First Phenomenology*, 
-and ultimately on a more universal understanding of the creative potential of, and transformations through digital score musicking.
+and ultimately towards a more universal understanding of the creative potential of, and transformations through digital score musicking.
 
 
 Reference\

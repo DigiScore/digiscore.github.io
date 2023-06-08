@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Us
+cover-img: /assets/img/theory_banner.png
 ---
 
 {: .box-note}
