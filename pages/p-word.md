@@ -42,4 +42,4 @@ Reference\
 C. Small, *Musicking*, Middleton, CT: Wesleyan University Press, 1998, p.13\
 S. Emmerson, *Living Electronic Music*, London: Routledge 2007, p. 29\
 M. McLuhan, *Understanding Media: Extensions of Man*, New York: Routledge, 1964, p. 18\
-D. Ihde, *Listening and Voice: Phenomenologies of Sound*, New York: State University of New York Press, 2007\
+D. Ihde, *Listening and Voice: Phenomenologies of Sound*, New York: State University of New York Press, 2007
