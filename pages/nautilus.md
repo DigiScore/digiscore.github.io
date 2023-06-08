@@ -18,6 +18,7 @@ Further details can be found here [LINK](../_posts/2022-01-27-Nautilus.md)
 
 The music idea embedded in *Nautilus* is immediately communicated through the visual sense, specifically using a Unity game engine as a platform. Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated here by this digital score. The immediate phenomenon of experience evoked by this digital score is visual.
 
+
 2.	Material Affect
 
 The Unity game engine is primarily responsible for the affectual connections with the musicians. It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” and “patterns of perception steadily and without any resistance” (McLuhan, 1964):
@@ -39,7 +40,28 @@ ii.	To avoid, at all costs, engaging solely with the camera movement interactivi
 
 4.	Content
 
+The primary signals that convey meaning in *Nautilus* were:
+-	Falling notes on staves, their intensity of release and their spatial distribution, and the flashing lights that represented their anchors
+-	Kelp
+-	The sea-world design of sand and waves, and the floating specs moving about in the sea body
+-	The quality of the camera movement, and its physics
+-	The sound design anchoring (pardon the pun) the harmonic movement of the piece and its textural qualities
 
 
+5.	Language
 
-## Evaluation
+There were three modes of interpretation present in *Nautilus*:
+
+-	Iconic: the music notes on clef-less staffs offered some suggestion of specific note choices to be played. This was not didactic, and more an invitation to play, or stop playing.
+-	Sensory: the kelp and particles from inside the sea-world, and the pulsing anchor lights offered interpretative suggestions about what could be played. The Kelp was interpreted as a big gesture especially when the camera went through it, the particles suggested stochastic and rhythmic clusters, and the pulsing anchors operated as rhythmical conductors. Furthermore, the tempo of the game mechanics suggested a slow feel, and the spaciousness of the first part of the piece suggested a quiet dynamic. These all changed during the different phases of the composition.
+-	Arbitrary – The sound design worked in collaboration with the visual material to further control the decisions by the performers. This kept the performers within a narrow-range of decisions which served two purposes: first, conatin the improvisatory play within a fixed sound and harmic world, and second, to support the dramaturgical narrative construction of the performers. In short, a little bit of control (by the digital score) offered the musicians a degree of confidence that they were moving through the composition-world in an appropriate way, which enabled them to play more freely with the materials.
+
+
+6.	Feedback
+
+The feedback mechanism for *Nautilus* is metaphorical and relies on the performers constructing and adhering to, a subjective narrative that is refreshed in realtime by the visual materials and the sound design. 
+
+
+7.	Flow
+
+The flow of *Nautilus* was explicitly controlled by the Unity game engine. The sequencing of experience and the ball-park territory of what could, or should, be played at any given point, was presented as options by the engine as a combination of visual materials reinforced by the sound design. Elements of games mechanics – sequencing, dynamics, tempos, feel, density etc – were structured through the duration so as to provide the performers with clear territories with which to navigate the piece. A further analysis can be found [HERE](../_posts/2022-01-27-Nautilus.md)
