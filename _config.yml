@@ -22,8 +22,8 @@ author: The Digital Score
 navbar-links:
   About:
     - Intro: "/pages/aboutus"
-    - Typology: "/pages/typology"
-    - Seven Modalities: "/pages/seven_modalities"
+    - Types: "/pages/typology"
+    - 7 Modalities: "/pages/seven_modalities"
   People: "/pages/people"
   Research: "/pages/research"
   Case Studies:
