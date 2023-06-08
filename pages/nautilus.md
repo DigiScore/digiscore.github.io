@@ -12,14 +12,13 @@ Nautilus (2022) is an intermedia composition for bass flute, neural network and 
 Further details can be found here [LINK](../_posts/2022-01-27-Nautilus.md)
 
 
-## Analysis (using the 7 modalities)
+## Analysis (using the 7 modalities - [LINK](/seven_modalities.md))
 
-1.	Interface Object
+**Interface Object**
 
 The music idea embedded in *Nautilus* is immediately communicated through the visual sense, specifically using a Unity game engine as a platform. Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated here by this digital score. The immediate phenomenon of experience evoked by this digital score is visual.
 
-
-2.	Material Affect
+**Material Affect**
 
 The Unity game engine is primarily responsible for the affectual connections with the musicians. It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” and “patterns of perception steadily and without any resistance” (McLuhan, 1964):
 
@@ -30,15 +29,14 @@ The Unity game engine is primarily responsible for the affectual connections wit
 -	The moving camera, that appeared responsive to sound, and its general quality of movement (structured by underwater physics) also reinforced the immediate experience of this digital score. 
 -	The sound design enhanced this immediate visual world. It was designed to emanate from within this world, and was implemented in such a way that it prioritised the visual material by adding additional context. This, using Chion notion of the audio-visual contract – reinforced the patterns of perception rather than confusing them, and enhanced the “cultural layer” of the music-world.
 
-
-3.	Goal
+**Goal**
 
 The goal of this digital score is two-fold:
 i.	To paint a sound picture of this underwater world. This is free, open and flowing and was explained in detail through the development process, in the “performers instructions” and as an artistic statement. There were also 3 sections of contrasting behaviours and 3 transitional sections.
 ii.	To avoid, at all costs, engaging solely with the camera movement interactivity. The movement of the camera was not the goal of the score, but as a secondary concern. If the performer were to focus solely on making it move, then it would have entered into the world of game-play. But the instructions to the performer were clearly pointing to remaining in a music-play world.
 
 
-4.	Content
+**Content**
 
 The primary signals that convey meaning in *Nautilus* were:
 -	Falling notes on staves, their intensity of release and their spatial distribution, and the flashing lights that represented their anchors
@@ -48,7 +46,7 @@ The primary signals that convey meaning in *Nautilus* were:
 -	The sound design anchoring (pardon the pun) the harmonic movement of the piece and its textural qualities
 
 
-5.	Language
+**Language**
 
 There were three modes of interpretation present in *Nautilus*:
 
@@ -57,11 +55,11 @@ There were three modes of interpretation present in *Nautilus*:
 -	Arbitrary – The sound design worked in collaboration with the visual material to further control the decisions by the performers. This kept the performers within a narrow-range of decisions which served two purposes: first, conatin the improvisatory play within a fixed sound and harmic world, and second, to support the dramaturgical narrative construction of the performers. In short, a little bit of control (by the digital score) offered the musicians a degree of confidence that they were moving through the composition-world in an appropriate way, which enabled them to play more freely with the materials.
 
 
-6.	Feedback
+**Feedback**
 
 The feedback mechanism for *Nautilus* is metaphorical and relies on the performers constructing and adhering to, a subjective narrative that is refreshed in realtime by the visual materials and the sound design. 
 
 
-7.	Flow
+**Flow**
 
 The flow of *Nautilus* was explicitly controlled by the Unity game engine. The sequencing of experience and the ball-park territory of what could, or should, be played at any given point, was presented as options by the engine as a combination of visual materials reinforced by the sound design. Elements of games mechanics – sequencing, dynamics, tempos, feel, density etc – were structured through the duration so as to provide the performers with clear territories with which to navigate the piece. A further analysis can be found [HERE](../_posts/2022-01-27-Nautilus.md)
