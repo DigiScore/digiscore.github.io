@@ -1,6 +1,7 @@
 ---
 layout: page
 title: People
+cover-img: /assets/img/outputs_banner.png
 ---
 
 ## Our Team:

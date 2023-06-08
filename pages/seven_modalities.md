@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seven Modalities
+cover-img: /assets/img/theory_banner.png
 ---
 
 The seven modalities framework can help to define how different digital scores exist, are experienced or expressed. 

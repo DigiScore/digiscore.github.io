@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Outputs
+cover-img: /assets/img/outputs_banner.png
 ---
 
 

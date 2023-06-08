@@ -1,6 +1,7 @@
 ---
 layout: page
 title: In Music Podcast
+cover-img: /assets/img/impact_banner.png
 ---
 
 ## About
