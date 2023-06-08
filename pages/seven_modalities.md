@@ -6,7 +6,7 @@ title: Seven Modalities
 The seven modalities framework can help to define how different digital scores exist, are experienced or expressed. 
 These modalities can offer ways of describing, analysing and evaluating digital score composition and performance, and as a model for practical exploration of the digital score. 
 
-The seven modalities is built upon the two-way phenomenon of:
+The seven modalities is built upon the two-way phenomenology of:
 
 - *taking-in* – in the sense that musicians make connections through the technology as they reach out, suggest, offer and shift with their presence,
 - *taken-into* – that the technology can establish a world of creative possibilities for exploration.

@@ -23,7 +23,7 @@ navbar-links:
   About:
     - Intro: "/pages/aboutus"
     - Types: "/pages/typology"
-    - 7 Modalities: "/pages/seven_modalities"
+    - 7 Modes: "/pages/seven_modalities"
   People: "/pages/people"
   Research: "/pages/research"
   Case Studies:
