@@ -29,8 +29,8 @@ navbar-links:
   Research: "/pages/research"
   Case Studies:
     - 1. Nautilus: "/pages/nautilus"
-#    - 2.: "404"
-#    - 3.: "404"
+    - 2. TENOR commissions 2022: "../_posts/2022-10-05-DigiScore_TENOR22_commissions.md"
+    - 3. Digital Syzygies: "404"
 #    - 4.: "404"
   Outputs:  "/pages/outputs"
   Impact:
