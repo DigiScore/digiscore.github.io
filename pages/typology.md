@@ -14,20 +14,20 @@ The aim is to present a clear taxonomy of the nature of a broad range of digital
 The classification is sub-divided into three parts based on the type of relationships they stimulate inside musicking. These are:
 
 Part A - Referential Screen 
-1.	Augmented Page
-2.	Technological Conductor
-3.	Collaborating Score
+- 1- Augmented Page
+- 2- Technological Conductor
+- 3- Collaborating Score
 
 Part B - Interactive Systems
-4.	Animated Score
-5.	System as Score
-6.	Creative System
+- 4- Animated Score
+- 5- System as Score
+- 6- Creative System
 
 Part C - Co-operative Code 
-7.	Performative Code and Hacked Bodies
-8.	Gesamtkomposition
-9.	Networked Ensembles ~ Connected Scores
-10.	Living Score
+- 7- Performative Code and Hacked Bodies
+- 8- Gesamtkomposition
+- 9- Networked Ensembles ~ Connected Scores
+- 10- Living Score
 
 
 ### Part A - Referential Screen 

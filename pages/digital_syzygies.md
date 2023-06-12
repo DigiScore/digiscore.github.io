@@ -5,7 +5,7 @@ cover-img: /assets/img/hugill_eeg.png
 ---
 
 ## Design (refer to typoology [LINK](/typeology.md))
-
+**Type:** *7- Performative Code and Hacked Bodies.* The digital score and its embedded musician idea is defined by the interactivity between the physical movements of a musician, the data streams from tracking technology and the machine’s response.
 
 
 ## About
