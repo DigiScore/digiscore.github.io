@@ -4,6 +4,9 @@ title: Digital Syzygies
 cover-img: /assets/img/hugill_eeg.png
 ---
 
+## Design (refer to typoology [LINK](/typeology.md))
+
+
 
 ## About
 *Digital Syzygies* ia a digital score platform for shared creativity with d/Deaf and autistic musicians, 
@@ -17,7 +20,7 @@ This digital score allowed individual musicians to ‘plug’ into a composition
 files into music. The results are a shjiftng collage of different sounds. This could then be either recorded and shared amongst the team, released as an album, or presented in a 
 live performance environment with an instrumentalist reacting to the soundscape and optional visual material.
 
-Further details [HERE](2022-10-31-Digital_Syzygies/)
+Further details [HERE](../_posts/2022-10-31-Digital_Syzygies.md/)
 
 
 ## Analysis (using the 7 modalities - [LINK](/seven_modalities.md))
