@@ -56,7 +56,8 @@ The primary signals that convey meaning in *GuitaRPG* are:
 **Language**
 The language of this digital score is either iconic and sensory with the performer able to make decisions about which
 on-the-fly depending on on-sreen density and abstraction, and their ongoing dramaturgy of the piece.
-Iconic interpretations rely on the canonical semiotics of Western European Art Music and the traditional notation system.
+Iconic interpretations rely on the canonical semiotics of Western European Art Music and the traditional notation system,
+and the use of guitar tablature and chord diagrams.
 Sensory interpretations are informed by this, but are freed from rhetoric when the performer wishes, or needs too because of density and complexity.
 An additional language is the realtime response from the live audio processing. This helps the performer to make decisions about placement, timing, duration
 as well as iconic or sensory modes.
