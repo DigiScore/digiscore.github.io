@@ -48,10 +48,13 @@ the notation that each leg of the maze presents on the screen.
 
 
 **Content**
+The primary signals that convey meaning in *GuitaRPG* are:
+- signs and shapes generated using the neoscore notation software
+- the pre-defined effects controlling the live processing of sound
 
 
 **Language**
-
+The language of this digital score is either iconic and sensory with the 
 
 **Feedback**
 

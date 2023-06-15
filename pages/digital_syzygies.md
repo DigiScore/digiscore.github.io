@@ -48,8 +48,8 @@ and “patterns of perception steadily and without any resistance” (McLuhan, 1
 The goal of *Digital Syzygies* is split between the developmental construction phase, and the realisation event. In the developmental construction phase
 the goal for the musician is to select sound sources that are meaningful to them based on each of the six EEG performance metrics (above).This embeds
 a individualised sense of ownership with this digital score, and aesthetically contributes to how the work will feel (to them) in the realisation event. 
-In the realisation event, each participating musician should concentrate on the emerging soundscape, and be taken on a journey that they are partly constructing and
-also unable to control.
+In the realisation event, each participating musician should concentrate on the emerging soundscape, and be taken on a journey that they are partly constructing 
+with their unconscious mind and yet are unable to control totally because of the multiple data streams entering the system from other participants.
 
 
 **Content**
@@ -57,12 +57,12 @@ The primary signals that convey meaning in *Digital Syzygies* are:
 - the sound collage
 - the decisions of the APP based on the EEG inputs
 - the visualisation of the individuals EEG streams seperated into the six performance metrics
-- the presence of the opther musicians either in the room or over telematic network (e.g. Zoom)
+- the presence of the other musicians either in the room or over telematic network (e.g. Zoom)
 
 
 **Language**
 The language of this digital score is unusual as the individuals contribution is responsive to the decisions of the networked APP,
-as opposed to interpreting the semiotic codes of notation or visual material. The resulting sound composition/ collage id the primary language
+as opposed to interpreting the semiotic codes of notation or visual material. The resulting sound composition/ collage is the primary language
 that affects such responses, and this evokes both an affectual feeling (primary) and intellectual chatter (secondary) as the 
 individual attempts to rationalise the decisions of the APP. 
 
@@ -76,4 +76,8 @@ ecology of all the agents involved: human musicians, the library construction, t
 
 **Flow**
 The flow of this digital score is unlike other music-performance scenarios. The flow of this one is like being taken on a journey in which 
-the individual has influence but not control. Although this may seem passive, full engagement is critical to get a true interpretation of the piece.
+the individual has influence but not control. It would be easy to underestimate to extent to which the sub-conscious mind has control here,
+and what makes this digital score autism friendly: the unconscious mind is "freed to control the course of events and to respond as it will. The role of 
+the conscious mind is a kind of bemused verification process as part of the feedback.  
+But it makes no difference to what happens in the music" (Andrew Hugill). Although this may seem passive, it is quite the opposite 
+all the participants "shared the sense of our minds making clear decisions independent of what we were feeling or doing."
