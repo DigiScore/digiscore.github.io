@@ -54,10 +54,20 @@ The primary signals that convey meaning in *GuitaRPG* are:
 
 
 **Language**
-The language of this digital score is either iconic and sensory with the 
+The language of this digital score is either iconic and sensory with the performer able to make decisions about which
+on-the-fly depending on on-sreen density and abstraction, and their ongoing dramaturgy of the piece.
+Iconic interpretations rely on the canonical semiotics of Western European Art Music and the traditional notation system.
+Sensory interpretations are informed by this, but are freed from rhetoric when the performer wishes, or needs too because of density and complexity.
+An additional language is the realtime response from the live audio processing. This helps the performer to make decisions about placement, timing, duration
+as well as iconic or sensory modes.
+
 
 **Feedback**
-
+The animated nature of the maze offers constant reference to the position of the score. The sound design of the live processing offers 
+guidence to the type of interpretation, and also grounds the performance in the sound-world defined by the composer.
 
 **Flow**
-
+Flow in *GuitaRPG* is embedded within its gamified nature. Like an open-world game, the map in the top corner offers a global view of the music-world, 
+with specific details only apparent when the player ventures (or is taken) into one of its branches. And like an open-world game
+the flow of engagement is infused with a spirit of adventure, where abstract chords, multiple dots, obscure guitar notation
+and unusual coloured shapes confront the voyager and demands to be made into meaning.
