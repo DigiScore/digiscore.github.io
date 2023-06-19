@@ -81,8 +81,20 @@ There are three modes of interpretation in *Jess+*:
 
 **Feedback**
 
-The human musicians are
+Feedback is generated in the perceived listening behaviour of the AI and is the primary connection between humans and the AI score.
+This is not a didactic relationship of say an obedient dog, or jumping insect when confronted with a sound, but a balance
+between perceived connections and autonomy. This balance is critical in maintaining the connections of trust and engagement, and also offers
+elements of surprise, mischief and novelty. If this was felt to be too close-coupled then the musicians became bored by the 
+predictability or directness of responses; too free and the bonds of togetherness were weakened and the shared
+sense of the *dance* were lost.
 
 
 **Flow**
 
+The human musicians' flow in this digital score is within the inter-connected *dance* between them and the robotic-arm. 
+This is maintained by the movements of the robotic arm and
+the balance between autonomy and responsiveness. At times the robot-arm appears to be listening and responding, but at
+others it appears to be doing it's own thing in parrallel to what else is happening (like humans do when they improvise. 
+This latter response is a form of concurrent creativity (like kids playing together, but on individual tasks). 
+The balance between explicit responsiveness and related concurrency is finely tuned, with the 
+ultimate aim of cementing the bonds of togetherness and reinforcing the shared sense of inter-connectiveness of the whole extended ensemble.
