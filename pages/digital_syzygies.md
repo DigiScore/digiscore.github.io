@@ -29,7 +29,8 @@ Further details [HERE](../_posts/2022-10-31-Digital_Syzygies.md/)
 The music idea embedded in *Digital Syzygies* is immediately communicated through the sense of interconnectivity 
 between the EEG headset wearing individual and to both the Brainwave-to-Music app (APP from hereafter) and the network of other EEG headset wearing musiciansd.
 Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated here by this digital score, but not 
-the same stuff as with a traditional music ensemble. The immediate phenomenon of experience evoked by this digital score is through the 
+the same stuff as with a traditional music ensemble, especially for those musicians who are D/deaf. 
+The immediate phenomenon of experience evoked by this digital score is through the 
 interconnetcions between the individual and the network.
 
 
