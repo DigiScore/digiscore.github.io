@@ -27,7 +27,6 @@ navbar-links:
     - 7 Modes: "/pages/seven_modalities"
     - P word: "/pages/p-word"
   People: "/pages/people"
-  Research: "/pages/research"
   Case Studies:
     - 1. Nautilus: "/pages/nautilus"
     - 2. TENOR commissions 2022: "2022-10-05-DigiScore_TENOR22_commissions"
@@ -37,6 +36,7 @@ navbar-links:
     - 6. GuitaRPG - Neoscore Competition: "/pages/guitaRPG"
     - 7. TENOR commissions 2023: "404"
     - 8. Jess+: "/pages/jess+"
+  Research: "/pages/research"
   Outputs:  "/pages/outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
