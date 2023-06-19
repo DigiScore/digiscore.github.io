@@ -1,8 +1,7 @@
 ---
 layout: page
 title: GuitaRPG - Neoscore competition winner 2023
-
-[//]: # (cover-img: /assets/img/GuitaRPG.jpg)
+cover-img: /assets/img/GuitaRPG.jpg
 ---
 
 ## Design (refer to typology [LINK](/typology.md))

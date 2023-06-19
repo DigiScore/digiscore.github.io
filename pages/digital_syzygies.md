@@ -5,7 +5,8 @@ cover-img: /assets/img/hugill_eeg.png
 ---
 
 ## Design (refer to typology [LINK](/typology.md))
-**Type:** *7- Performative Code and Hacked Bodies.* The digital score and its embedded musician idea is defined by the interactivity between the physical movements of a musician, the data streams from tracking technology and the machine’s response.
+**Type:** *7- Performative Code and Hacked Bodies.* The digital score and its embedded musician idea is defined by the 
+interactivity between the physical movements of a musician, the data streams from tracking technology and the machine’s response.
 
 
 ## About
@@ -24,6 +25,7 @@ Further details [HERE](../_posts/2022-10-31-Digital_Syzygies.md/)
 
 
 ## Analysis (using the 7 modalities - [LINK](/seven_modalities.md))
+
 
 **Interface Object**
 
