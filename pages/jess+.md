@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Jess+
-
-[//]: # (cover-img: /assets/img/jess_plus.jpg)
+cover-img: /assets/img/jess_plus.jpg
 ---
 
 

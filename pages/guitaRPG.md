@@ -19,9 +19,9 @@ The more times a performer encounters a particular technique, the more they ‘l
 This piece was commissioned by Craig Vear and the Digiscore research project, and created using the neoscore python library, 
 developed principally by Andrew Yoon.
 
-(Link to Video)[https://www.youtube.com/watch?v=0yy3HrfCsSE]
+[Link to Video](https://www.youtube.com/watch?v=0yy3HrfCsSE)
 
-(Link to Neoscore Page)[/neoscore.md]
+[Link to Neoscore Page](/neoscore.md)
 
 
 ## Analysis (using the 7 modalities - [LINK](/seven_modalities.md))
