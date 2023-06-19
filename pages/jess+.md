@@ -29,33 +29,59 @@ This has flattened any hierarchy through movement and enhanced the sense of toge
 **Interface Object**
 
 The music idea embedded in *Jess+* is immediately communicated through the visual sense, 
-specifically through affectual, empathetic and symbolic movement of the robotic arm. 
+specifically through affectual, empathetic and symbolic *dance* movement of the robotic arm. 
 Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated 
 here by this digital score. The immediate phenomenon of experience evoked by this digital score is visual.
 
 
 **Material Affect**
 
-The sense of being part of a network is primarily responsible for the affectual connections with the musicians. 
-It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” 
+The sense of being part of a *dance* between the whole ensemble (including the AI/ robot arm) is primarily responsible 
+for the affectual connections with the musicians. 
+This collective inter-connectivity reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” 
 and “patterns of perception steadily and without any resistance” (McLuhan, 1964):
 
 - 3-D movement of the robot arm (inducing affectual, empathetic and symbolic responses)
-- agental persona of the robot arm (a sort of postive and affirming anthropomorphisation welcoming the system into the ensemble as an equal)
+- agental persona of the robot arm (a sort of positive and affirming anthropomorphisation welcoming the system into the ensemble as an equal)
 - memories and trust embedded into the behaviour of the AI through long-term agile dev process
 - autonomus and ensemble behaviours chosen by the AI
 
 
 **Goal**
 
+The goal of this digital score is to freely interpret the movement of the robot arm as affectual, empathetic and symbolic
+instructions with which to respond with a sound. There are two core inspiration points tha underpin such responses which form part 
+of a background context:
+
+- first, is the performance practice of interpreting Cardew's graphic score *Treatise* (1963-67)
+- second, the performance practice of interpreting Wolff's *For 1, 2, or 3 People* (1964)
+
+As such, the musicians must enter into a metaphorical dance with the ongoing sound they are making as a collective and
+being guided by the gestures of the robot arm. The goal is to allow its movements to stimulate a meaningful musical
+response within the here-and-now of musicking.
+
 
 **Content**
+
+The content of *Jess+* is:
+- fixed library pre-defined movement gestures
+- the balance of behaviour symbolically contained in the AI, between predictable and unpredictable responses
+- the speed and acceleration of the robotic arm movements
+- the relationships between previous movements and perceived cohesiveness of gestures 
+- inked marks on a page (if using pen-mode)
 
 
 **Language**
 
+There are three modes of interpretation in *Jess+*:
+
+- Iconic - through the fixed gestures developed and embedded into the AI code through agile development and informed by the two inspirations points (see goal)
+- Sensory - through empathetic and affectual responses to gestures that could be interpreted as either a musical-conductor (such as those of lead violinist as they coordinate a string quartet), or as a dance-improvisor (responding in realtime to the music, and inspiring musical reactions)
+
 
 **Feedback**
+
+The human musicians are
 
 
 **Flow**
