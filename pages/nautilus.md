@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Nautilus
+tags: case_study
 cover-img: /assets/img/Nautilus_figure1.jpg
 ---
 

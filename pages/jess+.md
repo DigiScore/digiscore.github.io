@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Jess+
+tags: case_study
 cover-img: /assets/img/jess_plus.jpg
 ---
 

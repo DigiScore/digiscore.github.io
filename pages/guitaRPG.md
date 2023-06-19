@@ -1,6 +1,7 @@
 ---
 layout: page
 title: GuitaRPG - Neoscore competition winner 2023
+tags: case_study
 cover-img: /assets/img/GuitaRPG.jpg
 ---
 

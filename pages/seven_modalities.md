@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Seven Modalities
+tags: theory
 cover-img: /assets/img/theory_banner.png
 ---
 

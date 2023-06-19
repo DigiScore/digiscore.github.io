@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Digital Syzygies
+tags: case_study
 cover-img: /assets/img/hugill_eeg.png
 ---
 

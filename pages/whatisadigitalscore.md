@@ -1,6 +1,7 @@
 ---
 layout: page
 title: What Is A Digital Score?
+tags: theory
 cover-img: /assets/img/digiscore_book_cover.jpg
 ---
 

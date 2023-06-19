@@ -2,6 +2,7 @@
 layout: page
 title: P-Word
 subtitle: And the P-word is phenomenology.
+tags: theory
 cover-img: /assets/img/p-word.jpg
 ---
 

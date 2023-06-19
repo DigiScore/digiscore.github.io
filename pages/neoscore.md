@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Neoscore
+tags: output
 cover-img: /assets/img/neoscore.png
 
 ---

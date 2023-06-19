@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Digital Score Types
+tags: theory
 cover-img: /assets/img/theory_banner.png
 ---
 
