@@ -9,6 +9,11 @@ cover-img: /assets/img/digiscore_book_cover.jpg
 </div></figure>
 
 
+**What is a digital score? A working definition**
+
+A digital score is *a communications interface of musical ideas between musicians utilizing the creative potential of digital technology.* 
+
+
 **What is a digital score? An explanation for second-graders**
 
 A digital score is the next evolutionary step of the music score. However instead of being limited by a piece of paper to 

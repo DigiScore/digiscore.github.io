@@ -15,7 +15,7 @@ offering differing degrees of felt co-operation, presence and autonomy.
 *Jess+* is an intelligent digital score system for shared creativity with a mixed ensemble of able-bodied and disabled musicians. 
 The digital score uses AI and a robotic arm to enhance the real-time dynamic engagement of the disabled musician with the 
 able-bodied musicians allowing her to thrive in a realtime communication beyond what has so far been possible.
-AI and robotic technologies are used to extend the crea-tivity of disabled musicians. In a realtime music feedback loop, 
+AI and robotic technologies are used to extend the creativity of disabled musicians. In a realtime music feedback loop, 
 a disabled musician (A) is “plugged into” a creative AI robot arm that draws graphic music notation which is performed 
 live by other musicians (B). The creative AI and the disabled musician work as an extended system, with each feeding the other: 
 the AI reads the real-time brainwaves and arousal data of the human (A), and (A) feels the embodied behaviour of the robot arm. 
@@ -50,7 +50,7 @@ and “patterns of perception steadily and without any resistance” (McLuhan, 1
 **Goal**
 
 The goal of this digital score is to freely interpret the movement of the robot arm as affectual, empathetic and symbolic
-instructions with which to respond with a sound. There are two core inspiration points tha underpin such responses which form part 
+instructions with which to respond with a sound. There are two core inspiration points that underpin such responses which form part 
 of a background context:
 
 - first, is the performance practice of interpreting Cardew's graphic score *Treatise* (1963-67)
@@ -73,7 +73,7 @@ The content of *Jess+* is:
 
 **Language**
 
-There are three modes of interpretation in *Jess+*:
+There are two modes of interpretation in *Jess+*:
 
 - Iconic - through the fixed gestures developed and embedded into the AI code through agile development and informed by the two inspirations points (see goal)
 - Sensory - through empathetic and affectual responses to gestures that could be interpreted as either a musical-conductor (such as those of lead violinist as they coordinate a string quartet), or as a dance-improvisor (responding in realtime to the music, and inspiring musical reactions)
@@ -94,7 +94,7 @@ sense of the *dance* were lost.
 The human musicians' flow in this digital score is within the inter-connected *dance* between them and the robotic-arm. 
 This is maintained by the movements of the robotic arm and
 the balance between autonomy and responsiveness. At times the robot-arm appears to be listening and responding, but at
-others it appears to be doing it's own thing in parrallel to what else is happening (like humans do when they improvise. 
+others it appears to be doing it's own thing in parrallel to what else is happening (like humans can do when they improvise). 
 This latter response is a form of concurrent creativity (like kids playing together, but on individual tasks). 
 The balance between explicit responsiveness and related concurrency is finely tuned, with the 
 ultimate aim of cementing the bonds of togetherness and reinforcing the shared sense of inter-connectiveness of the whole extended ensemble.
