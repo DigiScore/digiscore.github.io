@@ -17,7 +17,7 @@ A specially designed Brainwave-to-Music app allowed the brains of the musicians 
 subject to responses measured by six EEG performance metrics: engagement, excitement, focus, interest, relaxation, stress. 
 Each musician contributed samples of sound to a shared library catagorised into the six EEG performance metrics.
 This digital score allowed individual musicians to ‘plug’ into a composition using the brain reader, and in realtime control the libraries of self-created sound
-files into music. The results are a shjiftng collage of different sounds. This could then be either recorded and shared amongst the team, released as an album, or presented in a 
+files into music. The results are a shifting collage of different sounds. This could then be either recorded and shared amongst the team, released as an album, or presented in a 
 live performance environment with an instrumentalist reacting to the soundscape and optional visual material.
 
 Further details [HERE](../_posts/2022-10-31-Digital_Syzygies.md/)
