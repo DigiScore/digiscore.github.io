@@ -22,6 +22,7 @@ author: The Digital Score
 navbar-links:
   About:
     - Intro: "/pages/aboutus"
+    - Definition: "/pages/whatisadigitalscore"
     - Types: "/pages/typology"
     - 7 Modes: "/pages/seven_modalities"
     - P word: "/pages/p-word"

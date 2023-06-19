@@ -29,7 +29,7 @@ This has flattened any hierarchy through movement and enhanced the sense of toge
 **Interface Object**
 
 The music idea embedded in *Jess+* is immediately communicated through the visual sense, 
-specifically through empathetic and symbolic movement of the robotic arm. 
+specifically through affectual, empathetic and symbolic movement of the robotic arm. 
 Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated 
 here by this digital score. The immediate phenomenon of experience evoked by this digital score is visual.
 
@@ -39,6 +39,11 @@ here by this digital score. The immediate phenomenon of experience evoked by thi
 The sense of being part of a network is primarily responsible for the affectual connections with the musicians. 
 It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” 
 and “patterns of perception steadily and without any resistance” (McLuhan, 1964):
+
+- 3-D movement of the robot arm (inducing affectual, empathetic and symbolic responses)
+- agental persona of the robot arm (a sort of postive and affirming anthropomorphisation welcoming the system into the ensemble as an equal)
+- memories and trust embedded into the behaviour of the AI through long-term agile dev process
+- autonomus and ensemble behaviours chosen by the AI
 
 
 **Goal**
