@@ -19,11 +19,16 @@ Further details can be found here [LINK](../_posts/2022-01-27-Nautilus.md)
 
 **Interface Object**
 
-The music idea embedded in *Nautilus* is immediately communicated through the visual sense, specifically using a Unity game engine as a platform. Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated here by this digital score. The immediate phenomenon of experience evoked by this digital score is visual.
+The music idea embedded in *Nautilus* is immediately communicated through the visual sense, 
+specifically using a Unity game engine as a platform. 
+Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated 
+here by this digital score. The immediate phenomenon of experience evoked by this digital score is visual.
 
 **Material Affect**
 
-The Unity game engine is primarily responsible for the affectual connections with the musicians. It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” and “patterns of perception steadily and without any resistance” (McLuhan, 1964):
+The Unity game engine is primarily responsible for the affectual connections with the musicians. 
+It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” and 
+“patterns of perception steadily and without any resistance” (McLuhan, 1964):
 
 -	The nature of a game engine evokes an immediate sense of play, it suggests a mode of engagement that is ludic and playful. The quality of the graphics, the design of assets and feel of camera animation all reinforce this. Even though Carla and Franziska were not gamers, they are aware of gaming and its modes of engagement. Furthermore, the designers (Craig and Adam) are gamers and have been for many years (Craig for over 40 years!) and so their experiences have been embedded into their visual design of the design mechanics of this digital score.
 -	The immediate experience of being drawn into this platform was one of exploration. It was an open world design, and this was perceived by both performers. This structured a way of thinking and an approach to their interpretations. This was a core intention of the designers.

@@ -27,12 +27,14 @@ developed principally by Andrew Yoon.
 ## Analysis (using the 7 modalities - [LINK](/seven_modalities.md))
 
 **Interface Object**
+
 The music idea embedded in *GuitaRPG* is immediately communicated through the visual sense, specifically using *neoscore* software as a game design. 
 Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated here by this digital score through
 the live processing of the guitar. The immediate phenomenon of experience evoked by this digital score is visual.
 
 
 **Material Affect**
+
 The visual game design is primarily responsible for the affectual connections with the musician. 
 It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” and 
 “patterns of perception steadily and without any resistance” (McLuhan, 1964):
@@ -43,17 +45,20 @@ It reaches out and draws in relationships through the following aspects, and in 
 
 
 **Goal**
+
 The goal of this digital score is to follow the realtime generated path through the maze, and to play (as best as possible) 
 the notation that each leg of the maze presents on the screen.
 
 
 **Content**
+
 The primary signals that convey meaning in *GuitaRPG* are:
 - signs and shapes generated using the neoscore notation software
 - the pre-defined effects controlling the live processing of sound
 
 
 **Language**
+
 The language of this digital score is either iconic and sensory with the performer able to make decisions about which
 on-the-fly depending on on-sreen density and abstraction, and their ongoing dramaturgy of the piece.
 Iconic interpretations rely on the canonical semiotics of Western European Art Music and the traditional notation system,
@@ -64,10 +69,13 @@ as well as iconic or sensory modes.
 
 
 **Feedback**
+
 The animated nature of the maze offers constant reference to the position of the score. The sound design of the live processing offers 
 guidence to the type of interpretation, and also grounds the performance in the sound-world defined by the composer.
 
+
 **Flow**
+
 Flow in *GuitaRPG* is embedded within its gamified nature. Like an open-world game, the map in the top corner offers a global view of the music-world, 
 with specific details only apparent when the player ventures (or is taken) into one of its branches. And like an open-world game
 the flow of engagement is infused with a spirit of adventure, where abstract chords, multiple dots, obscure guitar notation

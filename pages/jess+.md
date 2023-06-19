@@ -28,8 +28,17 @@ This has flattened any hierarchy through movement and enhanced the sense of toge
 
 **Interface Object**
 
+The music idea embedded in *Jess+* is immediately communicated through the visual sense, 
+specifically through empathetic and symbolic movement of the robotic arm. 
+Listening is always present in music-making, and a certain amount of supporting/ secondary material is communicated 
+here by this digital score. The immediate phenomenon of experience evoked by this digital score is visual.
+
 
 **Material Affect**
+
+The sense of being part of a network is primarily responsible for the affectual connections with the musicians. 
+It reaches out and draws in relationships through the following aspects, and in doing so shifts the “sense ratios” 
+and “patterns of perception steadily and without any resistance” (McLuhan, 1964):
 
 
 **Goal**
