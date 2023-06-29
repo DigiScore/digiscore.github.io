@@ -6,13 +6,20 @@ thumbnail-img: /assets/img/illinois.png
 tags: [roadshow, digital_musicianship]
 ---
 
+
 # HEADLINES 
 
-**- current music students are predominantly non-binary in terms of the composer-performer divide. Although some do identify themselves as one over the other.** 
-**- they are media-curious, and use a range of media and disciplines in their music making**
-**- there is a heightened awareness of coding and AI skills in the current and future workplace, and music students are seeking these skills. As it happens music is a rich space with which to explore these skills.** 
-**- Musical plurality leading to mixed musical identities which draw on many different cultural influences and therefore reflect the types of digital skills those students are pursuing, which also ends up being mixed.** 
 
+**- current music students are predominantly non-binary in terms of the composer-performer divide. Although some do identify themselves as one over the other.**
+
+**- they are media-curious, and use a range of media and disciplines in their music making**
+
+**- there is a heightened awareness of coding and AI skills in the current and future workplace, and music students are seeking these skills. As it happens music is a rich space with which to explore these skills.**
+
+**- Musical plurality leading to mixed musical identities which draw on different cultural influences and therefore reflect the types of digital skills those students are pursuing, which also ends up being mixed.** 
+
+
+# Findings
 
 At the start of 2023, DigiScore visited the US and North America to evaluate higher education music students’ wants and needs from digital musicianship education through engagement with digital scores. This work is part of the DigiScore research project focusing on the analysis of case studies and research in music departments worldwide known as “Roadshow”.  
 
@@ -23,7 +30,7 @@ The tour gathered data from the point of view of 'a person’s ability to percei
 - Perception and awareness of (digital) music: how do musicians actively analyse digital score music, and what interpretations are they generating when making music? 
 
 
-# Method 
+## Method 
 
 We conducted two types of polls, the first was embedded Mentimeter slides that allowed the students to engage and contribute to the discussion within a 90-minute lecture. There were also two online survey questionnaires made for the roadshow tour, one addressing the students who would attend the DigiScore lecture and another to collect responses from the students participating in the workshop with digital scores. Overall, 60+ students engaged with the in-lecture Mentimeter polls, from which 50 completed the online forms.  
 
