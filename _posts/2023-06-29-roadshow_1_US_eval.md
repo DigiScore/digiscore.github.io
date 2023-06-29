@@ -8,10 +8,10 @@ tags: [roadshow, digital_musicianship]
 
 # HEADLINES 
 
-- current music students are predominantly non-binary in terms of the composer-performer divide. Although some do identify themselves as one over the other. 
-- they are media-curious, and use a range of media and disciplines in their music making 
-- there is a heightened awareness of coding and AI skills in the current and future workplace, and music students are seeking these skills. As it happens music is a rich space with which to explore these skills. 
-- Musical plurality leading to mixed musical identities which draw on many different cultural influences and therefore reflect the types of digital skills those students are pursuing, which also ends up being mixed. 
+**- current music students are predominantly non-binary in terms of the composer-performer divide. Although some do identify themselves as one over the other.** 
+**- they are media-curious, and use a range of media and disciplines in their music making**
+**- there is a heightened awareness of coding and AI skills in the current and future workplace, and music students are seeking these skills. As it happens music is a rich space with which to explore these skills.** 
+**- Musical plurality leading to mixed musical identities which draw on many different cultural influences and therefore reflect the types of digital skills those students are pursuing, which also ends up being mixed.** 
 
 
 At the start of 2023, DigiScore visited the US and North America to evaluate higher education music students’ wants and needs from digital musicianship education through engagement with digital scores. This work is part of the DigiScore research project focusing on the analysis of case studies and research in music departments worldwide known as “Roadshow”.  
@@ -31,16 +31,10 @@ We conducted two types of polls, the first was embedded Mentimeter slides that a
 
 ## 1. Mentimeter  
 
-The first poll asked “How would you define yourself as a musician? (multiple answers possible)” (see fig 3.). This aligned with the 3rd point of interest “Musical Identity and Creative Practice” and was chosen to be the first to draw their sense-of self directly into the discussion. The list of possible types is listed in figure 3, and this distribution was almost identically replicated across each university department.  
+The first poll asked “How would you define yourself as a musician? (multiple answers possible)” (see image at top of page). This aligned with the 3rd point of interest “Musical Identity and Creative Practice” and was chosen to be the first to draw their sense-of self directly into the discussion. The list of possible types is listed in figure 3, and this distribution was almost identically replicated across each university department.  
 
 Of interest was how many students identified themselves as BOTH composer and performer, adding nuance to that identity with the remaining types (e.g. hacker). When we discussed this distribution and choice, it was revealed that any division between “composition” and “performance” pathways within a department was generally a negative divisive split. Whilst there were a few monotypes who only chose “composition” or “performance”.  The provisional conclusion of this poll gives us confidence to state that current music students are much more diverse in terms of the composer-performer divide and with addition of other categories such as multi-media, digital technologist, etc. also multi-disciplinary in how they view their practice. 
-
-  
-
-
-Figure 1: 1st slide from the DigiScore roadshow questioning strategy. 
-
-  
+ 
 
 The second poll followed a series of slides that outlined the different types of digital scores. This was presented as a continuum ranging from type 1 “The Digitised Score”, to type 4 “The Animated Score”, to type 6 “The Creative System”, to type 10 “The Living Score”. This question asks them “What skills do you have that could help you with digital score creativity?”, and was immediately followed by a slide that asked, “What digital music skills would you like to have?”.  
 
