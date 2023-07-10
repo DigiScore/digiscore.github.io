@@ -75,6 +75,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Presentations & Workshops
 
+2023    Jess+ Demo at First International Symposium on Trustworthy Autonomous Systems (TAS '23), Harriot Watts University, Edinburgh - July 2023
+
 2023    Jess+ Explaining co-creative AI and robotics for mixed-ability ensemble. TENOR conference 2023, Boston, USA
 
 2023    Neoscore. TENOR conference 2023, Boston, USA 
