@@ -19,7 +19,9 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
-2023    Benford, S., Hazzard, A., Vear, C., Webb, H., Chamberlain, A., Greenhalgh, C., Ramchurn, R., Marshall, J., (2023) "Five Provocations for a Mor Creative Trustworthy Autonomous System". Proceedings from trustworthy Autonomous Systems symposium, 2023.
+2023    Amerotti, M., Benford, S., Sturm, B., Vear, C., (2023) "A Live Performance Rule System arising from Irish Traditional Dance Music". Proceedings from CMMR2023, the 16th International Symposium on Computer Music Multidisciplinary Research
+
+2023    Benford, S., Hazzard, A., Vear, C., Webb, H., Chamberlain, A., Greenhalgh, C., Ramchurn, R., Marshall, J., (2023) "Five Provocations for a More Creative Trustworthy Autonomous System". Proceedings from Trustworthy Autonomous Systems symposium, 2023.
 
 2023    Vear, C., Moroz, S., (2023) "The Digital Score: a review of research spanning 2022-23". Proceedings from TENOR Conference 2023, [https://www.tenor-conference.org/proceedings.html](https://www.tenor-conference.org/proceedings.html)
 
