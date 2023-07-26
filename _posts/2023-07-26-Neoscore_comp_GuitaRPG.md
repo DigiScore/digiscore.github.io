@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neoscore competition commission 
+title: DigiScore TENOR Neoscore competition commission 
 subtitle: GuitaRPG by Xavier Davenport
 cover-img: /assets/img/GuitaRPG.jpg
 thumbnail-img: /assets/img/TENORg.png
