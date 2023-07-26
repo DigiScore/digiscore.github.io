@@ -9,6 +9,7 @@ tags: case_study
 **DigiScore TENOR commission: Xavier Davenport**
 
 Data set: [http://doi.org/10.17639/nott.7318](http://doi.org/10.17639/nott.7318)
+
 Digital Score Github: [https://github.com/Xavman42/GuitaRPG](http://doi.org/10.17639/nott.7318)
 
 _GuitaRPG_ is a digital score created through the Neoscore platform by musician Xavier Davenport. The digital score incorporates game-like behaviour such as role-playing when the performer is in different regions of the digital score. These regions display a distinct set of influences on the performer through a different colour palette for symbols, glyphs and sound worlds. The performer has to incorporate these elements to progress through the digital score. Another aspect of this role-playing is skill acquisition whereby in exploring each region, the performer comes across different guitar techniques and sound worlds - the accumulation of these skills progressively gets more complex and complicated as one moves through different regions of the game. The piece is driven by these two factors - a sense of geographic exploration and the players' progression through skill acquisition contributing to the structure and flow of the piece. The player has control over how long they stay in each region to explore a certain technique through macro and micro involvement with the piece. For instance, in macro involvement, the player navigates the map with a single button moving through regions of the digital score where certain types of materials will appear. On the other hand, by engaging with each region through playing techniques as they randomly appear, one engages with the piece on the micro level. The changing density of the visual materials denoted by different colours for playing techniques is controlled by a weighted algorithm. Through the accumulation of visual materials that the performer can respond to, one loses track of the exact and improvised interpretation, freeing up the performer towards more improvisatory playing when the exact interpretation becomes no longer possible. 
@@ -31,9 +32,11 @@ Initially, in Neoscore, Xavier focused on the macro-level decisions to do with m
  
 Working systematically through the regions, he decided to focus on different sound qualities something to explore in each of the three regions. Moving on to Python programming with Neoscore, Xavier was able to discover new features that could be useful for his digital score. Through the back-and-forth with Andrew Yoon, he was able to implement new features into the libraries that he was working with:
 
-•	Adding built-in support for keyboard and mouse input: [https://github.com/DigiScore/neoscore/issues/57](http://doi.org/10.17639/nott.7318)
-•	Allowing animation without re-rendering the items on the screen: [https://github.com/DigiScore/neoscore/issues/91](http://doi.org/10.17639/nott.7318)
-•	Rotating staff objects and their children: [https://github.com/DigiScore/neoscore/issues/9](http://doi.org/10.17639/nott.7318)
+- Adding built-in support for keyboard and mouse input: [https://github.com/DigiScore/neoscore/issues/57](http://doi.org/10.17639/nott.7318)
+
+- Allowing animation without re-rendering the items on the screen: [https://github.com/DigiScore/neoscore/issues/91](http://doi.org/10.17639/nott.7318)
+
+- Rotating staff objects and their children: [https://github.com/DigiScore/neoscore/issues/9](http://doi.org/10.17639/nott.7318)
 
 
 **Critical Insights from the Data Set Analysis**
@@ -67,12 +70,12 @@ Working systematically through the regions, he decided to focus on different sou
 
 The flow in the digital score was maintained through the performer’s engagement with the sense of macro and micro navigation of the digital score.
 
-Macro:
+*Macro:*
 - display on the top of the map of the digital score to let the performer know where he has travelled to before and also allows the performer to explore in an informed way
 - performer has some control over the types of materials that will appear in different regions of the map
 - by choosing to stay in certain areas of the score, the performer increases the probability of certain score elements 
 
-Micro:
+*Micro:*
 - the flow of the performance is in the explorative nature of the score – a sense of exploration is built into the score from the point of view of the performer and the audience 
 - this allows for exploration in sound that is built on interactivity and anticipation
 - the score provides an interesting way for an improviser to explore a diversity of sound, and improvisational structure 
@@ -87,10 +90,10 @@ Micro:
 **Neoscore and programming**
 - builds on performer’s pre-existing skills in coding and improves them greatly 
 - in addition, the musician has contributed to fixing issues in the programming of Neoscore:
-•	better graphical implementation [https://github.com/DigiScore/neoscore/issues/29](http://doi.org/10.17639/nott.7318)
-•	fixing the math behind the set_viewport_scale function [https://github.com/DigiScore/neoscore/issues/89](http://doi.org/10.17639/nott.7318)
-•	text with white spaces being clipped correctly [https://github.com/DigiScore/neoscore/issues/34](http://doi.org/10.17639/nott.7318) and [https://github.com/DigiScore/neoscore/issues/93](http://doi.org/10.17639/nott.7318)
-•	actively contributing to making some glyphs that were used in the score: [https://github.com/Xavman42/GuitaRPG/blob/main/NeoScore/Cells.py](http://doi.org/10.17639/nott.7318)
+- better graphical implementation [https://github.com/DigiScore/neoscore/issues/29](http://doi.org/10.17639/nott.7318)
+- fixing the math behind the set_viewport_scale function [https://github.com/DigiScore/neoscore/issues/89](http://doi.org/10.17639/nott.7318)
+- text with white spaces being clipped correctly [https://github.com/DigiScore/neoscore/issues/34](http://doi.org/10.17639/nott.7318) and [https://github.com/DigiScore/neoscore/issues/93](http://doi.org/10.17639/nott.7318)
+- actively contributing to making some glyphs that were used in the score: [https://github.com/Xavman42/GuitaRPG/blob/main/NeoScore/Cells.py](http://doi.org/10.17639/nott.7318)
 - using Neoscore allowed Xavier to express ideas that he was already developing in a non-digital format
 - these concepts became much more effective with Neoscore 
 - allowing him to achieve new levels of visual and interactive complexity
@@ -145,6 +148,5 @@ The analysis of the data set from the GuitaRPG performance found that the score 
 
 
 
-**Once you have completed the changes above you can delete the body of this blog and re3place it with you real text (everything below the 2nd set of 3 hyphens)**
 
 
