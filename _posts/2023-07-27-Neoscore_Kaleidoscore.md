@@ -11,6 +11,9 @@ tags: case_study
 
 Data Set: [http://doi.org/10.17639/nott.7319](http://doi.org/10.17639/nott.7319)
 
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="TENOR BOSTON 2023 - CONCERT #1: Monday, May 15, 2023, 5:00 pm" width="100%" height="100%" src="https://www.youtube.com/embed/YrMOZlZ5QP0?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
 
 _Kaleidoscore_ is a digital score created through a Neoscore platform by composer Lauren McCall. The digital score incorporates digital images, shapes and key codes sending OSC messages in Neoscore to trigger 4 backing track samples in the Max MSP patch. A sense of duality is built through the imagery of the digital score such as changing colours, triangles and squares and the relationship between the two performers. When the shapes change colour it could represent a change between different dissonant material with each player. The digital score is fairly open with just a few instructions such as to play consonant sounds on flower imagery or when the notes appear without stems.
 
