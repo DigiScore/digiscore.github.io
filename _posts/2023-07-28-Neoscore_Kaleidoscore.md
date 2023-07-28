@@ -1,10 +1,10 @@
 ---
 layout: post
-title: DigiScore TENOR Neoscore commission: Lauren McCall 
+title: DigiScore TENOR Neoscore commission Lauren McCall 
 subtitle: Kaleidoscore by Lauren McCall
 cover-img: /assets/img/TENORg.png
 thumbnail-img: /assets/img/TENORg.png
-tags: case_study
+tags: [case_study]
 ---
 
 **DigiScore TENOR Commission Lauren McCall**
