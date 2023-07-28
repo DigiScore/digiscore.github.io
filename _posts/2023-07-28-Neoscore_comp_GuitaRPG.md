@@ -1,10 +1,10 @@
 ---
 layout: post
-title: DigiScore TENOR Neoscore commission: Xavier Davenport 
+title: DigiScore TENOR Neoscore commission Xavier Davenport 
 subtitle: GuitaRPG by Xavier Davenport
 cover-img: /assets/img/GuitaRPG.jpg
 thumbnail-img: /assets/img/TENORg.png
-tags: case_study
+tags: [case_study]
 ---
 **DigiScore TENOR commission: Xavier Davenport**
 
