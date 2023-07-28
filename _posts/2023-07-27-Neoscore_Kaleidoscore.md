@@ -42,48 +42,48 @@ In sound design, Lauren experimented with using a sampler object in Max/MSP play
 
 *Materials*
 
--the interpretation of the digital score was driven by interactions between sound and visual materials as well as between the musicians 
--the translation of visuals to music was fairly open with a few instructions for consonant sounds when flower images appeared
--overall, musicians preferred the parts that were more explained in the instructions as it was easier for them to make connections with the digital score and with each other 
--interaction with the composer helped to establish some other relationships to the materials such as camera eyepiece movement suggesting cross-rhythms, camera eyepiece opening suggesting musical idea being expanded, colour changes – the intensity of the musical ideas.
--otherwise, the openness of the digital score gave musicians the freedom to experiment with the materials and to try new things which is what the composer intended
--the duality of images and their colours were meant to give musicians a chance to explore different dissonant material and their changes with each other
--musicians felt that they would have developed a more interesting relationship with images and their behaviour in the piece if they had more time
+- the interpretation of the digital score was driven by interactions between sound and visual materials as well as between the musicians 
+- the translation of visuals to music was fairly open with a few instructions for consonant sounds when flower images appeared
+- overall, musicians preferred the parts that were more explained in the instructions as it was easier for them to make connections with the digital score and with each other 
+- interaction with the composer helped to establish some other relationships to the materials such as camera eyepiece movement suggesting cross-rhythms, camera eyepiece opening suggesting musical idea being expanded, colour changes – the intensity of the musical ideas.
+- otherwise, the openness of the digital score gave musicians the freedom to experiment with the materials and to try new things which is what the composer intended
+- the duality of images and their colours were meant to give musicians a chance to explore different dissonant material and their changes with each other
+- musicians felt that they would have developed a more interesting relationship with images and their behaviour in the piece if they had more time
 
 *Flow*
 
--the composer was satisfied with the way the musicians were able to add dissonance to the music with backing tracks that were mostly consonant, this added flow to the music
--one of the performers appreciated this sense of flow and learned something new about improvising freer dissonances over consonant backing tracks
--because the performers had different roles (one of them triggering sections of the piece and playing, the other just playing), they had different experiences of flow in the digital score
--for the performer who was triggering the keycodes a sense of flow was more difficult to reach as he was mostly concerned with triggering the next section than how he was interacting with another performer
--the other musician also felt these interruptions in the flow due to the changes that the other musician had to make
--the composer also feels that it would have been more beneficial to have a third person change the triggers (keycodes) in the digital score
+- the composer was satisfied with the way the musicians were able to add dissonance to the music with backing tracks that were mostly consonant, this added flow to the music
+- one of the performers appreciated this sense of flow and learned something new about improvising freer dissonances over consonant backing tracks
+- because the performers had different roles (one of them triggering sections of the piece and playing, the other just playing), they had different experiences of flow in the digital score
+- for the performer who was triggering the keycodes a sense of flow was more difficult to reach as he was mostly concerned with triggering the next section than how he was interacting with another performer
+- the other musician also felt these interruptions in the flow due to the changes that the other musician had to make
+- the composer also feels that it would have been more beneficial to have a third person change the triggers (keycodes) in the digital score
 
 *Digital Musicianship*
 
 *New Skills & Musical Experiences*
--Lauren learned how to build on her coding abilities, using dictionaries, to simplify and organise code in Neoscore 
--she feels like Neoscore makes the possibility of animated graphic scores easier to develop
--one can use a variety of possibilities in the music like text, images and sound this makes the platform very accessible, especially with students in schools with different backgrounds where Lauren teaches
--she thinks musicians should think more about how code contributes to the creation of music
--the musician operating Neoscore during the piece learned new command lines in Python 
--he also learned a lot about various Python dependencies and what one should do in the future if using Python programmes as part of a performance
--this builds on his previous coding experience
--one of the composer’s intentions was to provide a form when it comes to the structure of the piece so that graphic images could be easily interpreted
--as a result, one of the performers felt like he learned to go out of the structured melodic parts into more dissonant parts all while playing over consonant backing tracks
--the same performer does not feel like he would arrive at the same result without Lauren’s piece
+- Lauren learned how to build on her coding abilities, using dictionaries, to simplify and organise code in Neoscore 
+- she feels like Neoscore makes the possibility of animated graphic scores easier to develop
+- one can use a variety of possibilities in the music like text, images and sound this makes the platform very accessible, especially with students in schools with different backgrounds where Lauren teaches
+- she thinks musicians should think more about how code contributes to the creation of music
+- the musician operating Neoscore during the piece learned new command lines in Python 
+- he also learned a lot about various Python dependencies and what one should do in the future if using Python programmes as part of a performance
+- this builds on his previous coding experience
+- one of the composer’s intentions was to provide a form when it comes to the structure of the piece so that graphic images could be easily interpreted
+- as a result, one of the performers felt like he learned to go out of the structured melodic parts into more dissonant parts all while playing over consonant backing tracks
+- the same performer does not feel like he would arrive at the same result without Lauren’s piece
 
 *Accessibility*
--musicians felt like the graphic interface of the piece made it accessible to any performer at ease with improvisation 
--however, they felt like both the technical and score instructions could be clearer so as not to second guess what the composer intended
--musicians learned that having clear instructions in their music which uses technology could be very beneficial to the rehearsal process
+- musicians felt like the graphic interface of the piece made it accessible to any performer at ease with improvisation 
+- however, they felt like both the technical and score instructions could be clearer so as not to second guess what the composer intended
+- musicians learned that having clear instructions in their music which uses technology could be very beneficial to the rehearsal process
 
 *Transformations*
--the musicians found the compositional approach in this piece novel as they were able to play different score materials than they are normally used to
--one of the musicians enjoyed the combination of tonal-conventional music with freer possibilities as well as the animation which he hopes to engage with more in the future
--for Lauren, this experience opens possibilities of developing graphic scores geared towards musicians with a jazz-based improvisatory or other backgrounds
--Lauren thinks that the possibilities with Neoscore are very diverse as creatively her and Xavier’s pieces were so different 
--she finds Neoscore platform inclusive as it does not require any particular music background thus students from diverse musical backgrounds could benefit from it
+- the musicians found the compositional approach in this piece novel as they were able to play different score materials than they are normally used to
+- one of the musicians enjoyed the combination of tonal-conventional music with freer possibilities as well as the animation which he hopes to engage with more in the future
+- for Lauren, this experience opens possibilities of developing graphic scores geared towards musicians with a jazz-based improvisatory or other backgrounds
+- Lauren thinks that the possibilities with Neoscore are very diverse as creatively her and Xavier’s pieces were so different 
+- she finds Neoscore platform inclusive as it does not require any particular music background thus students from diverse musical backgrounds could benefit from it
 
 *Summary*
 
