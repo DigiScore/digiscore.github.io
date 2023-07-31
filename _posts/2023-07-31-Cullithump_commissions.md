@@ -19,12 +19,12 @@ tags: [case_study]
 <div class="nv-iframe-embed"><iframe loading="lazy" title="TENOR BOSTON 2023 - CONCERT #4: Monday, May 16, 2023, 8:00 pm" width="100%" height="100%" src="https://youtube.com/embed/kuxYIYgPrTs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
-The DigiScore project supported two commissions through the University of Concordia in Canada: Tendons for Transformation by Kitty Xiao and Path/Fields by Ingrid Laubrock. Both works employed digital scores with a degree of openness, allowing for structured improvisation and performers' agency. In Tendons of Transformation, Kitty Xiao aimed to create interconnectedness among performers using transducers and contact mics. She incorporated generative algorithms in Touch Design to create video scores for each performer, allowing real-time reactions to the changing electronic sounds, images, and videos. In Path/Fields, Ingrid Laubrock combined notated fragments, graphic notation, and improvisation. Generative algorithms determined which fragments appeared on each performer's screen, and symbol modifiers suggested responses to the score. The piece aimed to integrate improvisation and interpretation closely, fostering exploration and unpredictability.
+The DigiScore project supported two commissions through the University of Concordia in Canada: *Tendons for Transformation* by Kitty Xiao and *Path/Fields* by Ingrid Laubrock. Both works employed digital scores with a degree of openness, allowing for structured improvisation and performers' agency. In *Tendons of Transformation*, Kitty Xiao aimed to create interconnectedness among performers using transducers and contact mics. She incorporated generative algorithms in Touch Design to create video scores for each performer, allowing real-time reactions to the changing electronic sounds, images, and videos. In *Path/Fields*, Ingrid Laubrock combined notated fragments, graphic notation, and improvisation. Generative algorithms determined which fragments appeared on each performer's screen, and symbol modifiers suggested responses to the score. The piece aimed to integrate improvisation and interpretation closely, fostering exploration and unpredictability.
 
 **Objectives**
 
--	In Tendons of Transformation, Kitty aimed to provide an inclusive environment for performers to engage with sound, movement, and gestures using AI-generated video scores.
--	In Path/Fields, Ingrid sought to experiment with a digital score that encouraged exploration and mutation, using algorithms to challenge performers and create non-linear music with modular elements.
+-	In *Tendons of Transformation*, Kitty aimed to provide an inclusive environment for performers to engage with sound, movement, and gestures using AI-generated video scores.
+-	In *Path/Fields*, Ingrid sought to experiment with a digital score that encouraged exploration and mutation, using algorithms to challenge performers and create non-linear music with modular elements.
 
 Overall, the aim of both commissions explored the possibilities of digital scoring and improvisation, fostering innovative and interactive musical experiences for the performers.
 
@@ -42,10 +42,10 @@ Overall, the aim of both commissions explored the possibilities of digital scori
 
 **Form and Navigation**
 
--	The environment allows performers to explore and interpret touch, sound, and visual information.
+-	The environment in *Tendons of Transformations* allows performers to explore and interpret touch, sound, and visual information.
 -	The use of electronic feedback and transducers creates surprises during performances, making each rendition unique and unpredictable.
--	The digital score includes planned and random algorithmic procedures, as well as symbol modifiers, which challenge performers and introduce an element of surprise.
--	The piece bridges the gap between notated music and improvisation, providing opportunities for both structured and spontaneous performance.
+-	*Path/Fields* includes planned and random algorithmic procedures, as well as symbol modifiers, which challenge performers and introduce an element of surprise.
+-	*Path/Fields* bridges the gap between notated music and improvisation, providing opportunities for both structured and spontaneous performance.
 
 **Digital Musicianship**
 
