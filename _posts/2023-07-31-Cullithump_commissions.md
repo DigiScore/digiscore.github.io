@@ -11,7 +11,7 @@ tags: [case_study]
 
 **Works by Kitty Xiao and Ingrid Laubrock**
 
-**Performed by Cullithampian Consort** 
+**Performed by Cullithumpian Consort** 
 
 **Data set**: [http://doi.org/10.17639/nott.7320](http://doi.org/10.17639/nott.7320)
 
