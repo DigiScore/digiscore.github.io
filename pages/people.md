@@ -38,9 +38,7 @@ Consolidator Grant to continue to develop his Digital Score research.
 
 ## Current Fellows and Interns:
 
-**Post-Doctoral Research Fellow: Creative Computing (April - July 2023)** Johann Benerradi [https://hanbnrd.gitlab.io/#](https://hanbnrd.gitlab.io/#)
- 
-**EPSRC mixed reality internship (June - Sept 2023)** Elsa Kitching
+
  
 
 
@@ -62,4 +60,10 @@ Consolidator Grant to continue to develop his Digital Score research.
 
 ## Past Fellows:
 
-**Post-Doctoral Research Fellow: Creative Computing (Feb-Oct 2022)** Prashanth Thattai
+**Senior Research Fellow: Jess+ (January - July 2023)** Adrian Hazzard
+
+**Post-Doctoral Research Fellow: Creative Computing (April - July 2023)** Johann Benerradi [https://hanbnrd.gitlab.io/#](https://hanbnrd.gitlab.io/#)
+ 
+**EPSRC mixed reality internship (June - Sept 2023)** Elsa Kitching
+
+**Post-Doctoral Research Assistant: Creative Computing (Feb-Oct 2022)** Prashanth Thattai
