@@ -19,6 +19,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
+2023    Vear, C., Benford, S., Avila, J. M., & Moroz, S. (2023). Human-AI Musicking: A Framework for Designing AI for Music Co-creativity. AIMC 2023. Retrieved from https://aimc2023.pubpub.org/pub/zd46ltn3
+
 2023    Amerotti, M., Benford, S., Sturm, B., Vear, C., (2023) "A Live Performance Rule System arising from Irish Traditional Dance Music". Proceedings from CMMR2023, the 16th International Symposium on Computer Music Multidisciplinary Research
 
 2023    Benford, S., Hazzard, A., Vear, C., Webb, H., Chamberlain, A., Greenhalgh, C., Ramchurn, R., Marshall, J., (2023) "Five Provocations for a More Creative Trustworthy Autonomous System". TAS '23: Proceedings of the First International Symposium on Trustworthy Autonomous SystemsJuly 2023, Article No.: 14, pp 1–10 https://doi.org/10.1145/3597512.3599709
@@ -75,6 +77,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Presentations & Workshops
 
+2023    Jess+ premiere performance at BBC Media Cafe, London. Part of the BRAID conference - September 2023
+
 2023    Jess+ Demo at First International Symposium on Trustworthy Autonomous Systems (TAS '23), Harriot Watts University, Edinburgh - July 2023
 
 2023    Jess+ Explaining co-creative AI and robotics for mixed-ability ensemble. TENOR conference 2023, Boston, USA
@@ -115,7 +119,9 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Interviews and Podcasts
 
-2023    In-Music Podcast - Sandeep Bhagwati [https://shows.acast.com/in-music/episodes/sandeep-bhagwati](https://shows.acast.com/in-music/episodes/sandeep-bhagwati)
+2023    In-Music Podcast - Evelyn Glennie  [https://shows.acast.com/in-music/episodes/evelyn-glennie](https://shows.acast.com/in-music/episodes/evelyn-glennie)
+
+2013    In-Music Podcast - Sandeep Bhagwati [https://shows.acast.com/in-music/episodes/sandeep-bhagwati](https://shows.acast.com/in-music/episodes/sandeep-bhagwati)
 
 2023    In-Music Podcast - Elisabeth Wiklander [https://shows.acast.com/in-music/episodes/elisabeth-wiklander](https://shows.acast.com/in-music/episodes/elisabeth-wiklander)
 
