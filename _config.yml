@@ -27,7 +27,7 @@ navbar-links:
     - 7 Modes: "/pages/seven_modalities"
     - P word: "/pages/p-word"
   People: "/pages/people"
-  Case Studies:
+  Case Study Evals:
     - 1. Nautilus: "/pages/nautilus"
     - 2. TENOR commissions 2022: "2022-10-05-DigiScore_TENOR22_commissions"
     - 3. Digital Syzygies: "/pages/digital_syzygies"
@@ -40,6 +40,7 @@ navbar-links:
   Outputs:  "/pages/outputs"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
+    - Jess+: "/pages/Impact_case_study_Jess_Plus"
   Neoscore: "/pages/neoscore"
   Podcast: "/pages/in_music"
   中国人:

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Impact case study - Jess+
 tags: impact
 thumbnail-img: /assets/img/jess_plus.jpg
