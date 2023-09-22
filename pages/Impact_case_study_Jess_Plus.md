@@ -7,10 +7,6 @@ cover-img: /assets/img/jess_plus.jpg
 ---
 
 
-![Jess+ Team performing at the BBC](/assets/img/jess_plus_BBC.JPG){: .mx-auto.d-block :}
-
-
-
 # **Jess+: Intelligent DigiScore as a creative platform for inclusive music-making for disabled and non-disabled musicians.**
 
 Developing an intelligent digital score that extended the creativity of disabled and non-disabled musicians within an inclusive ensemble. The Digital Score used AI and a robotic arm to bind these musicians in a shared creative improvisation with all the musicians benefitting, practices enhanced and relationships transformed.
@@ -60,6 +56,13 @@ In an impact questionnaire following the final performance Deirdre summed-up all
 -	The first piece was performed with the Magician Lite drawing and no wearable sensors.
 -	The second piece was performed using the XArm drawing with 4 pens and with wearable sensors: [LINK](https://youtu.be/MBPQNmAXvXk)
 -	The third and fourth pieces were performed using the XArm with a feather: with ([LINK](https://youtu.be/7dQKIpjKJu4) and without [LINK](https://youtu.be/sK4KAmv3ikw).
+
+
+
+![Jess+ Team performing at the BBC](/assets/img/jess_plus_BBC.JPG){: .mx-auto.d-block :}
+
+*The Jess+ team at the BBC for a performance as part of the Bridging AI Divides (BRAID) event*
+
 
 
 # **Participants**
