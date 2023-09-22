@@ -61,7 +61,7 @@ In an impact questionnaire following the final performance Deirdre summed-up all
 
 ![Jess+ Team performing at the BBC](/assets/img/jess_plus_BBC.JPG){: .mx-auto.d-block :}
 
-*The Jess+ team at the BBC for a performance as part of the Bridging AI Divides (BRAID) event*
+*The Jess+ team at the BBC for a performance as part of the Bridging AI Divides (BRAID) event (L-R Deidre Bencsik, Craig Vear, Jess Fisher, Clare Bhabra)*
 
 
 
