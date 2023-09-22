@@ -67,7 +67,7 @@ In an impact questionnaire following the final performance Deirdre summed-up all
 
 # **Participants**
 
-**Jess Fischer**
+**Jess Fisher**
 Jess is a disabled musician and composer. She performs in inclusive ensembles and as a solo artist, using primary digital music tools and technologies. She worked with Anonymous on the creation of a bespoke accessible music controller CMPSR which Jess typically interfaces with a range of contemporary digital audio workstation software. In ensemble settings Jess performs the music of other composers, typically using a bespoke music notation called ‘arrow notation’ which reflects the design of a CMPSR controller. Jess does on occasion improvise, but is not as familiar or comfortable in such musical settings. 
 
 **Deirdre Bencsik and Clare Bhabra**
