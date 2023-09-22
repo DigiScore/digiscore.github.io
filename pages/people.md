@@ -38,7 +38,7 @@ Consolidator Grant to continue to develop his Digital Score research.
 
 ## Current Fellows and Interns:
 
-
+**Excel in Science Fellowship: Neoscore optimisation (October 2023 - June 2024)** Oluwademilade Oshin
  
 
 
