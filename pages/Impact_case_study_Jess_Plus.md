@@ -5,6 +5,12 @@ tags: impact
 thumbnail-img: /assets/img/jess_plus.jpg
 cover-img: /assets/img/jess_plus.jpg
 ---
+
+
+![Jess+ Team performing at the BBC](/assets/img/jess_plus_BBC.JPG){: .mx-auto.d-block :}
+
+
+
 # **Jess+: Intelligent DigiScore as a creative platform for inclusive music-making for disabled and non-disabled musicians.**
 
 Developing an intelligent digital score that extended the creativity of disabled and non-disabled musicians within an inclusive ensemble. The Digital Score used AI and a robotic arm to bind these musicians in a shared creative improvisation with all the musicians benefitting, practices enhanced and relationships transformed.
