@@ -37,6 +37,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Performances
 
+2023    *Returns & Simulacra* by Solomiya Moroz. Premiered at NIME conference 2023, Mexico City, Mexico
+
 2023    *GuitaRPG* by Xavier Davenport. Premiere of Neoscore competition award winner. TENOR conference 2023, Boston, USA
 
 2023    *Shadow Aria* by Jaslyn Robertson. TENOR conference 2023, Boston, USA
