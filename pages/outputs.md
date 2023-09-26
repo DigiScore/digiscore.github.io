@@ -37,6 +37,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Performances
 
+2023    *Jess+* premiere performance at BBC Media Cafe, London. Part of the BRAID conference - September 2023
+
 2023    *Returns & Simulacra* by Solomiya Moroz. Premiered at NIME conference 2023, Mexico City, Mexico
 
 2023    *GuitaRPG* by Xavier Davenport. Premiere of Neoscore competition award winner. TENOR conference 2023, Boston, USA
@@ -78,8 +80,6 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Presentations & Workshops
-
-2023    Jess+ premiere performance at BBC Media Cafe, London. Part of the BRAID conference - September 2023
 
 2023    Jess+ Demo at First International Symposium on Trustworthy Autonomous Systems (TAS '23), Harriot Watts University, Edinburgh - July 2023
 
