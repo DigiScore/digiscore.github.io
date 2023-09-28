@@ -33,7 +33,7 @@ amplified and bound together in a co-creative system?
 
 The Digital Score project (DigiScore) worked in collaboration with Orchestras Live (a national producer creating 
 inspiring orchestral experiences for communities across England) and Sinfonia Viva (a British orchestra based in 
-Nottingham, England) to evaluate the impact and benefits of using AI and creative robotics to break certain barriers 
+Derby, England) to evaluate the impact and benefits of using AI and creative robotics to break certain barriers 
 around disabled musician’s access to creative music-making. The focus for the partners was on using AI and Prof Craig 
 Vear’s digital score concept to generate new modes of music-making and potential inclusive processes of creativity. The 
 priority for the musicians was that it inspired creativity inside music-making (a shared activity between all musicians). 
