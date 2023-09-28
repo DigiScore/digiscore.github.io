@@ -167,7 +167,7 @@ sometimes collaborate with digital musicians and artists on some projects.
 # **Partners**
 
 **Sinfonia Viva**  
-a British orchestra based in Nottingham, England)  [https://www.sinfoniaviva.co.uk/](https://www.sinfoniaviva.co.uk/)
+a British orchestra based in Derby, England)  [https://www.sinfoniaviva.co.uk/](https://www.sinfoniaviva.co.uk/)
 
 **Orchestras Live** 
 a national producer creating inspiring orchestral experiences for communities across England [https://www.orchestraslive.org.uk/]( https://www.orchestraslive.org.uk/)
