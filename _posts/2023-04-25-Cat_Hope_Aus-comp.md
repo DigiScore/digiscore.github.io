@@ -8,7 +8,7 @@ tags: case_study
 
 # **The Australian Composers’ Residency in HfMT, Hamburg, Germany**
 
-**Complete data set**: [https://rdmc.nottingham.ac.uk/handle/internal/10506](https://drive.google.com/file/d/1TWYYqLaGEe_gDnrZWFUOVac--Y1_kRgD/view)
+**Complete data set**: [https://rdmc.nottingham.ac.uk/handle/internal/10506](https://rdmc.nottingham.ac.uk/handle/internal/10506)
 
 **Performances**: 
 

@@ -11,6 +11,8 @@ tags: [case_study]
 
 **Digital Score:**  [https://vimeo.com/383439576](https://vimeo.com/383439576)
 
+**Full dataset:** [https://rdmc.nottingham.ac.uk/handle/internal/10797](https://rdmc.nottingham.ac.uk/handle/internal/10797)
+
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="nv-iframe-embed"><iframe loading="lazy" title="LIGETI-FESTIVAL - Speechless - a wordless opera by Cat Hope" width="100%" height="100%" src="https://www.youtube.com/embed/h9dlsSXgWG8?si=uAUFOf-j7aZVLUQb?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>

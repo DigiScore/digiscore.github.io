@@ -21,7 +21,7 @@ cover-img: /assets/img/hugill_eeg.png
 
 
 
-<p><a href="https://figshare.dmu.ac.uk/account/projects/132254/articles/21429138">https://figshare.dmu.ac.uk/account/projects/132254/articles/21429138</a></p>
+<p><a href="https://figshare.com/articles/dataset/Digital_Syzygies/21429138">https://figshare.com/articles/dataset/Digital_Syzygies/21429138</a></p>
 
 
 
