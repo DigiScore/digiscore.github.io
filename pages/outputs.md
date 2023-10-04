@@ -179,7 +179,7 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 2023   "Speechless Opera by Cat Hope" [https://rdmc.nottingham.ac.uk/handle/internal/10797](https://rdmc.nottingham.ac.uk/handle/internal/10797)
 
-2023    "Fold by Ted Moore" [http://doi.org/10.17639/nott.7320](http://doi.org/10.17639/nott.7320)
+2023    "Fold by Ted Moore" [https://rdmc.nottingham.ac.uk/handle/internal/10796](https://rdmc.nottingham.ac.uk/handle/internal/10796)
 
 2023    "2 TENOR 2023 Commissions by DigiScore partner Sandeep Bhagwati" [http://doi.org/10.17639/nott.7320](http://doi.org/10.17639/nott.7320)
 
