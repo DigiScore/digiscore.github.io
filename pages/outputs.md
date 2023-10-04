@@ -177,6 +177,16 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
+2023   "Speechless Opera by Cat Hope" [https://rdmc.nottingham.ac.uk/handle/internal/10797](https://rdmc.nottingham.ac.uk/handle/internal/10797)
+
+2023    "Fold by Ted Moore" [http://doi.org/10.17639/nott.7320](http://doi.org/10.17639/nott.7320)
+
+2023    "2 TENOR 2023 Commissions by DigiScore partner Sandeep Bhagwati" [http://doi.org/10.17639/nott.7320](http://doi.org/10.17639/nott.7320)
+
+2023    "DigiScore TENOR Neoscore commission, Xavier Davenport" [http://doi.org/10.17639/nott.7318](http://doi.org/10.17639/nott.7318)
+
+2023    "DigiScore TENOR Neoscore commission Lauren McCall" [http://doi.org/10.17639/nott.7319](http://doi.org/10.17639/nott.7319)
+
 2023    "Australian Composers’ Residency in HfMT, Hamburg, Germany" [https://rdmc.nottingham.ac.uk/handle/internal/10506](https://rdmc.nottingham.ac.uk/handle/internal/10506) 
 
 2022    "Digital Syzygies" [https://figshare.dmu.ac.uk/articles/dataset/Digital_Syzygies/21429138](https://figshare.dmu.ac.uk/articles/dataset/Digital_Syzygies/21429138)
