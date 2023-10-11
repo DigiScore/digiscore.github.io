@@ -173,6 +173,20 @@ a British orchestra based in Derby, England)  [https://www.sinfoniaviva.co.uk/](
 a national producer creating inspiring orchestral experiences for communities across England [https://www.orchestraslive.org.uk/]( https://www.orchestraslive.org.uk/)
 
 
+# **Dataset Musicians**
+This project would like to warmly thank the following musicians who contributed their creative-data DNA to train the 
+AI models used in this project. Their involvement was felt by the musicians and audience.
+- Adam Dennis
+- Jacky Naylor
+- Elliot Sansom
+- Dan Moore
+- Noah Baerman
+- Jen Allen
+- Isabella Mendes
+- Michael Carabello
+
+
+
 # **Funding**
 
 This project received additional funding from the Trustworthy Autonomous System Hub [https://tas.ac.uk/]( https://tas.ac.uk/) and the Faculty of Arts at University of Nottingham [https://www.nottingham.ac.uk/arts/](https://www.nottingham.ac.uk/arts/)
