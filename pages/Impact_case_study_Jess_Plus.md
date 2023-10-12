@@ -157,7 +157,7 @@ sometimes collaborate with digital musicians and artists on some projects.
 
 **Dr Adrian Hazzard** Qualitative research into trustworthiness and musicking with AI.
 
-**Johan Benerradi** Software development, deep learning, robot movement programming. 
+**Johann Benerradi** Software development, deep learning, robot movement programming. 
 
 **Dr Solomiya Moroz** Embodied music cognition.
 
