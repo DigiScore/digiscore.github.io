@@ -6,7 +6,7 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Our Team:
 
-<img align="right" width="10%" height="10%" src="/assets/img/cv_robots.jpg">
+<img align="right" width="10%" height="10%" src="/assets/img/craig_naples.jpg">
 
 **Principle Investigator:** Craig Vear
 **Biog** Craig Vear is Professor of Music and Computer Science at the University of Nottingham split between music and the mixed
