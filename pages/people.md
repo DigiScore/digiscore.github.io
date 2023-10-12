@@ -27,7 +27,7 @@ Consolidator Grant to continue to develop his Digital Score research.
  
  
 
-**Post-Doctoral Research Fellow: Creative Computing:** position vacant 
+**Senior Research Fellow: Creative Computing:** Fabrizio Poltronieri 
 
 
 <img align="right" width="10%" height="10%" src="/assets/img/siobhan_thumbnail.jpg">
