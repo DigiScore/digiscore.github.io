@@ -11,6 +11,7 @@ cover-img: /assets/img/jess_plus.jpg
 musicking. There are several approaches to the implementation of computational intelligence within the digital score with each 
 offering differing degrees of felt co-operation, presence and autonomy.
 
+**Demo** [https://www.youtube.com/watch?v=7dQKIpjKJu4](https://www.youtube.com/watch?v=7dQKIpjKJu4)
 
 ## About
 *Jess+* is an intelligent digital score system for shared creativity with a mixed ensemble of able-bodied and disabled musicians. 
