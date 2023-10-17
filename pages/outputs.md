@@ -81,7 +81,13 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Presentations & Workshops
 
+2023    Creativity Cards Workshop (DigiScore Team) at Cimarosa Conservatory in Avollino, Italy, October 11-14, 2023
+
+2023    Presentation on the Evaluation of Digital Musicianship Roadshow Tour (Solomiya Moroz), GAPS2 Conference 2023, York University, September 14-16, 2023
+
 2023    Jess+ Demo at First International Symposium on Trustworthy Autonomous Systems (TAS '23), Harriot Watts University, Edinburgh - July 2023
+
+2023    Digital Musical Instruments as Digital Score (Solomiya Moroz), Music Ex Machina Symposium, Royal Holloway, London, June 2023
 
 2023    Jess+ Explaining co-creative AI and robotics for mixed-ability ensemble. TENOR conference 2023, Boston, USA
 
@@ -128,6 +134,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 2023    In-Music Podcast - Elisabeth Wiklander [https://shows.acast.com/in-music/episodes/elisabeth-wiklander](https://shows.acast.com/in-music/episodes/elisabeth-wiklander)
 
 2023    Trans-Disciplinary Insight 6 - Laura Bishop, Jan 2023 [https://youtu.be/VfATlNUdT8w](https://youtu.be/VfATlNUdT8w)
+
+2023    Interview with Konstantina Orlandatou, January 2023 [https://www.youtube.com/watch?v=orAS-CfyB8g&t=246s](https://www.youtube.com/watch?v=orAS-CfyB8g&t=246s)
 
 2022    Interview with Ine Vanoeveren, Nov 2022 [https://youtu.be/I3utpeD-Yb0](https://youtu.be/I3utpeD-Yb0)
 
@@ -176,6 +184,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 
 ## Data set
+
+2023   "Dynamic Landscapes - DigiScore Internship" [http://doi.org/10.17639/nott.7343](http://doi.org/10.17639/nott.7343)
 
 2023   "Speechless Opera by Cat Hope" [https://rdmc.nottingham.ac.uk/handle/internal/10797](https://rdmc.nottingham.ac.uk/handle/internal/10797)
 
