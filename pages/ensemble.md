@@ -26,7 +26,7 @@ Each concert is different and can be designed to fit the needs of a venue. The t
 - *Jess +* for AI robot arm, EEG brainwave reader and soloist. [LINK](https://www.youtube.com/watch?v=7dQKIpjKJu4)
 - *Solaris* for AI Jazz Quartet. Performed by Craig Vear. Created by Craig Vear and Fabrizio Poltronieri. 
 
-### Technicl Rider
+### Technical Rider
 The DigiScore Ensemble travels relatively light and requires only a minimal amount of tech to support a concert.
 For a typical concert we would require the following tech support:
 
