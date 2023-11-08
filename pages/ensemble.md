@@ -16,14 +16,14 @@ Each concert is different and can be designed to fit the needs of a venue. The t
 
 
 - *Variations 1* John Cage and Decibel Ensemble. (any number of players)
-- *Kvartett no. 8*, Guðmundur Steinn Gunnarsson (Iceland) - for quartet of musicians (non fixed instrumentation) (2011) https://www.youtube.com/watch?v=utyeeTg2e0s
-- *Study no. 31.3* Animated Score for 12 (strings and winds or non-fixed) Ryan Ross Smith (2013) https://www.youtube.com/watch?v=gPjPtZNfgLc
-- *The Plumber* Craig Vear. Movement 1 from Hypermedia Concerto for cello and digital score https://www.youtube.com/watch?v=MTsCHdNIQws&list=OLAK5uy_k8eENkHp8Lh582lLKwjj1ixXq3H1vtJLw
+- *Kvartett no. 8*, Guðmundur Steinn Gunnarsson (Iceland) - for quartet of musicians (non fixed instrumentation) (2011) [LINK](https://www.youtube.com/watch?v=utyeeTg2e0s)
+- *Study no. 31.3* Animated Score for 12 (strings and winds or non-fixed) Ryan Ross Smith (2013) [LINK](https://www.youtube.com/watch?v=gPjPtZNfgLc)
+- *The Plumber* Craig Vear. Movement 1 from Hypermedia Concerto for cello and digital score [LINK](https://www.youtube.com/watch?v=MTsCHdNIQws&list=OLAK5uy_k8eENkHp8Lh582lLKwjj1ixXq3H1vtJLw)
 - *Plurality Spring* Paul Turowski and Simon Hutchinson, for improvising ensemble 
 - Presentation of Student digital score A 
 - Presentation of Student digital score B 
-- *GuitaRPG* Xavier Davenport for solo guitar https://www.youtube.com/watch?v=0yy3HrfCsSE
-- *Jess +* for AI robot arm, EEG brainwave reader and soloist. https://www.youtube.com/watch?v=7dQKIpjKJu4
+- *GuitaRPG* Xavier Davenport for solo guitar [LINK](https://www.youtube.com/watch?v=0yy3HrfCsSE)
+- *Jess +* for AI robot arm, EEG brainwave reader and soloist. [LINK](https://www.youtube.com/watch?v=7dQKIpjKJu4)
 - *Solaris* for AI Jazz Quartet. Performed by Craig Vear. Created by Craig Vear and Fabrizio Poltronieri. 
 
 ### Technicl Rider
