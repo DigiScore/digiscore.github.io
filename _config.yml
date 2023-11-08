@@ -42,6 +42,7 @@ navbar-links:
     - 12. Jess+: "/pages/jess+"
   Research: "/pages/research"
   Outputs:  "/pages/outputs"
+  Ensemble: "/pages/ensemble"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
     - Jess+: "/pages/Impact_case_study_Jess_Plus"
