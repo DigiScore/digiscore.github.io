@@ -35,6 +35,7 @@ For a typical concert we would require the following tech support:
 - Large TV screen for onstage monitoring. 40-60inch HDMI input (mirroring the projected image)
 - Stereo full range speakers (positioned downstage of ensemble)
 - Mixing desk large enough for the ensemble (typically 24 analogue channels)
+- Selection of microphones for the ensemble (if space is too large for acoustic sounds)
 - 2 small monitors for on stage
 - 4 small tables and armless comfortable chairs for each performer
 - 3 electric points on stage (we will bring all extensions)
