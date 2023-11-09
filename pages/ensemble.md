@@ -38,6 +38,7 @@ For a typical concert we would require the following tech support:
 - Selection of microphones for the ensemble (if space is too large for acoustic sounds)
 - 2 small monitors for on stage
 - 4 small tables and armless comfortable chairs for each performer
+- Small guitar amp (TBC)
 - 3 electric points on stage (we will bring all extensions)
 - Some lighting to add performance atmosphere (optional)
 
