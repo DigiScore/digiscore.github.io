@@ -23,7 +23,7 @@ Each concert is different and can be designed to fit the needs of a venue. The t
 - Presentation of Student digital score A 
 - Presentation of Student digital score B 
 - *GuitaRPG* Xavier Davenport for solo guitar [LINK](https://www.youtube.com/watch?v=0yy3HrfCsSE)
-- *Jess +* for AI robot arm, EEG brainwave reader and soloist. [LINK](https://www.youtube.com/watch?v=7dQKIpjKJu4)
+- *Cyberiad* for AI robot arm, EEG brainwave reader and soloist. [LINK](https://www.youtube.com/watch?v=7dQKIpjKJu4)
 - *Solaris* for AI Jazz Quartet. Performed by Craig Vear. Created by Craig Vear and Fabrizio Poltronieri. 
 
 ### Technical Rider
