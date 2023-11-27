@@ -73,6 +73,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Residencies & Fellowships
 
+2023-24 Ben Hopkinson - Open Orchestra. Using DigiScore Creativity cards to create large scale digital score for inclusive ensemble across 3 SEND schools in Teesside
+
 2023    Browser Festival – DigiScore is supporting one individual artist in creation of a browser based digital score, July 2023
 
 2022    Dejana Sekulic’s fellowship in DigiScore Lab – making of an interactive digital score based on migration patterns of birds, July, 2022 
@@ -80,6 +82,8 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Presentations & Workshops
+
+2023    DigiScore seminar at RITMO, University of Oslo, October 15, 2023
 
 2023    Creativity Cards Workshop (DigiScore Team) at Cimarosa Conservatory in Avollino, Italy, October 11-14, 2023
 
