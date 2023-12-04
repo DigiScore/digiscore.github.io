@@ -2,7 +2,7 @@
 layout: post
 title: Interview with new media artist Nandita Kumar
 subtitle: 
-cover-img: /assets/img/Nandita_inst.png
+cover-img: /assets/img/Nandita_ins2.jpg
 thumbnail-img: /assets/img/Nandita.png
 tags: [digital_musicianship]
 ---
