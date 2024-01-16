@@ -8,7 +8,9 @@ cover-img: /assets/img/outputs_banner.png
 
 <img align="right" width="10%" height="10%" src="/assets/img/craig_naples.jpg">
 
-**Principle Investigator:** Craig Vear
+**Principal Investigator:** Craig Vear
+
+
 **Biog** Craig Vear is Professor of Music and Computer Science at the University of Nottingham split between music and the mixed
 reality lab. His research is naturally hybrid as he draws together the fields of music, digital performance, creative technologies,
 Artificial Intelligence, creativity, gaming, mixed reality and robotics. He has been engaged in practice-based research with
@@ -23,6 +25,8 @@ Consolidator Grant to continue to develop his Digital Score research.
 <img align="right" width="10%" height="10%" src="/assets/img/thumbnail_S_Moroz1.jpg">
 
 **Post-Doctoral Research Fellow: Embodied Music Cognition:** Solomiya Moroz
+
+
 **Biog** Solomiya Moroz is a Canadian-Ukrainian musician, composer and researcher, based in the UK. 
 She has a PhD in music composition from the University of Huddersfield and a Master’s in Live Electronics 
 from the Conservatory of Amsterdam. Her work tends to progress towards the expansion of music-specific media 
@@ -38,6 +42,8 @@ supported by Canada Council for the Arts and Fonds Québécois de la Recherche s
 <img align="right" width="10%" height="10%" src="/assets/img/fabrizio.jpg">
 
 **Senior Research Fellow: Creative Computing:** Fabrizio Poltronieri
+
+
 **Biog** Fabrizio Poltronieri is a computer artist, mathematician, researcher, and programmer, 
 renowned for his contributions to the field of creative computing.He has been recognized with numerous 
 prestigious awards and accolades for his creative endeavors involving computers. Two of his AI artworks, 
