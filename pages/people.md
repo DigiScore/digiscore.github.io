@@ -23,11 +23,30 @@ Consolidator Grant to continue to develop his Digital Score research.
 <img align="right" width="10%" height="10%" src="/assets/img/thumbnail_S_Moroz1.jpg">
 
 **Post-Doctoral Research Fellow: Embodied Music Cognition:** Solomiya Moroz
-**Biog** Solomiya Moroz is a Canadian-Ukrainian musician, composer and researcher, based in the UK. She has a PhD in music composition from the University of Huddersfield and a Master’s in Live Electronics from the Conservatory of Amsterdam. Her work tends to progress towards the expansion of music-specific media and the role of the musicians within them. Currently, she is working as a research fellow in embodied music cognition on the Digital Score project at the University of Nottingham. Recent premiers of her compositions have been performed by Ensemble Apparat, accordionist Teodoro Anzellotti, Quasar saxophone quartet, Bozzini string quartet and accordion duo XAMP. She has also performed as a flautist with various ensembles and presented her music in Canada, the UK, the US, and Europe. Her projects and research have been supported by Canada Council for the Arts and Fonds Québécois de la Recherche sur la Société et Culture.
+**Biog** Solomiya Moroz is a Canadian-Ukrainian musician, composer and researcher, based in the UK. 
+She has a PhD in music composition from the University of Huddersfield and a Master’s in Live Electronics 
+from the Conservatory of Amsterdam. Her work tends to progress towards the expansion of music-specific media 
+and the role of the musicians within them. Currently, she is working as a research fellow in embodied music 
+cognition on the Digital Score project at the University of Nottingham. Recent premiers of her compositions have 
+been performed by Ensemble Apparat, accordionist Teodoro Anzellotti, Quasar saxophone quartet, 
+Bozzini string quartet and accordion duo XAMP. She has also performed as a flautist with various 
+ensembles and presented her music in Canada, the UK, the US, and Europe. Her projects and research have been 
+supported by Canada Council for the Arts and Fonds Québécois de la Recherche sur la Société et Culture.
  
  
 
-**Senior Research Fellow: Creative Computing:** Fabrizio Poltronieri 
+<img align="right" width="10%" height="10%" src="/assets/img/fabrizio.jpg">
+
+**Senior Research Fellow: Creative Computing:** Fabrizio Poltronieri
+**Biog** Fabrizio Poltronieri is a computer artist, mathematician, researcher, and programmer, 
+renowned for his contributions to the field of creative computing.He has been recognized with numerous 
+prestigious awards and accolades for his creative endeavors involving computers. Two of his AI artworks, 
+"Dionysus" and "Calliope", have found their place in the esteemed collection of the Victoria and Albert Museum (V&A) in 
+London, UK. In addition to his artistic pursuits, Fabrizio Poltronieri currently dedicates his efforts to pioneering 
+research in harnessing the collaborative and creative potential of AI across various domains, including music, 
+education, healthcare, and visual arts. His innovative explorations aim to unlock novel ways of integrating AI into 
+these fields, fostering groundbreaking advancements and pushing the boundaries of creative expression. He is also the 
+co-editor of the books The Language of Creative AI and Explorations in Art and Technology.
 
 
 <img align="right" width="10%" height="10%" src="/assets/img/siobhan_thumbnail.jpg">
