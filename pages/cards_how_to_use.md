@@ -2,7 +2,7 @@
 layout: page
 title: How to Use Creativity Cards
 tags: digital musicianship
-cover-img: /assets/cards/en_DigiScore_sheet_2_RESIZE_TO_A4.pdf
+cover-img: /assets/img/cards2.png
 ---
 
 **How to use the cards**

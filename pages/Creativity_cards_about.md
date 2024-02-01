@@ -2,7 +2,7 @@
 layout: page
 title: Creativity Cards
 tags: digital musicianship
-cover-img: /assets/cards/en_DigiScore_sheet_0_RESIZE_TO_A4.pdf
+cover-img: /assets/img/cards1.png
 ---
 
 **The Digital Score Creativity Cards**
