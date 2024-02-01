@@ -48,6 +48,7 @@ navbar-links:
     - Jess+: "/pages/Impact_case_study_Jess_Plus"
   Cards:
     - About: "/pages/Creativity_cards_about"
+    - How to use: "/pages/cards_how_to_use"
     - 1. Avellino: "/pages/cards_workshop_1_Avellino"
   Neoscore: "/pages/neoscore"
   Podcast: "/pages/in_music"
