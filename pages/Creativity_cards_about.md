@@ -6,6 +6,7 @@ cover-img: /assets/img/cards1.png
 ---
 
 **The Digital Score Creativity Cards**
+
 These cards have been created to help you design, develop and create digital scores. They present insights from 
 different perspectives on the possibilities, opportunities, challenges and questions around the creation of a digital score. 
 They have been designed to operate like a conversation between you, your creative ideas, and the wealth of experience from 
@@ -15,6 +16,7 @@ creating, performing and sharing your musical ideas in the 21st Century.
     | Cards can be downloaded here https://digiscore.github.io/assets/cards/creativity_cards.zip
 
 **What is a digital score?**
+
 Simply put a digital score is much like a traditional music score: it is a communications package of a musical idea 
 that is sharable. However, digital scores use the creative potential of technology to expand on the types of musical 
 ideas that can be shared and expressed as a music score. 
@@ -27,6 +29,7 @@ where player interaction is key, or you wish to explore robotics or AI, then the
 help you package your musical idea in such a way that it is communicated to other musicians, again and again. 
 
 **Notation vs The Language of a Score**
+
 A traditional score is more than just the notation printed on it. Reading from Bach’s original handwritten manuscript is 
 a vastly distinct experience from reading those same notes from a version created in Sibelius: same notes, different 
 platforms, different worlds, different meanings. With a digital score, we must address our own tendencies to think of a 
@@ -47,7 +50,9 @@ robots or AI improvising partners.
 
 *“To Imagine a language is to imagine a form of life; the limits of my language are the limits of my world”* Ludwig Wittgenstein.
 
+
 **Open conversations with the cards**
+
 We would like to think that these cards encapsulate a lot of our knowledge about creativity in, with and through digital 
 scores. Therefore, we hope that each card presents a part of our knowledge for you to use as a conversation point about 
 your digital score. You might find that through these conversations your ideas have become enhanced or transformed. You 
@@ -57,6 +62,7 @@ is no right or wrong here, but we do ask that you enter an open conversation and
 transform, adapt, change and become enhanced.
 
 **Acknowledgements**
+
 The DigiScore team would like to thank Richard Wetzel for his inspiration and support with these cards. His Mixed 
 Reality Game Cards directly informed the design of these creativity cards, and some of its content. Wetzel, Richard, 
 Tom Rodden, and Steve Benford. “Developing Ideation Cards for Mixed Reality Game Design.” Transactions of the Digital 
