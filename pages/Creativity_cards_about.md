@@ -12,7 +12,7 @@ They have been designed to operate like a conversation between you, your creativ
 those who have researched and specialise in making digital scores. The hope is that they offer new ways of thinking, 
 creating, performing and sharing your musical ideas in the 21st Century.
 
-    | Cards can be downloaded here https://digiscore.github.io/assets/cards
+    | Cards can be downloaded here https://digiscore.github.io/assets/cards/creativity_cards.zip
 
 **What is a digital score?**
 Simply put a digital score is much like a traditional music score: it is a communications package of a musical idea 
