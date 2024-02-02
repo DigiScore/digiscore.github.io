@@ -15,7 +15,7 @@ Throughout the workshop, we assessed students' engagement through questions, and
 
 In the post-performance discussion, students said that creativity cards presented them with "many choices, opportunities and possibilities for making a digital score". Students also appreciated that the focus of creativity cards stayed on their embodied experience within the digital scores that they were making, being immersed in musical situations rather than technical or programming ones (observed in the post-performance discussion). 
 
-During the 3-day workshop, we also conducted surveys each day of the workshop focused on the four areas of digital musicianship with the aim of notice any changes in the four categories over time:
+During the 3-day workshop, we also conducted surveys each day of the workshop focused on the four areas of digital musicianship with the aim of noticing any changes in the four categories over time:
 
 •	Skills: what are the skills needed to articulate and interpret features and effects of digital score musicking?
 
