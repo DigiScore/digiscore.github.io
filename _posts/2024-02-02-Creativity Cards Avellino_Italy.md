@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creativity Cards Workshop at the Cimarosa Conservatory in Avelino, Italy
+title: Creativity Cards Workshop at the Cimarosa Conservatory in Avellino, Italy
 subtitle: 
 cover-img: /assets/img/cards2.png
 thumbnail-img: /assets/img/craig_naples.jpg
@@ -18,8 +18,11 @@ In the post-performance discussion, students said that creativity cards presente
 During the 3-day workshop, we also conducted surveys each day of the workshop focused on the four areas of digital musicianship with the aim of notice any changes in the four categories over time:
 
 •	Skills: what are the skills needed to articulate and interpret features and effects of digital score musicking?
+
 •	Contexts, Cultures & Literacy: what contextual, cultural literatures and insights are required to inspire creative thought and support musicking ideas 
+
 •	Musical Identity and Creative Practice: what are the new modes and possibilities of creative practice?
+
 •	Perception and awareness of (digital) music: how do musicians actively analyse digital score music, and what interpretations are they generating when making music?
  
 
@@ -37,6 +40,7 @@ In *knowledge and awareness*, reflecting on the usefulness of creativity cards f
 **Conclusion**
 
 Through the digital musicianship surveys, we can track clear changes that took place in students’ musicianship. These show that through an engagement with creativity cards students had new and transformative experiences in making and performing music. When it came to digital music skills, creativity cards either extended musicians’ previous skills or introduced completely new tools and ways of making and performing music. We also noticed positive changes in the way musicians viewed themselves and the kinds of activities they would want to engage in the future as a result of working with creativity cards. 4 out of 7 students (57%) mentioned the interchangeability between ‘composer’/ ’performer’ in the making and performing digital scores as truly transformational to how they will view music-making in the future. These students also appreciated the accessibility of digital scores that could invite untrained musicians or the audience into making music.
+
 In analyzing the evolution in the digital musicianship surveys, we can see that the changes that took place in students’ musicianship could be supported by our observations from a three-day workshop on students’ creative process. Here, we observed students’ engagement, immersion and play with digital creativity cards, where we can conclude that meaningful interaction took place. Additionally, meaning was made in relationships that students built with the score materials and each other during the workshop, as many mentioned ‘collaboration’ and ‘communication’ with the score and each other that formed part of their reflection on whether they would use this approach in the future. The meaningful interactions that students had with creativity cards show that transformative experiences took place which have contributed to students’ digital musicianship.
 
 
