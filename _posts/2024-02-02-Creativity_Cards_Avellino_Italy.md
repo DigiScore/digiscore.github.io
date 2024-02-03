@@ -3,7 +3,7 @@ layout: post
 title: Creativity Cards Workshop at the Cimarosa Conservatory in Avellino, Italy
 subtitle: 
 cover-img: /assets/img/cards2.png
-thumbnail-img: /assets/img/avellino_workshop.jpeg.jpg
+thumbnail-img: /assets/img/avellino_workshop.jpeg
 tags: [digital_musicianship]
 ---
 
