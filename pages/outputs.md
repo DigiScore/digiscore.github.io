@@ -189,6 +189,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
+2024   "Jess+: Intelligent Digiscore for inclusive music-making" [http://doi.org/10.17639/nott.7380](http://doi.org/10.17639/nott.7380)
+
 2023   "Dynamic Landscapes - DigiScore Internship" [http://doi.org/10.17639/nott.7343](http://doi.org/10.17639/nott.7343)
 
 2023   "Speechless Opera by Cat Hope" [https://rdmc.nottingham.ac.uk/handle/internal/10797](https://rdmc.nottingham.ac.uk/handle/internal/10797)
