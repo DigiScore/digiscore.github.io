@@ -2,8 +2,8 @@
 layout: post
 title: Returns and Simulacra by Solomiya Moroz
 subtitle: for Zubin Kanga
-cover-img: /assets/img/Zubin.png
-thumbnail-img: /assets/img/Zubin.png
+cover-img: /assets/img/zubin.png
+thumbnail-img: /assets/img/zubin.png
 tags: [case_study]
 ---
 
@@ -72,8 +72,10 @@ Returns and Simulacra is a digital score for Zubin Kanga which explores identity
 The process involved years of development, with intermittent filming and iterative adjustments to integrate the instrument with video projection. Critical insights highlight connectivity through video score integration, multifaceted performative identity, and challenges of virtual instrument interfaces. Performer felt in the flow of the performance when observing structured progression evolving into improvisation, gradual openness to video cues, and exploration of gestural responses to sound and visuals. Digital musicianship insights emphasize the performer's background in gestural interfaces, embodiment requirements, and skill expansion through character embodiment. Transformations include reflective performance experiences, learning and growth with new technology, and exploration of theatrical elements, informing future works and enriching artistic practice.
 
 Piece developed for Zubin Kanga as part of [Cyborg Soloists](https://www.cyborgsoloists.com/)' commissioning project and DigiScore project case studies.
+
 Personnel
 
 [Zubin Kanga](https://www.zubinkanga.com/)
+
 [Solomiya Moroz](https://www.solomiyamoroz.com/)
 
