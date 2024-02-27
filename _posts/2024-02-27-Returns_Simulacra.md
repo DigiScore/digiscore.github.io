@@ -2,8 +2,8 @@
 layout: post
 title: Returns and Simulacra by Solomiya Moroz
 subtitle: for Zubin Kanga
-cover-img: /assets/img/zubin.png
-thumbnail-img: /assets/img/zubin.png
+cover-img: /assets/img/Zubin.png
+thumbnail-img: /assets/img/Zubin.png
 tags: [case_study]
 ---
 
