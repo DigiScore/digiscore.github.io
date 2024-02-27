@@ -89,6 +89,7 @@ cover-img: /assets/img/outputs_banner.png
 
 2023    Presentation: _Digital Musicianship: Evaluation of the Digital Score Research from the North
 American Tour 2023_ (Solomiya Moroz), GAPS2 - Global Arts and Psychology Seminar "Creativity in music and the arts", September 14-16, 2023
+
 Book of Abstracts, Kempf, A., Parncutt, R., Martínez, I. C., Pérez, J. B., Glasser, S., Osborne, M., Daffern, H., Waddington-Jones, C., O’Neill, K., Schiavio, A. (org.), 2024.
 [https://doi.org/10.25364/554.2024.1](https://doi.org/10.25364/554.2024.1)
 
