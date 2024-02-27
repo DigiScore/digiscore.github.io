@@ -19,6 +19,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
+2024    Vear, C., & Moroz, S., (2022-24) "Diving Deep with Nautilus: an analysis of musicking with a game engine as a digital score". Journal of Creative Music Systems.
+
 2023    Vear, C., Benford, S., Avila, J. M., & Moroz, S. (2023). Human-AI Musicking: A Framework for Designing AI for Music Co-creativity. AIMC 2023. Retrieved from https://aimc2023.pubpub.org/pub/zd46ltn3
 
 2023    Amerotti, M., Benford, S., Sturm, B., Vear, C., (2023) "A Live Performance Rule System arising from Irish Traditional Dance Music". Proceedings from CMMR2023, the 16th International Symposium on Computer Music Multidisciplinary Research
@@ -28,8 +30,6 @@ cover-img: /assets/img/outputs_banner.png
 2023    Vear, C., Moroz, S., (2023) "The Digital Score: a review of research spanning 2022-23". Proceedings from TENOR Conference 2023, [https://www.tenor-conference.org/proceedings.html](https://www.tenor-conference.org/proceedings.html)
 
 2023    Vear, C., Rees, C., & Stephenson, A. (2023). "NAUTILUS: A CASE STUDY IN HOW A DIGITAL SCORE CAN TRANSFORM CREATIVITY". Tempo, 77(303), 33-42. doi:10.1017/S0040298222000791 [https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C](https://www.cambridge.org/core/journals/tempo/article/abs/nautilus-a-case-study-in-how-a-digital-score-can-transform-creativity/ECA8754B7F504F62A1B54D343D8E093C)
-
-2022    Vear, C., & Moroz, S., (2022) "Diving Deep with Nautilus: an analysis of musicking with a game engine as a digital score" 
 
 2021    Vear, C., "Creative AI and Musicking Robots" in Frontiers in Robotics and AI [https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full](https://www.frontiersin.org/articles/10.3389/frobt.2021.631752/full)
 
