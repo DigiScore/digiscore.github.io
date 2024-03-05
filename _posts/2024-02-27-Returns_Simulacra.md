@@ -12,6 +12,8 @@ tags: [case_study]
 <div class="nv-iframe-embed"><iframe loading="lazy" title="Returns & Simulacra" width="100%" height="100%" src="https://www.youtube.com/embed/XxOq41A-2uY?si=1mSma4kLS0uEEx2h?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
+**Full Dataset** [http://doi.org/10.17639/nott.7385](http://doi.org/10.17639/nott.7385)
+
 **About Returns and Simulacra** 
 
 Returns and Simulacra is a digital score that integrates sound, video projections, and live performance to explore themes of identity and reality. The performer, Zubin Kanga, interacts with a digital score using an instrument called Piano Hands, which incorporates mini bee accelerometers and touch-sensor attachments. This instrument allows Kanga to control a Max/MSP patch interface wirelessly, shaping the audiovisual elements of the performance in real time. The piece delves into the performer's multiple identities on stage, blurring the lines between reality and virtuality. It incorporates footage of Kanga himself, as well as archived performances of British queer cabaret performers from the past, such as Douglas Byng from the 1930s. These different characters are matched with specific piano sound samples, creating a juxtaposition between traditional and modern, classical and comedic, and various other contrasts.
