@@ -19,7 +19,7 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
-2024    Vear, C., & Moroz, S., (2022-24) "Diving Deep with Nautilus: an analysis of musicking with a game engine as a digital score". Journal of Creative Music Systems.
+2024    Vear, C., & Moroz, S., (2022-24) "Diving Deep with Nautilus: an analysis of musicking with a game engine as a digital score", Journal of Creative Music Systems 8(1). doi: https://doi.org/10.5920/jcms.1261
 
 2023    Vear, C., Benford, S., Avila, J. M., & Moroz, S. (2023). Human-AI Musicking: A Framework for Designing AI for Music Co-creativity. AIMC 2023. Retrieved from https://aimc2023.pubpub.org/pub/zd46ltn3
 
@@ -36,6 +36,10 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Performances
+
+2024    *Solaris* full set performance at Haslet Rooms, London - March 2024
+
+2024    *Jess+* first public performance at Institute of Engineering, Savoy House. Part of the TAS showcase - March 2024
 
 2023    *Jess+* premiere performance at BBC Media Cafe, London. Part of the BRAID conference - September 2023
 
