@@ -199,6 +199,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
+2024   "Queer Temporal by Solomiya Moroz" [http://doi.org/10.17639/nott.7390](http://doi.org/10.17639/nott.7390)
+
 2024   "Returns & Simulacra by Solomiya Moroz" [http://doi.org/10.17639/nott.7385](http://doi.org/10.17639/nott.7385)
 
 2024   "Jess+: Intelligent Digiscore for inclusive music-making" [http://doi.org/10.17639/nott.7380](http://doi.org/10.17639/nott.7380)
