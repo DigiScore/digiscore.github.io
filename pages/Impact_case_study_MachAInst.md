@@ -32,6 +32,7 @@ creativity, self-beliefs and imagination are tested and formulated. It is an enj
 education and a contributor to social integration. However, segregation and difference can compound into 'otherness' 
 which can further exclude disabled children.
 
+![MachAInst user interface prototype, by Fabrizio Poltronieri and Jonattas Poltronieri](/assets/img/mach_ui.png){: .mx-auto.d-block :}
 
 ## **The Research**
 
@@ -76,7 +77,9 @@ anchored in the notation. The help symbols were removed with each correct answer
 
 ![Screenshot of Early prototype with notation helpers](/assets/img/thumbnail_machAInst_test.jpg){: .mx-auto.d-block :}
 ![Initial game design by Vear 1](/assets/img/mach_game_design1.JPG){: .mx-auto.d-block :}
-![Initial game design by Vear 2](/assets/img/aNW_arrow_name.png){: .mx-auto.d-block :}
+![Initial game design by Vear 2](/assets/img/mach_game_design2.JPG){: .mx-auto.d-block :}
+
+
 
 ## **The Outcomes** (written by Kelvin Macharia and Craig Vear)
 
