@@ -87,6 +87,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Presentations & Workshops
 
+2024    DigiScore seminar at Edna Manley School of Music, Jamaica, March 15, 2024
+
 2024    DigiScore seminar at Georgia Tech, February 15, 2024
 
 2023    DigiScore seminar at RITMO, University of Oslo, October 15, 2023
