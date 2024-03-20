@@ -16,7 +16,7 @@ accessibility to music education and making, while building bridges towards incl
 
 ## **The Issue**
 
-In many cultures around the world being disabled means being segregated: different schools, different opportunities,
+In many cultures around the world being a disabled child means being segregated: different schools, different opportunities,
 different funding, different access. In music education that can involve having limited access to instruments and 
 learning because of the dominance of a "mainstream" focus on what instruments, participation modes, and 
 expectations of excellence is acceptable. This can mean that for a disabled child who can not play am mainstream 
