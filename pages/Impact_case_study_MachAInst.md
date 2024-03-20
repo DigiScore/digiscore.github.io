@@ -66,16 +66,17 @@ were presented on the game stave (lowest in the figure above) and the musicians 
 onto the next. The game was designed in levels, starting with simple octaves, and adding increasing complexity with 5ths,
 3rds, and then into sharps and flats.
 
-Because _MachAInst_ was a digital score, the feel of the whole experience was considered in the design. Sound effects 
+Because _MachAInst_ was a digital score, the feel of the whole experience was considered in the design (see game design below. 
+Sound effects 
 were embedded into the user interface, as was level indicators, lives and progression comments. The design revolved 
 around _neoscore_ (a DigiScore project) that supported the realtime generation of the onscreen notation, and enabled 
 various help symbols to be embedded in the score. Easy mode showed the note, with a coloured arrow (determining the 
 joystick direction and using colours to highlight the specific notes), and also the note name, both 
 anchored in the notation. The help symbols were removed with each correct answer, or added when mistakes were made.
 
-![Example of MachAInst notes with helpers](/assets/img/aNW_arrow_name.png){: .mx-auto.d-block :}
-
-
+![Screenshot of Early prototype with notation helpers](/assets/img/thumbnail_machAInst_test.jpg){: .mx-auto.d-block :}
+![Initial game design by Vear 1](/assets/img/mach_game_design1.JPG){: .mx-auto.d-block :}
+![Initial game design by Vear 2](/assets/img/aNW_arrow_name.png){: .mx-auto.d-block :}
 
 ## **The Outcomes** (written by Kelvin Macharia and Craig Vear)
 
@@ -117,6 +118,8 @@ unaccommodating education system and the high cost of acquiring traditional inst
 adapted instruments, it solves problems that are not unique to disabled musicians. Consequently, the music teacher at 
 Joytown sees it as the future of music education in Kenya. 
 
+
+
 ## **Code**
 -	The GitHub repository for this code [LINK](https://github.com/DigiScore/machAInst)
 
@@ -146,4 +149,4 @@ of the score/ instrument, and conducted valuable qualitative and quantitative su
 
 **SA Joytown Secondary School**  
 Joytown is a co-educational boarding primary and secondary school for learners with physical disabilities in 
-Thika town, Kiambu County, Keny
+Thika town, Kiambu County, Kenya
