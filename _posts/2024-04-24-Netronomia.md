@@ -13,18 +13,6 @@ tags: [case_study]
 
 **Digital Score GitHub repository:** [https://github.com/cayko-0/netronomia](https://ethancayko.com/netronomia)
 
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="Netronomia - Vermont" height="100%" src="https://www.youtube.com/embed/4URQXaIy9Zw?si=_SGcCgsmOHdOHK42?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</div></figure>
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="Netronomia - California" height="100%" src="https://www.youtube.com/embed/roPPnkdDRKY?si=TGyF4AXBCMH34AUY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</div></figure>
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="Netronomia - Beijing" height="100%" src="https://www.youtube.com/embed/NpDCcOwOJLQ?si=ZmkfDzn29QPvWix7?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</div></figure>
-
 **About Netronomia**
 
 _Netronomia_ uses the Netronome, a networked metronome developed at UCSB by Ethan Cayko, to create a multi-city rhythmic work. It addresses the challenge of synchronising performers across different locations with varying latencies, making rhythmic accuracy difficult without adjustment. The Netronome facilitates calibration of timing relationships, enabling musicians to play together despite being physically apart. The Netronome introduces rhythmic offsets due to latency, resulting in performers experiencing different rhythmic versions of the same music. The Netronome challenges traditional notions of musical scores by materially structuring the temporal space between performers. Unlike traditional scores, it not only provides instructions for sound production but also regulates temporal relationships among performers. This feature could empower composers to craft desired rhythmic units and give musicians control over their performances, mitigating the impact of network latency on intentionality.
@@ -140,7 +128,17 @@ The process involved research on network music, focusing on latency acceptance, 
 
 _Netronomia_ utilises the Netronome, a networked metronome developed at UCSB by Ethan Cayko, to compose a multi-city transcontinental rhythmic work. Its main goal is to synchronise performers across different locations with varying latencies. The Netronome enables timing calibration, allowing musicians to play together despite physical separation. It introduces rhythmic offsets due to latency, challenging traditional musical score concepts. The project involved thorough research on network music and addressing latency issues through technological setup. Rehearsals and performances were conducted remotely, focusing on continuous improvement.  _Netronomia_ enhances connectivity through visual scores, sound feedback, and exploration of toporhythmic music. These aspects facilitated communication, coordination, and appreciation of networked music among performers. Dynamic latency adjustment and technical tweaks significantly impacted performance quality and synchronisation. Flow in music creation was emphasised, allowing performers to achieve musical interaction despite physical separation. The platform promotes digital musicianship by offering customisable viewing options and encouraging exploration and experimentation. Transformations include facilitating cross-cultural collaboration, improving participants' skills, and challenging traditional musical score concepts. The platform's accessibility and user-friendly interface make collaborative music-making intuitive for performers of diverse backgrounds. Overall, the Netronome offers a practical approach to collaborative music creation, leveraging digital technologies to overcome geographical barriers and enhance artistic expression.
 
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Netronomia - Vermont" height="100%" src="https://www.youtube.com/embed/4URQXaIy9Zw?si=_SGcCgsmOHdOHK42?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
 
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Netronomia - California" height="100%" src="https://www.youtube.com/embed/roPPnkdDRKY?si=TGyF4AXBCMH34AUY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Netronomia - Beijing" height="100%" src="https://www.youtube.com/embed/NpDCcOwOJLQ?si=ZmkfDzn29QPvWix7?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
 
 
 
