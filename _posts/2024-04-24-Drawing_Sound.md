@@ -174,8 +174,13 @@ Decibel New Music, a Western Australian ensemble, launched a new program aimed a
 
 **Personnel**
 [Decibel New Music](https://decibelnewmusic.com/)
+
 [Kezia Yap](https://art2022.finearts-music.unimelb.edu.au/programs/master-of-fine-art/kezia-yap)
+
 [Donna Hewitt](https://donnahewitt.net/)
+
 [David Brown](https://liquidarchitecture.org.au/artists/dave-brown)
+
 [Kate Milligan](https://www.katemilligan.com.au/) 
+
 [Brenda Gifford](https://brendagiffordmusic.com/)
