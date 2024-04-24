@@ -170,6 +170,7 @@ I*nterdisciplinary Approach:*
 Decibel New Music, a Western Australian ensemble, launched a new program aimed at transforming musical creativity and audience experiences by exploring music notation in a unique way. Drawing Sound in Space involved presenting various forms of notation, from graphic scores to composer drafts, in a 3D space using innovative projection technology. Composers collaborated closely with the ensemble and projection designer to design and present their scores, incorporating multimedia elements such as mobile phone footage, digital video camera footage, water, and projections. The project emphasized spatial exploration, interdisciplinary collaboration, audience engagement, and innovative performance practices. It aimed to transform music notation by utilising 3D space and immersive experiences, blurring the boundaries between composer, performer, and audience. The integration of digital scores into performances challenged traditional notions of musical hierarchy and encouraged a more interactive and inclusive experience. Despite challenges, performers demonstrated adaptability and flexibility, contributing to the cohesive execution of the pieces. The project sparked further curiosity and research into the possibilities of digital scores, indicating a desire for continued innovation in this field.
 
 **Personnel**
+
 [Decibel New Music](https://decibelnewmusic.com/)
 
 [Kezia Yap](https://art2022.finearts-music.unimelb.edu.au/programs/master-of-fine-art/kezia-yap)
