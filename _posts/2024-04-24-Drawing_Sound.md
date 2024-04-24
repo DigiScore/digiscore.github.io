@@ -14,9 +14,6 @@ tags: [case_study]
 
 **About Drawing Sound in Space**
 
-**Performance trailer:** 
-[https://www.youtube.com/watch3XE?v=9BmPvx5j](https://www.youtube.com/watch3XE?v=9BmPvx5j)
-
 Decibel New Music, a Western Australian ensemble, launched a new program that explored music notation in a unique way. They took various forms of notation, from graphic scores to composer drafts, and presented them in a 3D space to both performers and the audience. The program included premieres of new music by Decibel composers, as well as commissions from Kezia Yap, Donna Hewitt, David Brown, Kate Milligan and Brenda Gifford. Composers collaborated with the ensemble and projection designer Sohan Ariel Hayes to design and present their scores using 3D projection technology.
 
 **Objectives**
