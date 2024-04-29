@@ -13,7 +13,7 @@ tags: [case_study]
 
 **Digital Score GitHub repository:** [https://github.com/cayko-0/netronomia](https://ethancayko.com/netronomia)
 
-Full dataset: [http://doi.org/10.17639/nott.7409](http://doi.org/10.17639/nott.7409)
+**Full dataset:** [http://doi.org/10.17639/nott.7409](http://doi.org/10.17639/nott.7409)
 
 **About Netronomia**
 
