@@ -13,6 +13,8 @@ tags: [case_study]
 
 **Digital Score GitHub repository:** [https://github.com/cayko-0/netronomia](https://ethancayko.com/netronomia)
 
+Full dataset: [http://doi.org/10.17639/nott.7409](http://doi.org/10.17639/nott.7409)
+
 **About Netronomia**
 
 _Netronomia_ uses the Netronome, a networked metronome developed at UCSB by Ethan Cayko, to create a multi-city rhythmic work. It addresses the challenge of synchronising performers across different locations with varying latencies, making rhythmic accuracy difficult without adjustment. The Netronome facilitates calibration of timing relationships, enabling musicians to play together despite being physically apart. The Netronome introduces rhythmic offsets due to latency, resulting in performers experiencing different rhythmic versions of the same music. The Netronome challenges traditional notions of musical scores by materially structuring the temporal space between performers. Unlike traditional scores, it not only provides instructions for sound production but also regulates temporal relationships among performers. This feature could empower composers to craft desired rhythmic units and give musicians control over their performances, mitigating the impact of network latency on intentionality.
