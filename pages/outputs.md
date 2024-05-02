@@ -201,6 +201,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
+2024  "Drawing Sound in Space" [https://rdmc.nottingham.ac.uk/handle/internal/11416](https://rdmc.nottingham.ac.uk/handle/internal/11416)
+
 2024  "Netronomia by Ethan Cayko" [http://doi.org/10.17639/nott.7409](http://doi.org/10.17639/nott.7409)
 
 2024   "Queer Temporal by Solomiya Moroz" [http://doi.org/10.17639/nott.7390](http://doi.org/10.17639/nott.7390)
