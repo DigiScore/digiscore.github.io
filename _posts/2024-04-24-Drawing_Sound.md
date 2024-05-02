@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sound Drawing in Space
+title: Drawing Sound in Space
 subtitle: Performance of five new commissioned digital scores in 3D Space by Decibel New Music
 cover-img: /assets/img/Decibel Sound.jpg
 thumbnail-img: /assets/img/Decibel Sound.jpg
