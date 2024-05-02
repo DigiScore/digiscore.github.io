@@ -12,7 +12,7 @@ tags: [case_study]
 <div class="nv-iframe-embed"><iframe loading="lazy" title="Decibel new music ensemble: Sound Drawing In Space [teaser]" width="100%" height="100%" src="https://www.youtube.com/embed/9BmPvx5j3XE?si=9wJ8wLqFGqjZAa9g?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
-**Full dataset:** [https://rdmc.nottingham.ac.uk/handle/internal/11416](https://rdmc.nottingham.ac.uk/handle/internal/11416)
+**Full dataset:** [http://doi.org/10.17639/nott.7411](http://doi.org/10.17639/nott.7411)
 
 **About Drawing Sound in Space**
 
