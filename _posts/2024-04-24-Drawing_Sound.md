@@ -26,6 +26,8 @@ This project aimed to transform musical creativity, musicianship, and audience e
 
 Prior to the performance in Perth, composers collaborated closely with the ensemble's artistic director Cat Hope, production manager Tristan Parr, and projectionist Sohan Ariel Hayes to bring their 3D digital score ideas to life. Some scores were initially presented as drawings or graphic representations, requiring digitisation and projection through the Decibel Score Player. Others were fully developed concepts that necessitated assistance from the production manager to manifest in physical space. This process involved extensive collaboration between the composers' original score ideas and the ensemble's execution, leading to the creation of additional electronic parts and reinterpretation of the pieces to suit the performance venue's environment. Unfortunately, composers were not present at the concert to provide feedback on the realisation of their works. It is hoped that future performances will involve composers more actively in the final presentation of their works.
 
+**Critical Insights from the Analysis**
+
 **Connectivity**
 
 •	Composers used multimedia elements in compositions of their works such as mobile phone footage, digital video camera footage, water, and projections in space to communicate their digital score ideas.

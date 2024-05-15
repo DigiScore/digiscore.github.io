@@ -28,6 +28,8 @@ The primary objective was to employ the newly developed Netronome to compose a m
 
 The process involved research on network music, focusing on latency acceptance, groove-based music, and rhythmic topologies in order to understand the technical aspect of these materials. The making of the visual score involved incorporation of Euclidean rhythms, pitch sets, and articulation marks for different instruments (guqin, cello, bass). Technological setup involved configuring network connections and addressing latency issues between musicians located in Vermont, California and Beijing. This involved adjusting tempo and delay compensation in software patches to compensate for network latency. The musicians collaborated remotely, rehearsing and performing Netronomia using personal equipment and internet connections with tech teams assistance at each location. Challenges such as high internet costs, setting up home studios for musical practice, and the absence of traditional performance settings were noted and compared with traditional ensemble settings. Throughout the process, there was a focus on iterative development and improvement of the score, technological setup, and rehearsal methods. Ideas for future improvements include adding interactive elements to the score, enhancing notation systems for different instruments, and refining the technological setup for better performance.
 
+**Critical Insights from the Analysis**
+
 **_Connectivity_**
 
 *Visual Score:*
