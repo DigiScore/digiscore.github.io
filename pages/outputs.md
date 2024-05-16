@@ -19,6 +19,10 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
+2024    Moroz, S., Vear, C., & Poltronieri, F. (2024). Evaluation of digital musicianship in higher education through playing and creating digital scores. TENOR, 18. [https://www.tenor-conference.org/proceedings.html](https://www.tenor-conference.org/proceedings.html)
+
+2024    Vear, C., Hazzard, A., Moroz, S., & Benerradi, J. (2024, May). Jess+: AI and robotics with inclusive music-making. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-17).
+
 2024    Vear, C., & Moroz, S., (2022-24) "Diving Deep with Nautilus: an analysis of musicking with a game engine as a digital score", Journal of Creative Music Systems 8(1). doi: https://doi.org/10.5920/jcms.1261
 
 2023    Vear, C., Benford, S., Avila, J. M., & Moroz, S. (2023). Human-AI Musicking: A Framework for Designing AI for Music Co-creativity. AIMC 2023. Retrieved from https://aimc2023.pubpub.org/pub/zd46ltn3
