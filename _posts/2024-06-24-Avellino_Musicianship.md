@@ -4,7 +4,7 @@ title: Avellino Musicianship Workshop and Concert with Digital Scores
 May 29-31, 2024 
 cover-img: /assets/img/avellino_2024_09.jpg
 thumbnail-img: /assets/img/avellino_2024_01.jpg
-tags:
+tags: [digital_musicianship]
 ---
 Avellino Musicianship Workshop and Concert with Digital Scores 
 May 29-31, 2024
