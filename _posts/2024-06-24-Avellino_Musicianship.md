@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Avellino Musicianship Workshop and Concert with Digital Scores 
-May 29-31, 2024 
+title: Avellino Musicianship Workshop and Concert with Digital Scores May 29-31, 2024 
 subtitle: 
 cover-img: /assets/img/avellino_2024_09.jpg
 thumbnail-img: /assets/img/avellino_2024_01.jpg
@@ -20,7 +19,7 @@ Regarding the observation of students' behaviour, this time we found everyone in
 
 As there was less observational activity that we could perform during the workshop, it was particularly useful to track the development of students’ musicianship through the 3-day survey. The survey focused on the progression in digital skills, students’ creativity with digital scores and transformations in their musicianship each day of the workshop. On the last day, we asked about students’ wants & needs or what further tools and support would they need to easily engage with digital scores and pieces requiring digital media in the future.
 
-### **Digital Music Skills**
+ **Digital Music Skills**
 
 When it came to digital skills, five out of seven students mentioned that they learned new musical skills, extending their previous ensemble playing abilities. Two students emphasized the need to stay focused in the present moment, enhancing their listening skills and adopting new approaches to performing. Others highlighted the importance of mental flexibility when exposed to different types of digital scores and adapting to new notation systems. One student noted on Day 3 of the survey:
 
@@ -50,7 +49,7 @@ Students mentioned that digital scores provided intuitive and surprising feedbac
 
 Overall, we found that adapting to various digital scores and connecting with others and technology helped create a new musical experience for students. This was highlighted in their surveys as part of their creativity, technological engagement, and a balance between precision and musicality.
 
-### **Transformations**
+**Transformations**
 
 Regarding the transformations that took place, most students mentioned having innovative new experiences with certain pieces, which were transformative for their music-making: "I found those of video games innovative, especially if you take advantage of all the opportunities as a musician." Others found Ryan Ross Smith's two pieces very exciting: "Ryan Ross Smith's two pieces gave me a lot of flexibility and awareness of the future of the piece itself."
 
@@ -60,7 +59,7 @@ One student had particularly deep insights into their transformational experienc
 
 These transformative experiences led some students to reflect on the future of notation and the relationship between music and technology.
 
-### **Wants & Needs**
+**Wants & Needs**
 
 Regarding their wants and needs from musical education to support working with digital scores, students emphasized early exposure, practical experimentation, accessible training, and creating interactive platforms for digital scores.
 
@@ -70,7 +69,7 @@ Another student noted that digital scores often don't require traditional notati
 
 Another student suggested that to help average musicians see the potential of varied scoring systems, a dedicated platform or website showcasing various digital scores would be valuable: "I would consider it very beneficial to create a platform or a website where you can see many examples of digital scores and interact with them. A sort of 'App Store' where you can quickly try, play, and compose digital scores with these new means."
 
-### **Conclusion**
+**Conclusion**
 
 Based on our observations and surveys of music students' experiences with the Typology of the Digital Score programme, we conclude that the experience was beneficial for their musicianship. The surveys indicate a positive outcome from the workshop, with students noting that they gained a deeper understanding of working with digital scores. Students emphasized the importance of adaptability, flexibility, and the ability to adjust to various conditions and technologies. They also highlighted the innovative aspects of digital scores, such as those based on robots and AI, and the necessity of mental flexibility in interpreting them. While digital scores can be complex, the students concluded that they are a valuable tool for musicians to develop their skills and musical understanding.
 
