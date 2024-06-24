@@ -25,7 +25,7 @@ When it came to digital skills, five out of seven students mentioned that they l
 
 "The exposure to so many digital scores has allowed me to acquire considerable mental flexibility. This key skill lies in the ability to understand and adapt to heterogeneous symbols and notation systems. Through this training experience, I believe that my skills in this area have reached a significantly higher level of knowledge on the 'Digital Score' topic."
 
-Digital Score Creativity
+**Digital Score Creativity**
 
 In the Digital Score Creativity section, we tracked the evolving relationship with digital scores by examining the connection to their materials and the feedback students received during their interactions. The surveys revealed that participants found the process both enriching and engaging, noting that deeper engagement was possible due to their previous experiences with digital scores from the October workshop: "It was very easy because I had accumulated experience from the past year, and this allowed me to be very involved in the digital scores."
 
