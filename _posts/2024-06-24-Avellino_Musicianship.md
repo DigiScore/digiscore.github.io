@@ -6,8 +6,8 @@ cover-img: /assets/img/avellino_2024_09.jpg
 thumbnail-img: /assets/img/avellino_2024_01.jpg
 tags: [digital_musicianship]
 ---
-Avellino Musicianship Workshop and Concert with Digital Scores 
-May 29-31, 2024
+**Avellino Musicianship Workshop and Concert with Digital Scores 
+May 29-31, 2024**
 
 The DigiScore research team was invited back to the Cimarosa Conservatory in Avellino, Italy. We presented a practice-based workshops and a concert on the typology of the digital score from May 29-31, 2024. This time, our research focused on students' musicianship as they interpreted the digital scores presented to them. We observed their behavior and conducted a three-day survey to track their skills, creativity, and transformations.
 
