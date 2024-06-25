@@ -205,6 +205,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
+2024  "Point Line Piano" by Jarek Kapuscinski [http://doi.org/10.17639/nott.7414](http://doi.org/10.17639/nott.7414)
+
 2024  "Sound Drawing in Space" [http://doi.org/10.17639/nott.7411](http://doi.org/10.17639/nott.7411)
 
 2024  "Netronomia by Ethan Cayko" [http://doi.org/10.17639/nott.7409](http://doi.org/10.17639/nott.7409)
