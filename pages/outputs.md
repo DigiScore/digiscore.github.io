@@ -91,6 +91,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Presentations & Workshops
 
+2024    DigiScore Presentation in WRO (Wroclaw Art Centre), Wroclaw, Poland, June 27, 2024
+
 2024    DigiScore seminar at Edna Manley School of Music, Jamaica, March 15, 2024
 
 2024    DigiScore seminar at Georgia Tech, February 15, 2024
