@@ -12,7 +12,7 @@ tags: [case_study]
 
 video documentation: [https://vimeo.com/934892624](https://vimeo.com/934892624)
 
-E*xercices d'étrangeté III Mycorrhizia* is an explorative work at the convergence of music, technology, and visual art. Its central feature is a digitally generated score projected onto the floor between musicians, utilising a cloth patterned with a custom mycelium-dye procedure as the projection surface. This visual backdrop symbolises interconnectedness, with musicians wearing vests made from the same cloth. The score's projection metaphorically simulates the exchange of bio-chemical information in mycelial networks using icons derived from mycelium images. These icons move around the space, triggering specific musical gestures and shaping the overall musical form, offering a new approach to ensemble composition where communication and coordination among musicians evolve dynamically. In addition to the main movements, the work incorporates interlude movements featuring large-scale cellular automata simulations of mycelial growth, influencing musicians' improvisation through comprovisation scores. This unpredictability adds spontaneity to the performance, enhancing the immersive experience for both performers and audiences. The potential for the score to become interactive introduces further possibilities, with the mycelial network responding to musical behaviors as if they were external influences, offering avenues for novel forms of interconnected musical growth.
+*Exercices d'étrangeté III Mycorrhizia* is an explorative work at the convergence of music, technology, and visual art. Its central feature is a digitally generated score projected onto the floor between musicians, utilising a cloth patterned with a custom mycelium-dye procedure as the projection surface. This visual backdrop symbolises interconnectedness, with musicians wearing vests made from the same cloth. The score's projection metaphorically simulates the exchange of bio-chemical information in mycelial networks using icons derived from mycelium images. These icons move around the space, triggering specific musical gestures and shaping the overall musical form, offering a new approach to ensemble composition where communication and coordination among musicians evolve dynamically. In addition to the main movements, the work incorporates interlude movements featuring large-scale cellular automata simulations of mycelial growth, influencing musicians' improvisation through comprovisation scores. This unpredictability adds spontaneity to the performance, enhancing the immersive experience for both performers and audiences. The potential for the score to become interactive introduces further possibilities, with the mycelial network responding to musical behaviors as if they were external influences, offering avenues for novel forms of interconnected musical growth.
 
 
 **Objectives**
@@ -32,7 +32,7 @@ Despite limitations, such as the inability for the programmed score to react to 
 
 **Connectivity**
 
-_***Communication Network***_
+_**Communication Network**_
 
 · The project represents musicians' interactions as communication through a network, drawing inspiration from mycorrhizal networks where trees exchange information and nutrients.
 
@@ -131,4 +131,10 @@ _***Communication Network***_
 "Exercices d'étrangeté III Mycorrhizia" is an innovative work combining music, technology, and visual art. Central to this piece is a digitally generated score projected onto a custom mycelium-dyed cloth, symbolizing interconnectedness. Musicians wear vests made from the same material, reinforcing thematic unity. Icons inspired by mycelium images move across the projection surface, triggering specific musical gestures and shaping the performance.
 
 The development process, led by Sandeep Bhagwati, Alexandra Bachmayer, and Mike Cassidy, involved experimenting with visual and technological elements to create a living, unpredictable environment. The interactive score projection aimed to foster dynamic communication among musicians. Practical constraints, like portability, were considered, and materials, colors, and projections were optimized for clarity. Large-scale cellular automata simulations were integrated to further immerse performers in the mycorrhizal metaphor. Connectivity is a key theme, with the project representing musicians' interactions as a communication network, drawing analogies from biological systems like mycelial growth. The digital score mediates between musicians and the environment, creating a generative and unpredictable performance. "Gestural molecules," short rhythmic gestures, allow flexible yet consistent communication. The project uses eco-friendly materials and organic aesthetics to reinforce its connection to nature and sustainability. The iterative process involved continuous feedback from musicians, ensuring the score evolved with their needs and artistic vision. The project is seen as a prototype with potential for further development, aiming to offer a transformative experience that challenges perceptions of music, technology, and interconnectedness.
+
+**Personnel**
+
+[Sandeep Bhagwati](https://www.concordia.ca/faculty/sandeep-bhagwati.html)
+[Alexandra Bachmayer](https://matralab.hexagram.ca/people/bachmayer-alexandra/)
+[Quasar Saxophone Quartet](https://quasar4.com/en)
 
