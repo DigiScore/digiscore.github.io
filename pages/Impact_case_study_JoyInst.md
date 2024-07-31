@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Impact case study - MachAInst
+title: Impact case study - JoyInst
 tags: impact
 thumbnail-img: /assets/img/MainInterface.png
 cover-img: /assets/img/MainInterface.png
 ---
 
 
-# **MachAInst: Digital Score for inclusive music education for disabled children in Kenya.**
+# **JoyInst: Digital Score for inclusive music education for disabled children in Kenya.**
 
 Developing a digital score as a platform for inclusive music education for disabled children in Kenya. The 
 digital score was embedded with a learning game, and a low-cost digital instrument interface that break barriers of 
@@ -58,8 +58,8 @@ inclusive situation is that many manufacturers now supply accessible controllers
 a relatively low price (£75), with other more bespoke accessible games controllers easily built through DIY kits or 
 bought online.
 
-The controller alone, was only a single aspect of _MachAInst_ with its programmed "learning game" another design aspect.
-_MachAInst_ had 2 selectable modes: 1) open play, where the musician could freely play notes using the joystick and 
+The controller alone, was only a single aspect of _JoyInst_ with its programmed "learning game" another design aspect.
+_JoyInst_ had 2 selectable modes: 1) open play, where the musician could freely play notes using the joystick and 
 associated buttons for sharps and flats, and octave shifts, as well as volume control. There was also a selection of 
 instruments ranging from flutes, kalimba, moog synth and vocal effects, enabling a group to be formed with different
 sound and parts. 2) the second mode was the "learning game" that presented a simple "follow-my-leader" game where notes
@@ -67,7 +67,7 @@ were presented on the game stave (lowest in the figure above) and the musicians 
 onto the next. The game was designed in levels, starting with simple octaves, and adding increasing complexity with 5ths,
 3rds, and then into sharps and flats.
 
-Because _MachAInst_ was a digital score, the feel of the whole experience was considered in the design (see game design below. 
+Because _JoyInst_ was a digital score, the feel of the whole experience was considered in the design (see game design below. 
 Sound effects 
 were embedded into the user interface, as was level indicators, lives and progression comments. The design revolved 
 around _neoscore_ (a DigiScore project) that supported the realtime generation of the onscreen notation, and enabled 
@@ -84,7 +84,7 @@ anchored in the notation. The help symbols were removed with each correct answer
 ## **The Outcomes** (written by Kelvin Macharia and Craig Vear)
 
 Macharia's research project at SA Joytown Secondary School exceeded our hopes and expectations in several ways as 
-_MachAInst_ was received in an overwhelmingly positive light. Observing the complex musical 
+_JoyInst_ was received in an overwhelmingly positive light. Observing the complex musical 
 activities the students could undertake with just a few goes of playing was surprising and rewarding for both Macharia, 
 and the research participant, the music teacher at Joytown. For example, with just about an hour of playing the 
 instrument, students could play the technical exercises required for their national exams (The Kenya Certificate of 
@@ -92,26 +92,26 @@ Secondary Education), such as scales and arpeggios. They also explored creating 
 playing various pieces in a group ensemble with singers.
 
 The instrument also gamified the process of learning. Using the step-by-step lessons that Vear had embedded in the
-_MachAInst_ "learning game", the students felt supported to undertake these complex musical activities, capitalising on 
+_JoyInst_ "learning game", the students felt supported to undertake these complex musical activities, capitalising on 
 their productivity and engaged for long periods of time. As the music teacher remarked, this instrument was not like 
 any other traditional instrument because it was also a rewarding game for the young people. The teacher went on to say 
 it was the most engaging instrument he had seen students use, and thanks to this, some students who were previously 
 struggling to keep engaged in class showed considerable interest 
 in the subject, which was a surprise to the teacher. His only hope was that this interest would be sustained after the 
-study, hence the need to continue this research and develop _MachAInst_ further.
+study, hence the need to continue this research and develop _JoyInst_ further.
 
-_MachAInst_ presented two central answers as a solution for the access. The first one was cost-efficiency, which is a key 
+_JoyInst_ presented two central answers as a solution for the access. The first one was cost-efficiency, which is a key 
 hindrance to disabled people accessing music in Kenya, most of whom come from low-income backgrounds. With cheap and 
 relatively accessible game controllers and a piece of software, young people were able to undertake increasingly complex musical 
 activities. The instrument also presented easily adjustable software, which could accommodate different controllers that 
 worked for different musicians. This is a level of customisation that is unprecedented in the Kenyan music education 
 scene, yet a necessity for disabled musicians who have unique needs that their controller/ interfaces need to accommodate.
 
-The other important solution that _MachAInst_ presented to the music teacher at Joytown was its ability to combine music 
+The other important solution that _JoyInst_ presented to the music teacher at Joytown was its ability to combine music 
 theory and practical musicianship into one. Our research shows that combining music theory and the act of music-making is a 
 significant challenge for many secondary school students in Kenya. This was also the case for the students at Joytown, 
 as the music teacher revealed. In his long teaching career, he was used to having students who could write the music but 
-had challenges performing it, or vice versa. However, _MachAInst_ combined elements of sightreading, aural musicianship,
+had challenges performing it, or vice versa. However, _JoyInst_ combined elements of sightreading, aural musicianship,
 hand-ear coordination and performance into one. The musicians could see the note they were playing, hear it and perform 
 it simultaneously, 
 which, as the teacher observes, goes a long way in creating holistic musicians who can hear, read and perform music.
@@ -124,7 +124,7 @@ Joytown sees it as the future of music education in Kenya.
 
 
 ## **Code**
--	The GitHub repository for this code [LINK](https://github.com/DigiScore/machAInst)
+-	The GitHub repository for this code [LINK](https://github.com/DigiScore/JoyInst)
 
 
 # **Participants**
