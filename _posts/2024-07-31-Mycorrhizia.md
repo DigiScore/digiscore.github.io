@@ -10,7 +10,7 @@ tags: [case_study]
 
 **About Exercices d'étrangeté III Mycorrhizia by Sandeep Bhagwati**
 
-video documentation: https://vimeo.com/934892624
+video documentation: [https://vimeo.com/934892624](https://vimeo.com/934892624)
 
 E*xercices d'étrangeté III Mycorrhizia* is an explorative work at the convergence of music, technology, and visual art. Its central feature is a digitally generated score projected onto the floor between musicians, utilising a cloth patterned with a custom mycelium-dye procedure as the projection surface. This visual backdrop symbolises interconnectedness, with musicians wearing vests made from the same cloth. The score's projection metaphorically simulates the exchange of bio-chemical information in mycelial networks using icons derived from mycelium images. These icons move around the space, triggering specific musical gestures and shaping the overall musical form, offering a new approach to ensemble composition where communication and coordination among musicians evolve dynamically. In addition to the main movements, the work incorporates interlude movements featuring large-scale cellular automata simulations of mycelial growth, influencing musicians' improvisation through comprovisation scores. This unpredictability adds spontaneity to the performance, enhancing the immersive experience for both performers and audiences. The potential for the score to become interactive introduces further possibilities, with the mycelial network responding to musical behaviors as if they were external influences, offering avenues for novel forms of interconnected musical growth.
 
@@ -32,7 +32,7 @@ Despite limitations, such as the inability for the programmed score to react to 
 
 **Connectivity**
 
-*Communication Network*
+_***Communication Network***_
 
 · The project represents musicians' interactions as communication through a network, drawing inspiration from mycorrhizal networks where trees exchange information and nutrients.
 
@@ -50,7 +50,7 @@ Despite limitations, such as the inability for the programmed score to react to 
 
 · Eco-friendly materials and organic aesthetics are incorporated, reinforcing the project's thematic connection to nature and sustainability.
 
-*Design considerations*
+***Design considerations***
 
 · The digital score provides musicians with a diverse range of interpretative possibilities, spanning deterministic, generative, symbolic, and abstract directions. This approach enriches the musical experience and opens avenues for creative expression.
 
@@ -62,19 +62,19 @@ Despite limitations, such as the inability for the programmed score to react to 
 
 · The design of the digital score is responsive to the needs and abilities of the musicians. Icons and molecules are carefully crafted to be visually distinct yet meaningful, allowing performers to navigate the score with ease while maintaining engagement and clarity.
 
-*Continuous Feedback Loop*
+***Continuous Feedback Loop***
 
 · The iterative process of developing the digital score involved constant adjustments based on feedback from musicians and the discretion of the composer.
 
 · This feedback loop ensures that the score evolved together with the performers' needs and artistic vision.
 
-*Embodiment and Interaction*
+***Embodiment and Interaction***
 
 · The use of hand-dyed costumes and a mycelial network enhanced performers' embodiment of the piece, fostering a way of thinking and communicating.
 
 · The physicality of interaction with the score, projected onto fabric, further reinforces the connection between musicians and the music.
 
-*Collaborative Process*
+***Collaborative Process***
 
 · The development of the digital score involved close collaboration between musicians, composer, and designers. This collaborative effort ensured that the score is not only technically functional but also artistically meaningful and resonant with performers and the audience.
 
