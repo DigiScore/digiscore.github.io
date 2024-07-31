@@ -135,6 +135,8 @@ The development process, led by Sandeep Bhagwati, Alexandra Bachmayer, and Mike 
 **Personnel**
 
 [Sandeep Bhagwati](https://www.concordia.ca/faculty/sandeep-bhagwati.html)
+
 [Alexandra Bachmayer](https://matralab.hexagram.ca/people/bachmayer-alexandra/)
+
 [Quasar Saxophone Quartet](https://quasar4.com/en)
 
