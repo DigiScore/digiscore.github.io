@@ -19,6 +19,14 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
+2024    Vear, C., Poltronieri, F., DiDonato, B., Zhang, Y., Benerradi, J., Hutchinson, S., Turowski, P., Shell, J., & Malekmohamadi, H. (2024, April). Building an Embodied Musicking Dataset for co-creative music-making. Presented at 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART) 2024, Aberystwyth University, Wales
+
+2024    Shi, X., & Vear, C. (2024, April). Generating emotional music based on improved C-RNN-GAN. Presented at 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART) 2024, Aberystwyth University, Wales
+
+2024    Moroz, S., & Vear, C. (2024). Digital Musicianship: Evaluation of the Digital Score Research from the North American Tour 2023. In (Eds.), GAPS2 - Global Arts and Psychology Seminar "Creativity in music and the arts": 14-16 September 2023 York, Graz, La Plata, & Melbourne: BOOK OF ABSTRACTS. University of Graz. https://doi.org/10.25364/554.2024.1
+
+2024    Poltronieri, F., & Vear, C. (2024, June). Towards sentience: A path through jazz, datasets and digital scores. Paper presented at International Symposium of Electronic Art 2024, Brisbane, Australia
+
 2024    Moroz, S., Vear, C., & Poltronieri, F. (2024). Evaluation of digital musicianship in higher education through playing and creating digital scores. TENOR, 18. [https://www.tenor-conference.org/proceedings.html](https://www.tenor-conference.org/proceedings.html)
 
 2024    Vear, C., Hazzard, A., Moroz, S., & Benerradi, J. (2024, May). Jess+: AI and robotics with inclusive music-making. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-17).
@@ -40,6 +48,10 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Performances
+
+2024    *DigiScore Ensemble* full set performance at Cimarosa Conservatory in Avellino, Italy. June 2024
+
+2024    *Solaris* by Craig Vear and Fabrizio Poltronieri, full set performance at New College, Oxford - June 2024
 
 2024    *Solaris* by Craig Vear and Fabrizio Poltronieri, full set performance at Haslet Rooms, London - March 2024
 
