@@ -121,7 +121,7 @@ cover-img: /assets/img/theory_banner.png
 
 
 
-<p>As discussed above, the theoretical framework guides the questioning process and the analysis of the dataset while aligning with the core aims of the scientific investigation. The purpose of the theoretical framework is to draw out new insights into the relationships formed with digital score musicking. They are categorised into three different themes. These are:</p>
+<p>As discussed above, the theoretical framework guides the questioning process and the analysis of the dataset while aligning with the core aims of the scientific investigation. The purpose of the theoretical framework is to draw out new insights into the relationships formed with digital score musicking. They are categorised into four different themes. These are:</p>
 
 
 
