@@ -125,7 +125,7 @@ cover-img: /assets/img/theory_banner.png
 
 
 
-<ol type="1"><li>musicians’ connectivity to the materials of the digital score; </li><li> the experience of their flow in the moment of interpretation (encompassing themes 1 and 2 from the framework)</li><li>the digital skills needed and acquired from making and interacting with the digital score (theme 3 from the framework)</li><li>the transformative experiences musicians had with the digital scores that might have an impact on their future creativity and music-making experiences (theme 4 from the framework)</li></ol>
+<ol type="1"><li>musicians’ connectivity to the materials of the digital score; </li><li> the experience of their flow in the moment of interpretation</li><li>the digital skills needed and acquired from making and interacting with the digital score</li><li>the transformative experiences musicians had with the digital scores that might have an impact on their future creativity and music-making experiences</li></ol>
 
 
 
