@@ -79,5 +79,5 @@ concurrent play than co-creative. This is because both are responding to, rather
 like a play around a theme and variation and therefore contained, controlled and understandable: only the materials of 
 the lines and the algorithmic settings are in play. Together with the acutely symbiotic design of the visuals and their 
 emergent responses, these materials offer the user (a hybrid of performer and composer roles) a cohesive focus that 
-guides any user regardless of age, experience and musical aptitude into genuine creative play.
+guides any user regardless of age, experience and musical aptitude into creative play.
 
