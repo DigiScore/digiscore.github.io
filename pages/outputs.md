@@ -161,6 +161,12 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Interviews and Podcasts
 
+2024    Interview with electronic musician Juan Parra Cancino [https://www.youtube.com/watch?v=RSARK7M6y5E](https://www.youtube.com/watch?v=RSARK7M6y5E)
+
+2024    Interview with composer Georg Hajdu [https://www.youtube.com/watch?v=PufAAcTsWAI](https://www.youtube.com/watch?v=PufAAcTsWAI)
+
+2023    Interview with new media artist Nandita Kumar [https://digiscore.github.io/2023-11-17-Interview_with_Nandita_Kumar/](https://digiscore.github.io/2023-11-17-Interview_with_Nandita_Kumar/)
+
 2023    In-Music Podcast - Evelyn Glennie  [https://shows.acast.com/in-music/episodes/evelyn-glennie](https://shows.acast.com/in-music/episodes/evelyn-glennie)
 
 2013    In-Music Podcast - Sandeep Bhagwati [https://shows.acast.com/in-music/episodes/sandeep-bhagwati](https://shows.acast.com/in-music/episodes/sandeep-bhagwati)
