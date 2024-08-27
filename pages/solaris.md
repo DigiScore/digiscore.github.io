@@ -75,22 +75,23 @@ that is of primary concern and contains the primary content for the musical idea
 **Language**
 
 The language of this digital score is both iconic and sensory and is balanced between the 3 sensorial domains: the sound 
-world 
+world uses abstractions of well known jazz tunes and sequences, the resultant improvisation sounds like jazz; the visual
+poetics offer abstract shapes, textures and colours that allude to musical representation along the lines of 
+Stockhausen, Wolff, Kandinsky and Miro; and the flow/musicking dance of the AI's behaviour feels like a jazz quartet
+improvising in realtime.
 
 
 **Feedback**
 
-Having ones trust in their own rhythmical accuracy confirmed by the synchronicity of others playing at the same time, or 
-in syncopated patterns. The coherence of these patterns across the network and within shifting latency, is the core 
-feedback for a performance.
+The feedback is felt directly through the flow/musicking dance that is created in realtime. And like an all-human quartet
+it offers different sets of relationships that are designed to invite, inspire, confuse, play, or support the flow. 
 
 
 **Flow**
 
-Flow in *Netronomia* should be understood by the binding nature of this digital score of all performers into this
-virtualised network space. If they feel a sense of togetherness then they can start to flow with their music. The 
-influence of the visual and aural elements is a critical factor here, but "following the score" accurately is not enough
-to deliver a solid performance. The musicians must tread on the tight-rope of blind faith and trust the algorythm
-is going to synchronise each performer into a pleasurable musical experience and sense of togetherness. Once this has 
-been felt the true relationships in this musical idea can start to be formed.
+Flow in *Solaris* should be understood by the relationships that are generated in realtime between the human and the AI. 
+This is a direct emulation of the flow/musicking dance that can be created between all-human ensembles, but yet is never
+a guaranteed event. Perhaps it's more accurate to say, then, that the flow should be understood by the constant poking 
+and prodding, sensing and awareness of the human, and the AI, across these relationships to stimulate creativity. This 
+was the true aim - and hope - of the AI programming.
 
