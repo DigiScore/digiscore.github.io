@@ -12,11 +12,11 @@ within the digital score with each offering differing degrees of felt co-operati
 
 
 ## About
-*Solaris* 
+*Solaris* by Craig Vear and Fabrizio Poltronieri (visuals).
 
 FREEDOM. TOGETHERNESS. EMERGENCE.
 
-This Digital Score (Vear 2019) is a jazz quartet created from 3 creative-AI agents (piano, bass and TR909 drum machine) 
+This digital score is a jazz quartet created from 3 creative-AI agents (piano, bass and TR909 drum machine) 
 and a single human musician (drum kit). It uses abstract visual notation and the behaviours of creative AI to stimulate 
 relationships inside music that are used to communicate musical ideas to the human. The creative-AI is built using an 
 approach called Embodied Intelligence (Vear 2022) and exemplifies the application of the Human-AI Musicking Framework 
