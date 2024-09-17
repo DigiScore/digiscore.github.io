@@ -8,6 +8,10 @@ tags: [digital_musicianship]
 ---
 **Interview with composer/computer music performer Juan Parra Cancino**
 
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Juan Parra Cancino Interview" width="100%" height="100%" src="https://www.youtube.com/embed/RSARK7M6y5E?si=4s2ZsbJCwG4chel6?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
 **Critical insights**
 
 _**Background**_
@@ -86,7 +90,8 @@ Juan's digital music setup primarily involves Max software, with occasional use 
 **Juan Parra Cancino**
 [https://orpheusinstituut.be/en/orpheus-research-centre/researchers/juan-parra-cancino
 ](https://orpheusinstituut.be/en/orpheus-research-centre/researchers/juan-parra-cancino)
-Three State of Wax with Jonathan Impett
+
+**Three State of Wax with Jonathan Impett**
 [https://www.researchcatalogue.net/view/726600/726601](https://www.researchcatalogue.net/view/726600/726601])
 
 **On re-construction of Bruno Maderna’s Hyperion:**
@@ -99,12 +104,5 @@ Three State of Wax with Jonathan Impett
 
 
 
-
-<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="TDI 3 - Marc Leman" width="100%" height="100%" src="https://www.youtube.com/embed/PUIbr16p39Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-</div></figure>
-
-
-**Once you have completed the changes above you can delete the body of this blog and re3place it with you real text (everything below the 2nd set of 3 hyphens)**
 
 
