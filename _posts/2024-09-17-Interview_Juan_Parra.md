@@ -4,7 +4,7 @@ title: Interview with Juan Cancino Parra
 subtitle: 
 cover-img: /assets/img/Juan_Parra.jpg
 thumbnail-img: /assets/img/Juan_Parra.jpg
-tags: [books, test]
+tags: [digital_musicianship]
 ---
 **Interview with composer/computer music performer Juan Parra Cancino**
 
