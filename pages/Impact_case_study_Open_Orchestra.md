@@ -65,18 +65,18 @@ and to create a cohesive, large-scale work for a large ensemble. This ambition w
 two SEND schools whose students formed the Open Orchestra Middlesbrough. Furthermore, the students themselves also 
 supported this. This was communicated to Vear as a wish list to:
 
-a)	Create a large-scale cohesive symphony work for a large ensemble of music students from Special schools.
+    a)	Create a large-scale cohesive symphony work for a large ensemble of music students from Special schools.
 
-b)	Have the student’s creativity drive the workshop process and development of materials used in the work.
+    b)	Have the student’s creativity drive the workshop process and development of materials used in the work.
 
-c)	Utilise the assistive technologies that are already mastered by the students in their school context as notational 
-and instrumental devices, thereby maximising their engagement and potential for creative exploration.
+    c)	Utilise the assistive technologies that are already mastered by the students in their school context as notational 
+    and instrumental devices, thereby maximising their engagement and potential for creative exploration.
 
-d)	Create an integrated digital media world of live sound, recorded audio and visual media that was more than music 
-being played alongside a video.
+    d)	Create an integrated digital media world of live sound, recorded audio and visual media that was more than music 
+    being played alongside a video.
 
-e)	Develop an innovative notational system that used a clear language appropriate for the SEN students and supported 
-their creative invention during workshops, rehearsals and performance.
+    e)	Develop an innovative notational system that used a clear language appropriate for the SEN students and supported 
+    their creative invention during workshops, rehearsals and performance.
 
 The project at the centre of this research was “Journey Through a Changing World” a 23-minute, 4 movement large-scale 
 work for Open Orchestra, created by Ben Hopkinson and the music student members of the ensemble. It was created over an 
@@ -123,16 +123,16 @@ examples [LINK](https://digiscore.github.io/pages/Creativity_cards_about/ )
 An important aspect of this project was to develop Hopkinson to be a confident workshop leader and master of the digital 
 score theories and concepts. To achieve this, Vear worked with Hopkinson over a 12-month period in 3 distinct phases:
 
-Phase 1: Fellowship (July 2023) – Hopkinson spent a week embedded in the digital score team, working with Vear to 
+**Phase 1**: Fellowship (July 2023) – Hopkinson spent a week embedded in the digital score team, working with Vear to 
 understand the basic theoretical structures and approaches to digital score creativity. A first stage version of the 
 cards was developed in advance and evaluated by Vear and Hopkinson through a series of rapid-prototypes during this week.
 
-Phase 2: in-vivo workshops (October 2023) – Vear invited Hopkinson to work with the DigiScore research team in a 
+**Phase 2**: in-vivo workshops (October 2023) – Vear invited Hopkinson to work with the DigiScore research team in a 
 creativity card workshop at [Cimarosa Conservatory in Avellino, Italy](https://digiscore.github.io/2024-02-02-Creativity_Cards_Avellino_Italy/). 
 This workshop was an opportunity to develop the cards further and to test them on a group of music students, and for 
 Hopkinson to see how they are used in practice.
 
-Phase 3: interactive/ technical system design (July 2024) – After a period of creative development between Hopkinson 
+**Phase 3**: interactive/ technical system design (July 2024) – After a period of creative development between Hopkinson 
 and the Open Orchestra music students, a final version of the piece was becoming clear. Hopkinson needed a technical 
 solution to bring all the elements of the digital score together, such as visual materials (supplied by Layla Curtis), 
 temporal coordination of the sections, scenes, and textures that amounted to the core elements of the score; and a 
@@ -148,20 +148,20 @@ an inclusive ensemble to large-scale co-devised digital score composition. For H
 digital score theories and using the creativity cards to structure workshops transformed the following aspects of his 
 practice:
 
-•	Immersive Experience: The immersive narrative score project transformed musical creativity by integrating narrative 
+•	**Immersive Experience**: The immersive narrative score project transformed musical creativity by integrating narrative 
 and visual elements, making complex musical ideas more accessible to a wider audience. 
 
-•	Inclusive Practices: Efforts to engage SEND (Special Educational Needs and Disabilities) children and others through 
+•	**Inclusive Practices**: Efforts to engage SEND (Special Educational Needs and Disabilities) children and others through 
 non-traditional methods and digital scores indicate a transformative approach to inclusivity in music education and 
 performance. 
 
-•	Audience Engagement: By providing an immersive experience, the project transformed the way audiences engage with 
+•	**Audience Engagement**: By providing an immersive experience, the project transformed the way audiences engage with 
 music, making it more captivating and memorable. 
 
-•	Evolving Techniques: The gradual development from initial ideas to more refined performances, as seen through weekly 
+•	**Evolving Techniques**: The gradual development from initial ideas to more refined performances, as seen through weekly 
 sessions and feedback loops, illustrates the transformative journey of both the project and its participants. 
 
-•	Educational Impact: The process of creating and performing "Journey" was a transformative learning experience for 
+•	**Educational Impact**: The process of creating and performing "Journey" was a transformative learning experience for 
 the musicians, inspiring them to discover music in unconventional places and contexts. 
 
 Although not directly involved in the research case study, the music teachers offered the Digital Score project some 
@@ -175,6 +175,7 @@ a Changing World” project had impact on the following areas:
 -	Social interactions, social coherence and collaborative working
 -	Confidence, self-esteem and emotional development
 -	Cognitive development.
+
 
 
 # **Participants**
