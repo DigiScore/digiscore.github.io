@@ -65,17 +65,17 @@ and to create a cohesive, large-scale work for a large ensemble. This ambition w
 two SEND schools whose students formed the Open Orchestra Middlesbrough. Furthermore, the students themselves also 
 supported this. This was communicated to Vear as a wish list to:
 
-    a)	Create a large-scale cohesive symphony work for a large ensemble of music students from Special schools.
+a)	Create a large-scale cohesive symphony work for a large ensemble of music students from Special schools.
 
-    b)	Have the student’s creativity drive the workshop process and development of materials used in the work.
+b)	Have the student’s creativity drive the workshop process and development of materials used in the work.
 
-    c)	Utilise the assistive technologies that are already mastered by the students in their school context as notational 
+c)	Utilise the assistive technologies that are already mastered by the students in their school context as notational 
     and instrumental devices, thereby maximising their engagement and potential for creative exploration.
 
-    d)	Create an integrated digital media world of live sound, recorded audio and visual media that was more than music 
+d)	Create an integrated digital media world of live sound, recorded audio and visual media that was more than music 
     being played alongside a video.
 
-    e)	Develop an innovative notational system that used a clear language appropriate for the SEN students and supported 
+e)	Develop an innovative notational system that used a clear language appropriate for the SEN students and supported 
     their creative invention during workshops, rehearsals and performance.
 
 The project at the centre of this research was “Journey Through a Changing World” a 23-minute, 4 movement large-scale 
