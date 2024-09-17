@@ -189,7 +189,7 @@ composed for a number of short films and a radio documentary.
 
 **Musinc - producers**
 Musinc provides opportunities in Middlesbrough for people of all ages, backgrounds and circumstances to make music, 
-connect with others and explore their musical identity. [Website](https://musinc.org.uk/)
+connect with others and explore their musical identity. [Website](https://musinc.org.uk/) Photo credit: Musinc.
 
 **Layla Curtis - visual artist**
 Layla Curtis (b.1975, UK) is a British artist whose practice has a focus on place, landscape and mapping. Her multi-form 
