@@ -2,7 +2,7 @@
 layout: post
 title: Interview with Juan Cancino Parra
 subtitle: 
-cover-img: /assets/img/Juan_Parra.jpg
+cover-img: /assets/img/Juan_playing.png
 thumbnail-img: /assets/img/Juan_Parra.jpg
 tags: [digital_musicianship]
 ---
