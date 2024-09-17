@@ -2,7 +2,7 @@
 layout: post
 title: Interview with Gyorg Hajdu
 subtitle: 
-cover-img: /assets/img/ST_Pauli.png
+cover-img: /assets/img/St_Pauli.png
 thumbnail-img: /assets/img/Georg.jpg
 tags: [digital_musicianship]
 ---
