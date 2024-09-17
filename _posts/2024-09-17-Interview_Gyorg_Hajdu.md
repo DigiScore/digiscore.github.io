@@ -11,7 +11,7 @@ tags: [digital_musicianship]
 <div class="nv-iframe-embed"><iframe loading="lazy" title="Interview with Georg Hajdu" width="100%" height="100%" src="https://www.youtube.com/embed/PufAAcTsWAI?si=ZtS0rSFQGG-KSaMs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
-**Interview with Georg Hajdu**
+**Interview with [Georg Hajdu](http://georghajdu.de/)**
 
 Solomiya Moroz in interview with Georg Hajdu in between paper sessions during TENOR 2024 conference (April 6 2024) at ZHdK in Zurich, Switzerland.
 
