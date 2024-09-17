@@ -11,9 +11,9 @@ tags: [digital_musicianship]
 <div class="nv-iframe-embed"><iframe loading="lazy" title="Interview with Georg Hajdu" width="100%" height="100%" src="https://www.youtube.com/embed/PufAAcTsWAI?si=ZtS0rSFQGG-KSaMs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
-**Interview with [Georg Hajdu](http://georghajdu.de/)**
+**Interview with Georg Hajdu**
 
-Solomiya Moroz in interview with Georg Hajdu in between paper sessions during TENOR 2024 conference (April 6 2024) at ZHdK in Zurich, Switzerland.
+Solomiya Moroz in interview with [Georg Hajdu](http://georghajdu.de/) in between paper sessions during TENOR 2024 conference (April 6 2024) at ZHdK in Zurich, Switzerland.
 
 **_Critical Insights_**:
 
@@ -38,6 +38,6 @@ Solomiya Moroz in interview with Georg Hajdu in between paper sessions during TE
 
 Georg Hajdu is a composer and researcher with a background in both music and molecular biology. His interest in biology informs his approach to music, which he sees as a form of matter governed by similar laws. He is particularly interested in the physicality of music and its evolution, drawing parallels between biological evolution and musical development. Currently, he is involved in projects exploring generative music for healthcare settings, aiming to reduce anxiety in hospital waiting areas through the use of specific sounds. Hajdu's compositional approach involves a balance between intuition and formalisation, often using digital tools he has developed to explore musical possibilities. He emphasises the importance of plausibility in music, striving to create experiences that establish a sense of community and connectivity among audiences and performers. Additionally, he is interested in microtonality and hybridity, experimenting with different tunings and scales to push the boundaries of musical expression. Georg Hajdu's work reflects a multidisciplinary approach that integrates science, technology, and artistic exploration.
 
-
+Composer's website: [http://georghajdu.de/](http://georghajdu.de/)
 
 
