@@ -7,149 +7,184 @@ cover-img: /assets/img/open_orch_2.jpg
 ---
 
 
-# **JoyInst: Digital Score for inclusive music education for disabled children in Kenya.**
+# **Open Orchestra: Digital Score Creativity Cards to support inclusive music-making within Special Educational Needs.**
 
-Developing a digital score as a platform for inclusive music education for disabled children in Kenya. The 
-digital score was embedded with a learning game, and a low-cost digital instrument interface that break barriers of 
-accessibility to music education and making, while building bridges towards inclusive music-making and learning.
+Developing creativity cards to support inclusive music-making within Special Educational Needs for a large-scale devised 
+digital score composition.  Working with Open Orchestra - an inclusive ensemble from two Special schools in 
+Middlesbrough ( https://www.openorchestras.org/ ) – a set of creativity cards and online resource was designed to 
+structure an individual or group through the creative process of developing a digital score. The cards and workshop 
+instructions guided a creative music leader through the conceptual ways of thinking and practical stages of development 
+a large-scale, cohesive, symphonic work.
 
 
 ## **The Issue**
 
-In many cultures around the world being a disabled child means being segregated: different schools, different opportunities,
-different funding, different access. In music education that can involve having limited access to instruments and 
-learning because of the dominance of a "mainstream" focus on what instruments, participation modes, and 
-expectations of excellence is acceptable. This can mean that for a disabled child who can not play am mainstream 
-instrument such as a recorder, could be excluded from mainstream music education, or their access several reduced as
-her needs cannot be met. 
+Developing large-scale musical works for large ensembles requires very different ways of conceptualising, realising and 
+inventing musical material. A major factor in this approach is to develop methods, materials and processes to sustain 
+musical integrity and cohesiveness across longer timescales, and between larger forces. Compared to smaller scale works, 
+with smaller scale musical forces, the challenge increases significantly as enhanced strategies are required to develop 
+thematic material over longer periods of time, and across a diversity of musical and instrumental languages. Mastery of 
+making work at this scale is developed over many years, and benefits from specialised training, perhaps years of trail 
+and error. 
 
-There are, of course, accessible instruments that can help bridge this gap, but funding for disabled music education 
-cannot always stretch to this. And even when it can, there is still the issue of acceptance of such an instrument
-in mainstream music-making: an accessible instrument can highlight difference, be difficult to train in mainstream ways. 
+These challenges are compounded when dealing with none-mainstream elements. For example, incorporating digital media 
+into the composition as either a digital score or a visual/ projected element requires an equally substantial amount of 
+specialist knowledge to master the interdisciplinary creativity. Equally, making large-scale, mixed media works in a 
+Special Educational Needs (SEN) context deserves further specialist considerations. Overall, there are very few 
+exemplars, guidelines, theories or training available to support such an under-taking. 
 
-Music-making can be a key element in music learning, when the aspects of theory, skill training, ear-to-hand coordination,
-creativity, self-beliefs and imagination are tested and formulated. It is an enjoyable, and playful aspect of music 
-education and a contributor to social integration. However, segregation and difference can compound into 'otherness' 
-which can further exclude disabled children.
+The central research question with this project was: can the theories and approaches developed within the digital score 
+project provide a support structure to circumvent some of the fundamental issues around large-scale development of works 
+for large ensembles of student musicians from SEN schools? 
 
-![MachAInst user interface prototype, by Fabrizio Poltronieri and Jonattas Poltronieri](/assets/img/mach_ui.png){: .mx-auto.d-block :}
+A secondary question was: how can we encapsulate the theories and approaches of the digital score project into a 
+solution that supported brain-storming, ideation, and creativity development of a digital score for a workshop leader 
+outside the research team, leading to a successful outcome?
+
 
 ## **The Research**
 
-The Digital Score PI was presented with these issues as part of an undergraduate project he was supervising at the Music 
-department of University of Nottingham. The student - Kelvin Macharia, himself a disabled musician from Kenya - was 
-investigating music education for disabled children in Kenya, and identified these key issues above and was seeking to 
-understand how digital technologies might address the inclusion inbalance. 
+1) Overview
+The digital score project worked with the Open Orchestra Middlesbrough music workshop leader Ben Hopkinson on a 
+2) practice-based project that addressed the above concerns. DigiScore’s principal investigator Prof Craig Vear’s 
+3) involvement was 2-fold: 1) providing the theoretical and conceptual guidance to Hopkinson, which supported his 
+4) creativity and framing the conceptual development of his workshop and composition development; 2) Vear designed, 
+5) developed and tested a set of creativity cards and online resource that were capable of operating as Vear in absentia, 
+6) while Hopkinson led the workshops with the members of the Open Orchestra. 
 
-Following a survey of existing digital accessible instruments, Vear defined a wish-list of features that could be
-used as design considerations for an interactive digital score solution that:
+In initial discussion between Vear and Hopkinson, it was highlighted how previous work in this area had tended towards 
+shorter scale works with restricted developmental opportunities and issues around the musical notation solutions for SEN 
+music students. Additionally, it was observed that combining visuals and music tended towards one force simply being 
+played along to another, much like a music video, with very little understanding of the audio-visual contract (Chion 1993) 
+and the affective inter-relationships of the audio and visual into a cohesive whole. 
 
-- 1 was low cost to maximise availability, affordability and therefore opportunity
-- 2 offered challenge and skill generation akin to learning mainstream instruments, and would be perceived on an equal, effort-earned status
-- 3 had some "street cred" and of intrigue to non-disabled music students
-- 4 offered a broad range of input solutions, and easily adaptable to accommodate as wide a range of accessibility as possible 
-- 5 embedded mainstream music theory, so that a common language was taught, perhaps even opening the system out to grades
-- 6 was scalable
+Hopkinson’s desire for this year’s Open Orchestra project (2023-24) was for something that didn’t repeat this pattern 
+and to create a cohesive, large-scale work for a large ensemble. This ambition was shared by the music teachers in the 
+two SEND schools whose students formed the Open Orchestra Middlesbrough. Furthermore, the students themselves also 
+supported this. This was communicated to Vear as a wish list to:
 
-Vear's solution was to build a digital score around readily available games controllers such as XBox, PlayStation. His
-proposition was that they were relatively low-cost (e.g. £30 for a Logitech controller online), has some "street-cred",
-were pervasive in home environments that owned a games console, and were designed to usable. The advantage in an 
-inclusive situation is that many manufacturers now supply accessible controllers (such as PlayStation's _Access_), for 
-a relatively low price (£75), with other more bespoke accessible games controllers easily built through DIY kits or 
-bought online.
+a)	Create a large-scale cohesive symphony work for a large ensemble of music students from Special schools.
+b)	Have the student’s creativity drive the workshop process and development of materials used in the work.
+c)	Utilise the assistive technologies that are already mastered by the students in their school context as notational 
+and instrumental devices, thereby maximising their engagement and potential for creative exploration.
+d)	Create an integrated digital media world of live sound, recorded audio and visual media that was more than music 
+being played alongside a video.
+e)	Develop an innovative notational system that used a clear language appropriate for the SEN students and supported 
+their creative invention during workshops, rehearsals and performance.
 
-The controller alone, was only a single aspect of _JoyInst_ with its programmed "learning game" another design aspect.
-_JoyInst_ had 2 selectable modes: 1) open play, where the musician could freely play notes using the joystick and 
-associated buttons for sharps and flats, and octave shifts, as well as volume control. There was also a selection of 
-instruments ranging from flutes, kalimba, moog synth and vocal effects, enabling a group to be formed with different
-sound and parts. 2) the second mode was the "learning game" that presented a simple "follow-my-leader" game where notes
-were presented on the game stave (lowest in the figure above) and the musicians had to reply with that notes to move 
-onto the next. The game was designed in levels, starting with simple octaves, and adding increasing complexity with 5ths,
-3rds, and then into sharps and flats.
+The project at the centre of this research was “Journey Through a Changing World” a 23-minute, 4 movement large-scale 
+work for Open Orchestra, created by Ben Hopkinson and the music student members of the ensemble. It was created over an 
+8-month period (December 2023 – July 2024) and premiered at the Middlesbrough Town Hall. 
 
-Because _JoyInst_ was a digital score, the feel of the whole experience was considered in the design (see game design below. 
-Sound effects 
-were embedded into the user interface, as was level indicators, lives and progression comments. The design revolved 
-around _neoscore_ (a DigiScore project) that supported the realtime generation of the onscreen notation, and enabled 
-various help symbols to be embedded in the score. Easy mode showed the note, with a coloured arrow (determining the 
-joystick direction and using colours to highlight the specific notes), and also the note name, both 
-anchored in the notation. The help symbols were removed with each correct answer, or added when mistakes were made.
+The visual artist Layla Curtis ( http://laylacurtis.com/ was brought in to co-create with Hopkinson and the ensemble, 
+and to offer a visual artists eye and sensibility to the cohesive nature of the digital score. These images then become 
+part of the musical score which the orchestra followed (as with a traditionally notated musical score) but with images 
+and colours defining what the musicians play. Vear built an interactive software system that allowed Hopkinson to make 
+in-the-moment decisions about note choice, and form duration, which the musicians responded to. Overall, the Digital 
+Score offered a new way for the students and Hopkinson, to work, create and perform. The young people developed musical 
+and compositional ideas, which Hopkinson brought together to create the work.
 
-![Screenshot of Early prototype with notation helpers](/assets/img/thumbnail_machAInst_test.jpg){: .mx-auto.d-block :}
-![Initial game design by Vear 1](/assets/img/mach_game_design1.JPG){: .mx-auto.d-block :}
-![Initial game design by Vear 2](/assets/img/mach_game_design2.JPG){: .mx-auto.d-block :}
-
+Premiere performance https://musinc.org.uk/2024/07/04/experience-journey-music-middlesbrough-open-orchestra/
 
 
-## **The Outcomes** (written by Kelvin Macharia and Craig Vear)
+2) Developing the Creativity Cards
+The ultimate challenge was the time and availability of Vear to support Hopkinson through the 12-month process of 
+3) developing such an ambitious project. As such, a solution needed to be formed that a) supported the ambition of 
+4) Hopkinson, the teachers and the students, and b) was time-effective for Vear who could not commit to being present 
+5) during the 8-month developmental process across the two schools. The idea for creativity cards was proposed and 
+6) developed.
 
-Macharia's research project at SA Joytown Secondary School exceeded our hopes and expectations in several ways as 
-_JoyInst_ was received in an overwhelmingly positive light. Observing the complex musical 
-activities the students could undertake with just a few goes of playing was surprising and rewarding for both Macharia, 
-and the research participant, the music teacher at Joytown. For example, with just about an hour of playing the 
-instrument, students could play the technical exercises required for their national exams (The Kenya Certificate of 
-Secondary Education), such as scales and arpeggios. They also explored creating their own melodies, and set about 
-playing various pieces in a group ensemble with singers.
+An inspiration point for the cards was Dr Richard Wetzel’s Mixed Reality Game Cards from 2017 ( Wetzel, Richard, Tom 
+Rodden, and Steve Benford. “Developing Ideation Cards for Mixed Reality Game Design.” Transactions of the Digital Games 
+Research Association 3, no. 2 (2017). https://doi.org/10.26503/todigra.v3i2.73 ) . Vear had been part of a workshop in 
+2016 that had helped develop these cards and had subsequently used them in his own teaching of a module “Performing 
+Mixed Reality” over 6 consecutive years at De Montfort University. 
 
-The instrument also gamified the process of learning. Using the step-by-step lessons that Vear had embedded in the
-_JoyInst_ "learning game", the students felt supported to undertake these complex musical activities, capitalising on 
-their productivity and engaged for long periods of time. As the music teacher remarked, this instrument was not like 
-any other traditional instrument because it was also a rewarding game for the young people. The teacher went on to say 
-it was the most engaging instrument he had seen students use, and thanks to this, some students who were previously 
-struggling to keep engaged in class showed considerable interest 
-in the subject, which was a surprise to the teacher. His only hope was that this interest would be sustained after the 
-study, hence the need to continue this research and develop _JoyInst_ further.
+The DigiScore creativity card pack consists of 152 cards. They are organised into 3 separate types: Opportunities, 
+Challenges and Questions (mirroring Wetzel’s original cards), each of which offer a different perspective for digital 
+score creative thinking. The pack is also organised into the 7 modalities of digital scores, introduced here
+https://digiscore.github.io/pages/seven_modalities/  The seven modalities framework can help to define how different 
+digital scores exist, are experienced or expressed. These modalities can offer ways of describing, analysing and 
+evaluating digital score composition and performance, and as a model for practical exploration of the digital score.
 
-_JoyInst_ presented two central answers as a solution for the access. The first one was cost-efficiency, which is a key 
-hindrance to disabled people accessing music in Kenya, most of whom come from low-income backgrounds. With cheap and 
-relatively accessible game controllers and a piece of software, young people were able to undertake increasingly complex musical 
-activities. The instrument also presented easily adjustable software, which could accommodate different controllers that 
-worked for different musicians. This is a level of customisation that is unprecedented in the Kenyan music education 
-scene, yet a necessity for disabled musicians who have unique needs that their controller/ interfaces need to accommodate.
-
-The other important solution that _JoyInst_ presented to the music teacher at Joytown was its ability to combine music 
-theory and practical musicianship into one. Our research shows that combining music theory and the act of music-making is a 
-significant challenge for many secondary school students in Kenya. This was also the case for the students at Joytown, 
-as the music teacher revealed. In his long teaching career, he was used to having students who could write the music but 
-had challenges performing it, or vice versa. However, _JoyInst_ combined elements of sightreading, aural musicianship,
-hand-ear coordination and performance into one. The musicians could see the note they were playing, hear it and perform 
-it simultaneously, 
-which, as the teacher observes, goes a long way in creating holistic musicians who can hear, read and perform music.
-
-While this was intended to solve the challenges that disabled people face in music education, particularly a largely 
-unaccommodating education system and the high cost of acquiring traditional instruments and virtually unaffordable 
-adapted instruments, it solves problems that are not unique to disabled musicians. Consequently, the music teacher at 
-Joytown sees it as the future of music education in Kenya. 
+The final version of the pack is available on the DigiScore website for free, together with the instructions and 
+examples https://digiscore.github.io/pages/Creativity_cards_about/ 
 
 
+3) Developing the workshop practice
 
-## **Code**
--	The GitHub repository for this code [LINK](https://github.com/DigiScore/JoyInst)
+An important aspect of this project was to develop Hopkinson to be a confident workshop leader and master of the digital 
+score theories and concepts. To achieve this, Vear worked with Hopkinson over a 12-month period in 3 distinct phases:
+
+Phase 1: Fellowship (July 2023) – Hopkinson spent a week embedded in the digital score team, working with Vear to 
+understand the basic theoretical structures and approaches to digital score creativity. A first stage version of the 
+cards was developed in advance and evaluated by Vear and Hopkinson through a series of rapid-prototypes during this week.
+
+Phase 2: in-vivo workshops (October 2023) – Vear invited Hopkinson to work with the DigiScore research team in a 
+creativity card workshop at Cimarosa Conservatory in Avellino, Italy ( https://digiscore.github.io/2024-02-02-Creativity_Cards_Avellino_Italy/ ). 
+This workshop was an opportunity to develop the cards further and to test them on a group of music students, and for 
+Hopkinson to see how they are used in practice.
+
+Phase 3: interactive/ technical system design (July 2024) – After a period of creative development between Hopkinson 
+and the Open Orchestra music students, a final version of the piece was becoming clear. Hopkinson needed a technical 
+solution to bring all the elements of the digital score together, such as visual materials (supplied by Layla Curtis), 
+temporal coordination of the sections, scenes, and textures that amounted to the core elements of the score; and a 
+solution to interactivity so that Hopkinson could change visual elements to offer cues for the musicians, or to change 
+colours of screens to signal note changes.
+
+
+
+## **The Outcomes** 
+
+The focus of this research project was on the transformation in Ben Hopkinson’s practice and creative potential to lead 
+an inclusive ensemble to large-scale co-devised digital score composition. For Hopkinson he recognised that adopting the 
+digital score theories and using the creativity cards to structure workshops transformed the following aspects of his 
+practice:
+
+•	Immersive Experience: The immersive narrative score project transformed musical creativity by integrating narrative 
+and visual elements, making complex musical ideas more accessible to a wider audience. 
+•	Inclusive Practices: Efforts to engage SEND (Special Educational Needs and Disabilities) children and others through 
+non-traditional methods and digital scores indicate a transformative approach to inclusivity in music education and 
+performance. 
+•	Audience Engagement: By providing an immersive experience, the project transformed the way audiences engage with 
+music, making it more captivating and memorable. 
+•	Evolving Techniques: The gradual development from initial ideas to more refined performances, as seen through weekly 
+sessions and feedback loops, illustrates the transformative journey of both the project and its participants. 
+•	Educational Impact: The process of creating and performing "Journey" was a transformative learning experience for 
+the musicians, inspiring them to discover music in unconventional places and contexts. 
+
+Although not directly involved in the research case study, the music teachers offered the Digital Score project some 
+observations about how their students engaged with this Open Orchestra project, and how this had differed from their 
+previous engagements over the past 5 years. These are listed in more detail [here Beverley School](/assets/docs/neil_t_impact.pdf) 
+and [here Priory Woods School](/assets/docs/adam_f_impact.pdf), and highlight how Hopkinson and their “Journey Through a Changing World” project had impact on the following 
+areas:
+
+-	Musical development
+-	Creativity and Imaginative development
+-	Social interactions, social coherence and collaborative working
+-	Confidence, self-esteem and emotional development
+-	Cognitive development.
 
 
 # **Participants**
 
-**Kelvin Macharia**
-Macharia is a disabled musician from Kenya, currently studying for a BA(Hons) in Music at the University of Nottingham. 
-His final year research project investigated how digital technologies can mitigate the barriers that hinder young 
-disabled people from accessing music education in Kenya. MachAInst was designed by Vear to offer a cost-effective
-and music-theory embedded solution for Macharia to trial in his research project.
+**Ben Hopkinson - freelance music leader**
+Ben is a multi-instrumentalist from Guisborough, North Yorkshire, and have been teaching piano at Teesside School of 
+Music since February 2015. Although he thoroughly enjoyed singing and playing the guitar and saxophone, it is the piano 
+that offers the greatest musical connection. He has had a varied history in music; from singing as a chorister as a child, 
+to performing in bands up and down the country. The last band he was a member of, Kingsley Chapman and the Murder, 
+was regularly played nationally on BBC Radio 6. Composition and songwriting are also a huge passion of his, having 
+composed for a number of short films and a radio documentary.
 
-**Mr Benjamin Kareh**
- Joytown music teacher who was the main participant for Macharia's research, and offered valuable feedback for the design
-of the score/ instrument, and conducted valuable qualitative and quantitative surveys with his students.
+**Musinc - producers**
+Musinc provides opportunities in Middlesbrough for people of all ages, backgrounds and circumstances to make music, 
+connect with others and explore their musical identity. https://musinc.org.uk/
+
+**Layla Curtis - visual artist**
+Layla Curtis (b.1975, UK) is a British artist whose practice has a focus on place, landscape and mapping. Her multi-form 
+work examines the attempts we make to chart the earth, how we locate ourselves, navigate space and represent terrain. 
+She is concerned with how we map borders and boundaries, both real and metaphorical, to define territories and to 
+establish a sense of place. She explores how we perceive, make use of and interact with the spaces we inhabit. Often, 
+she seeks to understand place by examining its connections with elsewhere. http://laylacurtis.com/
 
 
-# **Research Team**
-
-**Dr Fabrizio Poltronieri** MachAInst User-Interface.
-
-**Jonattas Poltronieri** Graphic Design. [Website](https://jonattas.com/about)
-
-
-
-# **Partners**
-
-**SA Joytown Secondary School**  
-Joytown is a co-educational boarding primary and secondary school for learners with physical disabilities in 
-Thika town, Kiambu County, Kenya
