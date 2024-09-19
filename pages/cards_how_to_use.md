@@ -5,17 +5,17 @@ tags: digital musicianship
 cover-img: /assets/img/cards2.png
 ---
 
-**How to use the cards**
+### **How to use the cards**
 
 There are two main ways to use the cards: Free Play, or Idea Game. Of course, they can be used in any way that you feel 
 is right.
 
-***Free Play***
+### ***Free Play***
 
 Once you have an idea for a digital score, or are in the process of developing one, you can choose any card at random 
 and use that for an open conversation. You can pick any number of cards from anywhere in the pack or read them all.
 
-***Idea Game***
+### ***Idea Game***
 
 The Idea Game has been designed to guide you through the design, development and testing of a digital score. There are 
 several phases that lead you and your team through digital score creation. The most important thing is that you arrive 
@@ -23,16 +23,7 @@ at a digital score concept and test it out as soon as possible. Digital scores p
 them is for those packaged ideas to be realised by other musicians. Prioritising body-storming over brainstorming is key, 
 as the only true place to evaluate your digital score is by turning it into music.
 
-***Instagram***
-
-We would love to hear about your ideas and how they develop through using these creativity cards. 
-Whenever you see INSTAGRAM in the instructions, please:
--	Take a photo of the cards you are currently in conversation with (usually 3).
--	Write a short note about the group discussion and how your digital score has developed (maximum 50 words)
--	Post it to Instagram and tag @digiscoreERC and #creativitycards
-
-
-***Phase 1 - idea generation***
+### ***Phase 1 - idea generation***
 
 -   1.1 	Write down a couple of imaginative ideas for a digital score or a musical composition. Artistic vision stuff. 
 What is your musical idea about? What bit of culture/ humanity/ news/ life are you wishing to make music about? (10 minutes)
@@ -50,7 +41,7 @@ exploring how each of the cards would change, enhance, transform, expand, deform
 -   1.5	    Move on to the next idea.
 
 
-***Phase 2 - idea development***
+### ***Phase 2 - idea development***
 
 -   2.1	    choose one of your ideas to explore further.
 
@@ -60,7 +51,7 @@ of these cards.
 -   2.3	    Repeat 2 more times with chosen idea (another 2+2 cards, and 5 minutes)
 
 
-***Phase 3 - idea realization***
+### ***Phase 3 - idea realization***
 
 -   3.1	    Discuss the core of your digital score (10-15 minutes)
 As a group discuss what the core experience is with your digital score (see examples below). 
@@ -70,7 +61,7 @@ communicated. Be prepared to be surprised by this – what you “think” is be
 
 -   3.2	    Make a rapid prototype version of your digital score (60-90 minutes)
 This requires you to be amazingly creative and inventive. The priority is to turn your digital score into music, 
-and in doing so find the TRUTH of the experience by testing out the core communications system of your digital score. 
+and in doing so find the **_TRUTH_** of the experience by testing out the core communications system of your digital score. 
 
 Obviously, given the timescale, you cannot develop a new AI, or design the specific game environment in Unity, 
 so you need to use rapid prototyping and Wizard of Oz'ing to realise your idea into a quick and dirty working model 
@@ -82,22 +73,31 @@ could use the video function on your phone to quickly make an animated score wit
 could build a small-world model of your games world from toys and use a WhatsApp video call to fly through this world; 
 you could pretend to use an AI to generate text and images by having someone type stuff and screen share via Zoom in the 
 next room, or control parameters of a VST sound processor (like the Wizard of Oz in the film). 
-The priority is USER EXPERIENCE... what is their EXPERIENCE of your digital score? Was it what you expected? 
-What exciting new stuff emerged THROUGH this experience?
+The priority is **USER EXPERIENCE**... what is their EXPERIENCE of your digital score? Was it what you expected? 
+What exciting new stuff emerged _THROUGH_ this experience?
 
 
-***Phase 4 - idea refinement***
+### ***Phase 4 - idea refinement***
 
-Using the feedback from your musician's EXPERIENCE, develop your digital score to the next level. And quickly 
-get the musician BACK INTO IT. You want them to share their experience with you QUICKLY AND OFTEN. This is the Agile 
-way https://en.wikipedia.org/wiki/Agile_software_development
+Using the feedback from your musician's **EXPERIENCE**, develop your digital score to the next level. And quickly 
+get the musician **BACK INTO IT**. You want them to share their experience with you **QUICKLY AND OFTEN**. This is the Agile 
+way [LINK](https://en.wikipedia.org/wiki/Agile_software_development)
+
+The basic Agile process is circular (see below) and involves a series of short sprints/ iterations that move your score
+forwards in SMART increments. **Avoid a waterfall process at all cost**
+
+1. plan
+2. Design
+3. Develop
+4. Test
+5. Deploy
+6. Review
+7. goto 1
 
 
+## **Examples of Rapid Prototyping Digital Scores: getting to the core of the experience.**
 
-
-**Examples of Rapid Prototyping Digital Scores: getting to the core of the experience.**
-
-*Example 1: small world game design*
+### *Example 1: small world game design*
 
 Musicians X, Y and Z have designed a digital score that is based in a computer game world. It is an environmental-focused 
 score where musicians need to collect birds by playing melodies of bird songs. Once collected these birds are then ‘saved’. 
@@ -134,7 +134,7 @@ This process enabled musicians X, Y and Z to get quickly to the core experience 
 this to build quickly and effectively the digital score proper.
 
 
-*Example 2: animated score*
+### *Example 2: animated score*
 
 Musician A used the cards and designed a digital score as a fixed animated film. It was to deconstruct a violin and 
 build a collage of ‘materials’ pertaining to a violin such as wood, metal string, pegs and violin music. The fixed 
@@ -152,7 +152,7 @@ Through these early experiments, core experiences of balance, tempo, complexity 
 determined, and a final version was made relatively quickly once the proper materials were found.
 
 
-*Example 3: AI ensemble*
+### *Example 3: AI ensemble*
 
 Musicians R, S and T designed a digital score using AI, which would listen to a live musician playing a fixed melodic 
 line and build a unique backing track for them based on their emotional mood. The AI would generate chords by analysing 
