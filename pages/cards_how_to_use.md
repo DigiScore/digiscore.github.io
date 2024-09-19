@@ -32,7 +32,7 @@ For each of these ideas in turn:
 
 -   1.2	    Take 3 opportunity cards (+) and spend 5 minutes (time it), 
 exploring how each of the cards would change, enhance, transform, expand, deform, or diminish your idea. 
-(See Open conversations with the cards above). 
+(See Open conversations with the cards in main page). 
 
 -   1.3     Take another 3 opportunity cards (+) and repeat the 5-minute open conversation.
 
@@ -45,7 +45,7 @@ exploring how each of the cards would change, enhance, transform, expand, deform
 
 -   2.1	    choose one of your ideas to explore further.
 
--   2.2	    Draw 2 challenge cards (-) and 2 question cards (?). Spend 3 minutes exploring how your idea transforms because 
+-   2.2	    Draw 2 challenge cards (-) and 2 question cards (?). Spend 5 minutes exploring how your idea transforms because 
 of these cards.
 
 -   2.3	    Repeat 2 more times with chosen idea (another 2+2 cards, and 5 minutes)
@@ -61,7 +61,7 @@ communicated. Be prepared to be surprised by this – what you “think” is be
 
 -   3.2	    Make a rapid prototype version of your digital score (60-90 minutes)
 This requires you to be amazingly creative and inventive. The priority is to turn your digital score into music, 
-and in doing so find the **_TRUTH_** of the experience by testing out the core communications system of your digital score. 
+and in doing so find the *TRUTH* of the experience by testing out the core communications system of your digital score. 
 
 Obviously, given the timescale, you cannot develop a new AI, or design the specific game environment in Unity, 
 so you need to use rapid prototyping and Wizard of Oz'ing to realise your idea into a quick and dirty working model 
@@ -95,7 +95,9 @@ forwards in SMART increments. **Avoid a waterfall process at all cost**
 7. goto 1
 
 
+
 ## **Examples of Rapid Prototyping Digital Scores: getting to the core of the experience.**
+
 
 ### *Example 1: small world game design*
 
