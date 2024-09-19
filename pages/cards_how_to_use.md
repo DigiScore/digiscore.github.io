@@ -57,7 +57,8 @@ of these cards.
 As a group discuss what the core experience is with your digital score (see examples below). 
 This is to be the focus of your experiments. The aim is to get to the *TRUTH* of the experience of your 
 digital score idea. This *TRUTH* is the undeniable experience of your digital score and the foundation of what is being 
-communicated. Be prepared to be surprised by this – what you “think” is being communicated might not be in practice.
+communicated. Be prepared to be surprised by this – what you “think” is being communicated might not be in practice. 
+Discussed in more detail here [LINK](https://digiscore.github.io/2022-01-17-The_Digital_Score_-_The_Medium_and_its_Message/)
 
 -   3.2	    Make a rapid prototype version of your digital score (60-90 minutes)
 This requires you to be amazingly creative and inventive. The priority is to turn your digital score into music, 
