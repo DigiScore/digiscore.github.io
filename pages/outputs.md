@@ -167,6 +167,8 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 2024    Interview with composer Georg Hajdu [https://www.youtube.com/watch?v=PufAAcTsWAI](https://www.youtube.com/watch?v=PufAAcTsWAI)
 
+2024    Trans-Disciplinary Insight 7 - Ollie Bown, Jan 2024 [https://www.youtube.com/watch?v=yB65O8PN9Nw&t=10s](https://www.youtube.com/watch?v=yB65O8PN9Nw&t=10s)
+
 2023    Interview with new media artist Nandita Kumar [https://digiscore.github.io/2023-11-17-Interview_with_Nandita_Kumar/](https://digiscore.github.io/2023-11-17-Interview_with_Nandita_Kumar/)
 
 2023    In-Music Podcast - Evelyn Glennie  [https://shows.acast.com/in-music/episodes/evelyn-glennie](https://shows.acast.com/in-music/episodes/evelyn-glennie)
