@@ -102,6 +102,8 @@ forwards in SMART increments. **Avoid a waterfall process at all cost**
 
 ### *Example 1: small world game design*
 
+![Prototype](/assets/img/lego_prototype.jpeg){: .mx-auto.d-block :}
+
 Musicians X, Y and Z have designed a digital score that is based in a computer game world. It is an environmental-focused 
 score where musicians need to collect birds by playing melodies of bird songs. Once collected these birds are then ‘saved’. 
 The composition ends when enough birds have been saved to rebalance the ecosystem.
