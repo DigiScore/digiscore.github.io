@@ -51,6 +51,11 @@ robots or AI improvising partners.
 *“To Imagine a language is to imagine a form of life; the limits of my language are the limits of my world”* Ludwig Wittgenstein.
 
 
+**The Card's Design**
+
+![Card Layout](/assets/img/card_layout.png){: .mx-auto.d-block :}
+
+
 **Open conversations with the cards**
 
 We would like to think that these cards encapsulate a lot of our knowledge about creativity in, with and through digital 

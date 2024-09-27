@@ -95,6 +95,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Residencies & Fellowships
 
+2024-25 Macharia Kelvin - JoyInst. investigate how the digital score JoyInst can mitigate the accessibility challenges that Disabled music students face in music-making. We shall work with participants from Joytown Secondary School, a special school for physically disabled people.
+
 2023-24 Ben Hopkinson - Open Orchestra. Using DigiScore Creativity cards to create large scale digital score for inclusive ensemble across 3 SEND schools in Teesside
 
 2023    Browser Festival – DigiScore is supporting one individual artist in creation of a browser based digital score, July 2023
@@ -104,6 +106,10 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Presentations & Workshops
+
+2024    Creativity Card Workshop. Monash University, Melbourne. September 2024
+
+2024    DigiScore Presentation in Lasalle University of the Arts, Singapore. September 2024
 
 2024    DigiScore Presentation in WRO (Wroclaw Art Centre), Wroclaw, Poland, June 27, 2024
 
