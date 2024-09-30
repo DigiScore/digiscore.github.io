@@ -13,13 +13,15 @@ for both low-fi and high-fi prototyping, to foresee the necessary adjustments to
 before the final production line. 
 
 In arts/games/software/-based applications RP allows you to quickly estimate and understand
-the meaning-making processes at play, and to test them with users to assess their potency. Additionally, it brings end-users
-into the loop and invites them to help make design decisions appropriate to their expereinces.
+the meaning-making processes at play, and to test them with users to assess their experience. 
+Additionally, it brings end-users into the loop and invites them to help make design decisions 
+appropriate to their experiences.
+
 
 ## Agile process
 
-The basic Agile process is circular and involves a series of short sprints/ iterations that move your score
-forwards in SMART increments. **Avoid a waterfall process at all cost**
+The basic Agile process is circular and involves a series of short sprints/ iterations that move your score dev
+forwards in SMART increments.
 
 1. Plan
 2. Design
@@ -32,12 +34,13 @@ forwards in SMART increments. **Avoid a waterfall process at all cost**
 
 ## Think quick and be inventive
 
-This requires you to be amazingly creative and inventive. The priority is to turn your digital score into music, 
+The agile dev process requires you to be amazingly creative and inventive. The priority is to turn your digital score into music, 
 and in doing so find the *TRUTH* of the experience by testing out the core communications system of your digital score. 
 
 Obviously, given the timescale, you cannot develop a new AI, or design the specific game environment in Unity, 
 so you need to use rapid prototyping and Wizard of Oz'ing to realise your idea into a quick and dirty working model 
-(explained below). Put your musician(s) into it (don't worry about the simplicity of the experiment - tell them your 
+(explained [HERE](https://medium.com/@leegina/wizard-of-oz-prototyping-a6-1feb745e8813) and below). Put your musician(s) 
+into it (don't worry about the simplicity of the experiment - tell them your 
 vision and let them imagine their way through it).
 
 Invent imaginative ways to represent your idea quickly, and effectively that are also fun and playful. For example, you 
