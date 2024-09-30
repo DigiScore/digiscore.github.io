@@ -15,7 +15,7 @@ before the final production line.
 In arts/games/software/-based applications RP allows you to quickly estimate and understand
 the meaning-making processes at play, and to test them with users to assess their experience. 
 Additionally, it brings end-users into the loop and invites them to help make design decisions 
-appropriate to their experiences.
+appropriate to their experiences *'inside'* the activity.
 
 
 ## Agile process
