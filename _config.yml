@@ -59,7 +59,10 @@ navbar-links:
   Cards:
     - About: "/pages/Creativity_cards_about"
     - How to use: "/pages/cards_how_to_use"
+    - Rapid Prototyping: "/pages/cards_rapid_prototyping"
     - 1. Avellino: "2024-02-02-Creativity_Cards_Avellino_Italy"
+    - 2. Monash:
+    - 3. Sydney:
   Neoscore: "/pages/neoscore"
   Podcast: "/pages/in_music"
   中国人:
