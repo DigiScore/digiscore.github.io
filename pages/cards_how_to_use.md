@@ -87,7 +87,7 @@ way [LINK](https://en.wikipedia.org/wiki/Agile_software_development)
 The basic Agile process is circular (see below) and involves a series of short sprints/ iterations that move your score
 forwards in SMART increments. **Avoid a waterfall process at all cost**
 
-1. plan
+1. Plan
 2. Design
 3. Develop
 4. Test
