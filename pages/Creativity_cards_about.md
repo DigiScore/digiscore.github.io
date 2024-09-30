@@ -28,6 +28,10 @@ animated scores where the notation moves about on a screen, or you want the digi
 where player interaction is key, or you wish to explore robotics or AI, then these digital score creativity cards can 
 help you package your musical idea in such a way that it is communicated to other musicians, again and again. 
 
+[What is a Digital Score?](https://www.youtube.com/watch?v=enD9Qx_Fm2M)
+
+
+
 **Notation vs The Language of a Score**
 
 A traditional score is more than just the notation printed on it. Reading from Bach’s original handwritten manuscript is 
@@ -65,6 +69,19 @@ might find that it presents a certain challenge that you hadn't considered and c
 You might find that the conversation is seemingly irrelevant to your idea; but do discuss it and then discard it. There 
 is no right or wrong here, but we do ask that you enter an open conversation and that you allow your ideas to grow, 
 transform, adapt, change and become enhanced.
+
+
+**The TRUTH of the experience of a Digital Score**
+Challenge: with mixed media and active computation underpinning many digital scores, how do we discuss 
+(or create with) these agents and objects and how do they shape meaning?
+
+Key Insights:
+
+- the ‘content’ of a digital score is not the same as its ‘message’ 
+- The ‘message’ should be understood through the way that a digital score shapes the scale and form of human association and action (i.e. how it makes us behave, feel, think, create)
+- digital score creativity should consider its 'message' rather than focussing solely on the content, as deep meaning is communicated here 
+- the media used to construct a digital score are in themselves individual media with independent ‘messages’ and ‘contents’ (each forms part of a whole - an ecosystem!)
+- when organising and interpreting the inter-related media in a digital score could consider them as objects or agents with mass, gravitational pull, trajectories, radiations and distortions as they operate through time
 
 **Acknowledgements**
 

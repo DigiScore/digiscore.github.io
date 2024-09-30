@@ -17,7 +17,7 @@ cover-img: /assets/img/theory_banner.png
 
 
 
-<ol><li>the &#8216;content&#8217; of a digital score is not the same as its &#8216;message&#8217;</li><li>The &#8216;message&#8217; should be understaood through the way that a digital score shapes the scale and form of human association and action (i.e. how it makes us behave, feel, think, create)</li><li>digital score creativity should consider its message rather than focussing solely on the content, as deep meaning is comunicated here</li><li>the media used to construct a digital score are in themselves individual media with independnt &#8216;messages&#8217; and &#8216;contents&#8217;</li><li>organising and interpreting the inter-retaled media in a digital score could consider them as objects or agents with mass, gravitational pull, trajectories, radiations and distortions as they operate through time</li></ol>
+<ol><li>the &#8216;content&#8217; of a digital score is not the same as its &#8216;message&#8217;</li><li>The &#8216;message&#8217; should be understood through the way that a digital score shapes the scale and form of human association and action (i.e. how it makes us behave, feel, think, create)</li><li>digital score creativity should consider its message rather than focussing solely on the content, as deep meaning is communicated here</li><li>the media used to construct a digital score are in themselves individual media with independent &#8216;messages&#8217; and &#8216;contents&#8217;</li><li>organising and interpreting the inter-related media in a digital score could consider them as objects or agents with mass, gravitational pull, trajectories, radiations and distortions as they operate through time</li></ol>
 
 
 
