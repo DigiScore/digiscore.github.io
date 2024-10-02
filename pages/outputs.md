@@ -51,6 +51,10 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Performances
 
+2024    *Solaris* by Craig Vear and Fabrizio Poltronieri, full set performance at Music, Monash University, October 2024
+
+2024    *Solaris* by Craig Vear and Fabrizio Poltronieri, full set performance at Sensilab, Monash University - September 2024
+
 2024    *DigiScore Ensemble* full set performance at Cimarosa Conservatory in Avellino, Italy. June 2024
 
 2024    *Solaris* by Craig Vear and Fabrizio Poltronieri, full set performance at New College, Oxford - June 2024
@@ -106,6 +110,12 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Presentations & Workshops
+
+2024    Creativity Card Workshop. Sydney Conservatory of Music, Sydney. October 5-8, 2024
+
+2024    Creativity Card Workshop. Adelaide University, Melbourne. October 2, 2024
+
+2024    DigiScore Presentation at Adelaide University, Australia. October 2, 2024
 
 2024    Creativity Card Workshop. Monash University, Melbourne. September 2024
 
