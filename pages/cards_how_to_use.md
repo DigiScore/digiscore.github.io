@@ -62,22 +62,6 @@ Discussed in more detail here [LINK](https://digiscore.github.io/2022-01-17-The_
 
 -   3.2	    Make a rapid prototype version of your digital score (60-90 minutes)
 This requires you to be amazingly creative and inventive. The priority is to turn your digital score into music, 
-and in doing so find the *TRUTH* of the experience by testing out the core communications system of your digital score. 
+and in doing so find the *TRUTH* of the experience by testing out the core communications system of your digital score.
 
-Obviously, given the timescale, you cannot develop a new AI, or design the specific game environment in Unity, 
-so you need to use rapid prototyping and Wizard of Oz'ing to realise your idea into a quick and dirty working model 
-(explained below). Put your musician(s) into it (don't worry about the simplicity of the experiment - tell them your 
-vision and let them imagine their way through it).
-
-Invent imaginative ways to represent your idea quickly, and effectively that are also fun and playful. For example, you 
-could use the video function on your phone to quickly make an animated score with screenshots, or post-it notes; you 
-could build a small-world model of your games world from toys and use a WhatsApp video call to fly through this world; 
-you could pretend to use an AI to generate text and images by having someone type stuff and screen share via Zoom in the 
-next room, or control parameters of a VST sound processor (like the Wizard of Oz in the film). 
-The priority is **USER EXPERIENCE**... what is their EXPERIENCE of your digital score? Was it what you expected? 
-What exciting new stuff emerged _THROUGH_ this experience?
-
-
-### ***Phase 4 - idea refinement***
-
-see page on Rapid Prototyping [LINK](cards_rapid_prototyping.md)
+**see page on Rapid Prototyping [LINK](cards_rapid_prototyping.md)**

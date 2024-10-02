@@ -18,6 +18,19 @@ Additionally, it brings end-users into the loop and invites them to help make de
 appropriate to their experiences *'inside'* the activity.
 
 
+## **The TRUTH of the experience *'inside'* a Digital Score**
+Challenge: with mixed media and active computation underpinning many digital scores, how do we discuss 
+(or create with) these agents and objects and how do they shape meaning?
+
+Key Insights:
+
+- the ‘content’ of a digital score is not the same as its ‘message’ 
+- The ‘message’ should be understood through the way that a digital score shapes the scale and form of human association and action (i.e. how it makes us behave, feel, think, create)
+- digital score creativity should consider its 'message' rather than focussing solely on the content, as deep meaning is communicated here 
+- the media used to construct a digital score are in themselves individual media with independent ‘messages’ and ‘contents’ (each forms part of a whole - an ecosystem!)
+- when organising and interpreting the inter-related media in a digital score could consider them as objects or agents with mass, gravitational pull, trajectories, radiations and distortions as they operate through time
+
+
 ## Agile process
 
 The basic Agile process is circular and involves a series of short sprints/ iterations that move your score dev
