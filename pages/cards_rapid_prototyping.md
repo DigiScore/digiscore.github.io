@@ -72,6 +72,21 @@ get the musician **BACK INTO IT**. You want them to share their experience with 
 way [LINK](https://en.wikipedia.org/wiki/Agile_software_development)
 
 
+### ***Quick note about teamwork***
+
+One challenge with rapid prototyping is maximising the skills and ideas of everyone in your team. If you get this 
+balance right then the project can become more successful that the sum of its parts. There are many ways to manage this as
+a collective but there are a few principles that are worth considering:
+
+- Communicate openly and transparently: listen as well as offer suggestions. Really listen.
+- Establish a clear organisational purpose: think "Asparagus not Bananas": Asparagus grow individual from a common root (rhizome), bananas grow in bunches. Try to avoid working collectively on a single activity, perhaps a better use of time and skills, creativity and ideas is to work concurrently on separate tasks that achieve an agreed goal.
+- Set concrete team goals: plan to work in small scrums, returning with updates regularly. [What is the Scrum method](https://aws.amazon.com/what-is/scrum/)
+- Promote ownership and accountability: think about a flat structure for organising your team
+- Delegate tasks based on strengths: listen to the team, where are their strengths today? They change. 
+- Promote efficiency, team cohesion, and reward ....  avoid micromanagement
+- Create a culture of ideas and innovation: act on ideas immediately, try to avoid suggesting counter-ideas. BODYSTORM not brainstorm. The true value of an idea is inside the doing.
+- Make trust an essential value.
+
 
 ## **Examples of Rapid Prototyping Digital Scores: getting to the core of the experience.**
 
