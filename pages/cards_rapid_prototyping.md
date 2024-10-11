@@ -81,7 +81,8 @@ a collective but there are a few principles that are worth considering:
 - Communicate openly and transparently: listen as well as offer suggestions. Really listen.
 - Establish a clear organisational purpose: think "Asparagus not Bananas": Asparagus grow individual from a common root (rhizome), bananas grow in bunches. Try to avoid working collectively on a single activity, perhaps a better use of time and skills, creativity and ideas is to work concurrently on separate tasks that achieve an agreed goal.
 - Set concrete team goals: plan to work in small scrums, returning with updates regularly. [What is the Scrum method](https://aws.amazon.com/what-is/scrum/)
-- Promote ownership and accountability: think about a flat structure for organising your team
+- Promote ownership and accountability: think about a flat structure for organising your team. 
+- Get involved. You will make a difference to the project.
 - Delegate tasks based on strengths: listen to the team, where are their strengths today? They change. 
 - Promote efficiency, team cohesion, and reward ....  avoid micromanagement
 - Create a culture of ideas and innovation: act on ideas immediately, try to avoid suggesting counter-ideas. BODYSTORM not brainstorm. The true value of an idea is inside the doing.
