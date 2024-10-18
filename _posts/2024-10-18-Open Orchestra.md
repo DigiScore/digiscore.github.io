@@ -15,7 +15,7 @@ tags: [case_study]
 
 **About the work:**
 
-Journey through a Changing World is an immersive, multi-movement symphonic piece performed by the Open Orchestra, an inclusive ensemble composed of participants from two Special Education Needs (SEN) schools in Middlesbrough. The narrative is central to the music, collaboratively crafted by the musicians themselves, allowing their unique experiences and perspectives to shape the performance. Guided by the dynamic, real-time visuals of Layla Curtis, the narrative of a journey unfolds like a story, with each movement representing a distinct chapter.
+_Journey through a Changing World_ is an immersive, multi-movement symphonic piece performed by the [Open Orchestra](https://www.openorchestras.org/), an inclusive ensemble composed of participants from two Special Education Needs (SEN) schools in Middlesbrough. The narrative is central to the music, collaboratively crafted by the musicians themselves, allowing their unique experiences and perspectives to shape the performance. Guided by the dynamic, real-time visuals of [Layla Curtis](http://laylacurtis.com/), the narrative of a journey unfolds like a story, with each movement representing a distinct chapter.
 
 •	Movement 1 introduces the beginning of the journey, using footage of arrivals by ship, boat, and plane. The music reflects excitement and anticipation, with the orchestra responding to on-screen action to enhance dynamics. For example, visual cues like footage of a ship signal the bass guitar, double bass, and cello to climb the scale. 
 
@@ -57,7 +57,7 @@ Hopkinson, alongside the Open Orchestra participants, developed the narrative, w
 
 **Flow**
 
-•	Narrative Structure: Journey was structured as a multi-movement piece, with each movement representing a different chapter of the narrative. This structure helped maintain a natural flow and progression throughout the performance.
+•	Narrative Structure: _Journey_ was structured as a multi-movement piece, with each movement representing a different chapter of the narrative. This structure helped maintain a natural flow and progression throughout the performance.
 
 •	Visual Cues: The use of projection mapping and other visual aids provided clear cues (e.g., clouds, mountain footage) to the musicians, ensuring smooth transitions and maintaining the flow of the performance.
 
@@ -91,7 +91,7 @@ Hopkinson, alongside the Open Orchestra participants, developed the narrative, w
 
 **Summary**
 
-Journey through a Changing World is an immersive, multi-movement symphonic piece performed by the Open Orchestra, where the narrative shapes the music. This narrative was collaboratively created by participants and guided by visuals from Layla Curtis, which responded to the performers. The project aimed to immerse both performers and audiences, while addressing synchronization challenges. Each movement of the performance represented a chapter of the narrative, enhanced by projected visuals that deepened the storytelling and allowed performers to synchronize better using digital cues.
+_Journey through a Changing World_ is an immersive, multi-movement symphonic piece performed by the Open Orchestra, where the narrative shapes the music. This narrative was collaboratively created by participants and guided by visuals from Layla Curtis, which responded to the performers. The project aimed to immerse both performers and audiences, while addressing synchronization challenges. Each movement of the performance represented a chapter of the narrative, enhanced by projected visuals that deepened the storytelling and allowed performers to synchronize better using digital cues.
 The project’s objectives included fostering connections between musicians, technology, and narrative through integrated digital scores, ensuring smooth transitions using visual cues, enhancing musicians' digital skills, and promoting inclusivity and engagement. Participants worked closely with composer Ben Hopkinson and collaborated to develop the narrative, while visuals were aligned using Isadora projection mapping. Technologies like pulsing colors and wearable devices helped performers stay in sync with the music.
 Critical insights highlight the successful digital integration of tools like Isadora and Logic Pro X, and the use of narrative and visual cues to guide musicians, fostering collaboration and skill development. The narrative structure and visual aids provided a natural flow to the performance, ensuring smooth transitions and inclusivity, especially for musicians with special needs. Musicians also mastered new digital tools, incorporating interactive elements like iPads and innovative instruments such as the Expressive E Touche Midi controller.
 Overall, the project not only expanded artistic expression but also highlighted the importance of accessibility and collaboration in music-making, hinting at a future filled with dynamic and immersive 
