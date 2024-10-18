@@ -39,7 +39,8 @@ The project seeks to create an engaging experience for both performers and audie
 
 **Creation Process:**
 
-Ben Hopkinson, music workshop leader of the Open Orchestra project, developed the work through three key stages. In Phase 1 (July 2023), he collaborated with Craig Vear and the DigiScore team to explore and prototype musical ideas using creativity cards. During Phase 2 (October 2023), Hopkinson refined this process by working with music students at a workshop held at Cimarosa Conservatory in Italy, gaining insights into the cards' practical application. Finally, in Phase 3 (October 2023 – July 2024), he collaborated with Open Orchestra students to workshop the piece and create musical and technical solutions that integrated visual elements, temporal coordination, and interactivity for real-time score adjustments. More on this process here.
+Ben Hopkinson, music workshop leader of the Open Orchestra project, developed the work through three key stages. In Phase 1 (July 2023), he collaborated with Craig Vear and the DigiScore team to explore and prototype musical ideas using creativity cards. During Phase 2 (October 2023), Hopkinson refined this process by working with music students at a workshop held at Cimarosa Conservatory in Italy, gaining insights into the cards' practical application. Finally, in Phase 3 (October 2023 – July 2024), he collaborated with Open Orchestra students to workshop the piece and create musical and technical solutions that integrated visual elements, temporal coordination, and interactivity for real-time score adjustments. More on this process [here](https://digiscore.github.io/pages/Impact_case_study_Open_Orchestra/).
+
 Hopkinson, alongside the Open Orchestra participants, developed the narrative, with Layla Curtis’ visuals being adapted to align closely with the storyline. Tools like Isadora’s projection mapping software were employed to guide the performers. Technologies such as pulsing colors and wearable devices were incorporated to ensure performers stayed in sync with the music, enhancing both the aesthetic appeal and the functional coherence of the performance.
 
 **Critical insights**
@@ -95,7 +96,11 @@ The project’s objectives included fostering connections between musicians, tec
 Critical insights highlight the successful digital integration of tools like Isadora and Logic Pro X, and the use of narrative and visual cues to guide musicians, fostering collaboration and skill development. The narrative structure and visual aids provided a natural flow to the performance, ensuring smooth transitions and inclusivity, especially for musicians with special needs. Musicians also mastered new digital tools, incorporating interactive elements like iPads and innovative instruments such as the Expressive E Touche Midi controller.
 Overall, the project not only expanded artistic expression but also highlighted the importance of accessibility and collaboration in music-making, hinting at a future filled with dynamic and immersive 
 
+Personnel
 
+[Open Orchestra](https://www.openorchestras.org/)
 
+[Ben Hopkinson](https://www.facebook.com/benhopkinsonmusictuition/?locale=en_GB)
 
+[Layla Curtis](http://laylacurtis.com/)
 
