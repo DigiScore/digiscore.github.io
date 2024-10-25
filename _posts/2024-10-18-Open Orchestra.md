@@ -13,6 +13,8 @@ tags: [case_study]
 
 **_Journey through a Changing World_ for Open Orchestra**
 
+**Dataset:** http://doi.org/10.17639/nott.7485
+
 **About the work:**
 
 _Journey through a Changing World_ is an immersive, multi-movement symphonic piece performed by the [Open Orchestra](https://www.openorchestras.org/), an inclusive ensemble composed of participants from two Special Education Needs (SEN) schools in Middlesbrough. The narrative is central to the music, collaboratively crafted by the musicians themselves, allowing their unique experiences and perspectives to shape the performance. Guided by the dynamic, real-time visuals of [Layla Curtis](http://laylacurtis.com/), the narrative of a journey unfolds like a story, with each movement representing a distinct chapter.
