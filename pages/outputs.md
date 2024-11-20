@@ -21,6 +21,8 @@ cover-img: /assets/img/outputs_banner.png
 
 2024    Robertson, J., Moroz, S., Hope, C., Vear, C., Sanadzadeh, I., Svoboda, H., & Sobek, C. (2024). Transforming Practice with Digital Scores: Developments and Challenges in a Transcontinental Residency. Tempo, 78(309), https://doi.org/10.1017/S0040298224000044
 
+2024    Amerotti, M., Sturm, B., Benford, S., Maruri-Aguilar, H., Vear, C.. Evaluation of an Interactive Music Performance System in the Context of Irish Traditional Dance Music. In Proceedings New Interfaces for Musical Expression NIME’24. International Conference on New Interfaces for Musical Expression.
+
 2024    Vear, C., Poltronieri, F., DiDonato, B., Zhang, Y., Benerradi, J., Hutchinson, S., Turowski, P., Shell, J., & Malekmohamadi, H. (2024, April). Building an Embodied Musicking Dataset for co-creative music-making. Presented at 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART) 2024, Aberystwyth University, Wales
 
 2024    Shi, X., & Vear, C. (2024, April). Generating emotional music based on improved C-RNN-GAN. Presented at 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART) 2024, Aberystwyth University, Wales
