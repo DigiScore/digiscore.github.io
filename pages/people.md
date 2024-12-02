@@ -63,11 +63,9 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 ## Current Fellows and Interns:
 
-**Excel in Science Fellowship: Neoscore optimisation (October 2023 - June 2024)** Oluwademilade Oshin
+**Research Assistant: JoyInst (October 2024 - June 2025)** Macharia Kelvin Njoroge 
  
-
-
- 
+**Post-Doctoral Research Assistant: Human-AI Interaction (Dec 2024 - March 2025)** Oliver Miles
  
  
 
@@ -84,6 +82,10 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 
 ## Past Fellows:
+
+**Research Fellow: Open Orchestra (July 2023 - July 2024)** Ben Hopkinson
+
+**Excel in Science Fellowship: Neoscore optimisation (October 2023 - June 2024)** Oluwademilade Oshin
 
 **Senior Research Fellow: Jess+ (January - July 2023)** Adrian Hazzard
 
