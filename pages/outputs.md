@@ -19,6 +19,10 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
+2024    Vear, C., & Poltronieri, F., (2024)  “Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity”. Proceedings of First International Conference of MAI Music Studies, Stockholm, December 2024
+
+2024    Vear, C., & Benerradi, J. (2024). Jess+: Designing embodied AI for interactive music-making. ArXiv. https://arxiv.org/abs/2412.06469
+
 2024    Robertson, J., Moroz, S., Hope, C., Vear, C., Sanadzadeh, I., Svoboda, H., & Sobek, C. (2024). Transforming Practice with Digital Scores: Developments and Challenges in a Transcontinental Residency. Tempo, 78(309), https://doi.org/10.1017/S0040298224000044
 
 2024    Amerotti, M., Sturm, B., Benford, S., Maruri-Aguilar, H., Vear, C.. Evaluation of an Interactive Music Performance System in the Context of Irish Traditional Dance Music. In Proceedings New Interfaces for Musical Expression NIME’24. International Conference on New Interfaces for Musical Expression.
@@ -52,6 +56,8 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Performances
+
+2024    *Solaris* by Craig Vear and Fabrizio Poltronieri, full set performance at Stallet, Stockholm, December 2024
 
 2024    *Solaris* by Craig Vear and Fabrizio Poltronieri, full set performance at Music, Monash University, October 2024
 
