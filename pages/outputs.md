@@ -253,7 +253,7 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
-2024 "Journey through a Changing World for Open Orchestra" [http://doi.org/10.17639/nott.7485](http://doi.org/10.17639/nott.7485)
+2024  "Journey through a Changing World for Open Orchestra" [http://doi.org/10.17639/nott.7485](http://doi.org/10.17639/nott.7485)
 
 2024  "Exercices d’étrangeté III Mycorrhizia" by Sandeep Bhagwati [http://doi.org/10.17639/nott.7445](http://doi.org/10.17639/nott.7445)
 
