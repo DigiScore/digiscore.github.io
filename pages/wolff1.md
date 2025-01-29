@@ -99,7 +99,7 @@ learn these rules and you will be ready to perform the digital score
  
 
 ## Example of Wolff1 
-	Here is a demo video of Wolff1  
+Here is a demo video of Wolff1  
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="nv-iframe-embed"><iframe loading="lazy" title="Jess+ Performance" width="100%" height="100%" src="https://www.youtube.com/watch?v=_dvSiwzC0N0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
