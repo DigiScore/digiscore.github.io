@@ -8,7 +8,7 @@ cover-img: /assets/img/wolff_123.png
 
 ## About the experiment 
 
-Wolff1 is a digital score. It is a realisation of Christian Wolff’s famous composition For 1,2 or 3 Players (1964) 
+_Wolff1_ is a digital score. It is a realisation of Christian Wolff’s famous composition _For 1,2 or 3 Players_ (1964) 
 conceptualized as an interactive robot. The robot is embedded with AI that has been trained on Wolff’s original score 
 and will work with you in realtime to realise the music. 
 
