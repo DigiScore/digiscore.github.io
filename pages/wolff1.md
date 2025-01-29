@@ -2,7 +2,7 @@
 layout: page
 title: Wolff1
 tags: case_study
-cover-img: /assets/img/jess_plus.jpg
+cover-img: /assets/img/wolff_123.png
 ---
 
 
@@ -19,11 +19,11 @@ this experiment.
 
 ### **Actions to do**: 
 
-      - Read the participation info sheet (at the bottom of this page). Ask question if you have any then sign the consent form 
-      - Read Wolff’s original programme notes, performers’ instructions and the list of principles (all below). It is important that you develop your own interpretation strategy, so please use the further reading and resources provided or search the net for info.
-      - Have a play through using the original example of the score below (or any page from his score) to test out your interpretation strategy. Record it, how well do you feel it matches Wolff’s programme notes? 
-      - Then, spend some time practicing your interpretation strategy with the Wolff 1 practice video.
-      - Now you are ready for the experiment. 
+  - Read the participation info sheet (at the bottom of this page). Ask question if you have any then sign the consent form 
+  - Read Wolff’s original programme notes, performers’ instructions and the list of principles (all below). It is important that you develop your own interpretation strategy, so please use the further reading and resources provided or search the net for info.
+  - Have a play through using the original example of the score below (or any page from his score) to test out your interpretation strategy. Record it, how well do you feel it matches Wolff’s programme notes? 
+  - Then, spend some time practicing your interpretation strategy with the Wolff 1 practice video.
+  - Now you are ready for the experiment. 
 
 
 ## Example of the original score (© Christian Wolff 1964)
@@ -68,19 +68,19 @@ A copy of the original score can be found here. [LINK](http://wiki.alainmichon.n
 
 **The general principles for performance are**: 
 
-      - Respond to others: Performers must be aware of what other performers are doing and respond accordingly.
-      - Be self-disciplined: Performers must be able to exercise self-discipline and respond to unpredictable requirements.
-      - Use any sound-producing means: Performers can use any instrument or method to create sound.
-      - Be open to change: Performers must be ready to change their approach based on what others are doing.
-      - Be aware of the piece's structure: Performers must be aware of their position in the piece's overall structure.
-      - Be aware of the piece's rules: Performers must be aware of the rules that govern the piece.  
+  - Respond to others: Performers must be aware of what other performers are doing and respond accordingly.
+  - Be self-disciplined: Performers must be able to exercise self-discipline and respond to unpredictable requirements.
+  - Use any sound-producing means: Performers can use any instrument or method to create sound.
+  - Be open to change: Performers must be ready to change their approach based on what others are doing.
+  - Be aware of the piece's structure: Performers must be aware of their position in the piece's overall structure.
+  - Be aware of the piece's rules: Performers must be aware of the rules that govern the piece.  
 
 **Features of the piece**  
 
-      - The piece is written in graphic notation. 
-      - The piece is accessible to performers without professional musical training. 
-      - The piece is characterized by its unconventional notation. 
-      - The piece is considered "contingent", meaning it requires performers to react in real time. 
+  - The piece is written in graphic notation. 
+  - The piece is accessible to performers without professional musical training. 
+  - The piece is characterized by its unconventional notation. 
+  - The piece is considered "contingent", meaning it requires performers to react in real time. 
 
 
 ## Performer’s instructions (for Wolff1) 
@@ -119,8 +119,9 @@ Here is a demo video of Wolff1
 
  
 
-## Consent form (must be signed and sent to Prof Craig Vear) 
+## Consent form 
 
-Before you participate in this experiment you must read the Participation Information Sheet and sign [this 
-consent form](/assets/docs/7_vear_digiscore_consent-form.docx). 
+Before you participate in this experiment you must read the Participation Information Sheet and Privacy Notice 
+then sign [this 
+consent form](/assets/docs/7_vear_digiscore_consent-form.docx) and email it to Prof Craig Vear . 
 
