@@ -8,13 +8,13 @@ cover-img: /assets/img/wolff_123.png
 
 ## About the experiment 
 
-_Wolff1_ is a digital score. It is a realisation of Christian Wolff’s famous composition _For 1,2 or 3 Players_ (1964) 
+_Wolff1_ is a digital score. It is a realisation of Christian Wolff’s famous composition _For 1, 2 or 3 Players_ (1964) 
 conceptualized as an interactive robot. The robot is embedded with AI that has been trained on Wolff’s original score 
 and will work with you in realtime to realise the music. 
 
-You are being asked to prepare, rehearse, and perform Wolff1 as part of an experiment to study the extent to which 
+You are being asked to prepare, rehearse, and perform _Wolff1_ as part of an experiment to study the extent to which 
 digital scores communicate musical ideas.  Below you will find a range of resources that will help you prepare for 
-this experiment.  
+this experiment. This experiment will be conducted on a piano for all participants.
 
 
 ### **Actions to do**: 
@@ -29,7 +29,7 @@ this experiment.
 ## Example of the original score (© Christian Wolff 1964)
 
 Below is a sample page taken from Wolff’s original score. Before you attempt to practice with this example, it is an 
-imperative that you read, and understand the original programme notes, and read and understand the performers 
+imperative that you read, and understand the original programme notes, and read and understand the performer's 
 instructions. 
 
 ![Wolff Extract](/assets/img/wolff_123.png)
@@ -37,17 +37,18 @@ instructions.
 ## Programme Notes (original) 
 
 Below are the original programme notes from Christian Wolff. We have highlighted several key phrases that are critical 
-to understanding the core philosophy and approach needed with the original 1964 version and also Wolff1: 
+to understanding the core philosophy and approach needed with the original 1964 version and also Wolff1 (we have 
+highlighted key phrases): 
 
-_This music is drawn from the interaction of the people playing it. It requires for its performance independent 
-self-discipline (unpoliced by a score defining fixed relationships and timings) and a capacity and special alertness 
-for responding to what one's fellow performers are doing, the sounds they are making or changing and their silences. 
+_**This music is drawn from the interaction of the people playing it**. It requires for its performance independent 
+self-discipline (unpoliced by a score defining fixed relationships and timings) and a **capacity and special alertness 
+for responding to what one's fellow performers are doing**, the sounds they are making or changing and their silences. 
 The responding can be variously deliberate (there is time and you are free) or must be quick and sudden (there are 
-precise requirements which appear unpredictably). At the time (1964) I was concerned to make a lively situation for 
-the performers, and shift about the difficult and the free areas of their playing (for example, the more unusual 
+precise requirements which appear unpredictably). At the time (1964) I was concerned to make a **lively situation for 
+the performers, and shift about the difficult and the free areas of their playing** (for example, the more unusual 
 difficulty of articulating timbre changes in a situation where you are busy coordinating with others' unpredictably 
-appearing sounds; or, the freedom to choose any pitch at your leisure). The resulting sounds and silences were to be 
-the music, and the fact of its emerging in this way was to be the source of its expressiveness._ 
+appearing sounds; or, the freedom to choose any pitch at your leisure). **The resulting sounds and silences were to be 
+the music, and the fact of its emerging in this way was to be the source of its expressiveness**._ 
 
 _In the meantime, others pointed out the pedagogical character of this activity and some social implications (for 
 instance, a kind of democratic interdependence). Where the presence and internal activity of the players can only be 
@@ -62,7 +63,7 @@ the singable line). This may not be always obvious, but then the times are not c
 (Wolff 1964) 
 
 
-## Performers Instructions (original) 
+## Performer's Instructions (original) 
 
 A copy of the original score can be found here. [LINK](http://wiki.alainmichon.net/files/atelier_boucan/textes/christian_wolf_for-1_2_3people.pdf) 
 
@@ -94,7 +95,7 @@ learn these rules and you will be ready to perform the digital score
 ## Examples of Performances 
 
 - [Performance example 1 LINK ](https://www.youtube.com/watch?v=7TdHUAR-RUg)
-- [Performance exmaple 2 LINK](https://www.youtube.com/watch?v=Bw5ZgKt0uJs)  
+- [Performance example 2 LINK](https://www.youtube.com/watch?v=Bw5ZgKt0uJs)  
 
  
 
@@ -102,7 +103,7 @@ learn these rules and you will be ready to perform the digital score
 Here is a demo video of Wolff1  
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-<div class="nv-iframe-embed"><iframe loading="lazy" title="What is a digital score?" width="100%" height="100%" src="https://www.youtube.com/embed/enD9Qx_Fm2M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="nv-iframe-embed"><iframe loading="lazy" title="Jess+ performance at the BBC" width="100%" height="100%" src="https://www.youtube.com/embed/_dvSiwzC0N0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 </div></figure>
 
 
