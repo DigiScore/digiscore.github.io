@@ -65,7 +65,7 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 **Research Assistant: JoyInst (October 2024 - June 2025)** Macharia Kelvin Njoroge 
  
-**Post-Doctoral Research Assistant: Human-AI Interaction (Dec 2024 - March 2025)** Oliver Miles
+**Post-Doctoral Research Associate: Human-AI Interaction (Dec 2024 - March 2025)** Oliver Miles
  
  
 
