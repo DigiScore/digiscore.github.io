@@ -115,7 +115,7 @@ Here is a demo video of Wolff1
 
 ## Participation Information Sheets 
 
-[Participation Info Sheet can be found here](/assets/docs/4_musician-CASE-STUDY-digiscores-info.docx) 
+[Participation Info Sheet can be found here](/assets/docs/4_musician-CASE-STUDY-digiscores-info_2025.docx) 
 
 [Full Privacy Notice can be found here](/assets/docs/9_Full_Privacy_Notice_For_Research_Participants.docx) 
 
