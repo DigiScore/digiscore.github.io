@@ -14,6 +14,11 @@ inclusive music ensemble. The digital score used AI and a robotic arm to bind th
 improvisation with all the musicians benefiting, practices enhanced and relationships transformed.
 
 
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<div class="nv-iframe-embed"><iframe loading="lazy" title="YouTube video player" width="965" height="543" src="https://www.youtube.com/embed/NPFqTpd91wo?si=AMycKIwupWsHJSLw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+</div></figure>
+
+
 ## **The Issue**
 
 There are significant barriers to music-making for disabled musicians. One such barrier, relating to this project is 
