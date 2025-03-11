@@ -19,7 +19,7 @@ this experiment. This experiment will be conducted on a piano for all participan
 
 ### **Actions to do**: 
 
-  - Read the participation info sheet (at the bottom of this page). Ask questions if you have any, then sign the consent form 
+[//]: # (  - Read the participation info sheet &#40;at the bottom of this page&#41;. Ask questions if you have any, then sign the consent form )
   - Read Wolff’s original programme notes, performers’ instructions and the list of principles (all below). It is important that you develop your own interpretation strategy, so please use the further reading and resources provided or search the net for info.
   - Have a play through using the original example of the score below (or any page from his score) to test out your interpretation strategy. Record it, how well do you feel it matches Wolff’s programme notes? 
   - Then, spend some time practicing your interpretation strategy with the Wolff 1 practice video.
@@ -113,17 +113,23 @@ Here is a demo video of Wolff1
 
  
 
-## Participation Information Sheets 
+[//]: # (## Participation Information Sheets )
 
-[Participation Info Sheet can be found here](/assets/docs/4_musician-CASE-STUDY-digiscores-info_2025.docx) 
+[//]: # ()
+[//]: # ([Participation Info Sheet can be found here]&#40;/assets/docs/4_musician-CASE-STUDY-digiscores-info_2025.docx&#41; )
 
-[Full Privacy Notice can be found here](/assets/docs/9_Full_Privacy_Notice_For_Research_Participants.docx) 
+[//]: # ()
+[//]: # ([Full Privacy Notice can be found here]&#40;/assets/docs/9_Full_Privacy_Notice_For_Research_Participants.docx&#41; )
 
- 
+[//]: # ()
+[//]: # ( )
+[//]: # ()
+[//]: # (## Consent form )
 
-## Consent form 
+[//]: # ()
+[//]: # (Before you participate in this experiment you must read the Participation Information Sheet and Privacy Notice )
 
-Before you participate in this experiment you must read the Participation Information Sheet and Privacy Notice 
-then sign [this 
-consent form](/assets/docs/7_vear_digiscore_consent-form.docx) and email it to Prof Craig Vear . 
+[//]: # (then sign [this )
+
+[//]: # (consent form]&#40;/assets/docs/7_vear_digiscore_consent-form.docx&#41; and email it to Prof Craig Vear . )
 
