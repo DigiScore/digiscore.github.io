@@ -13,6 +13,12 @@ Developing an intelligent digital score that extended the creativity of disabled
 inclusive music ensemble. The digital score used AI and a robotic arm to bind these musicians in a shared creative 
 improvisation with all the musicians benefiting, practices enhanced and relationships transformed.
 
+---
+**AWARD**
+
+Winner of the 2025 Global Tech Awards for Music Technology. [LINK](https://www.globaltechaward.com/winners)
+
+---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
 <div class="nv-iframe-embed"><iframe loading="lazy" title="YouTube video player" width="965" height="543" src="https://www.youtube.com/embed/NPFqTpd91wo?si=AMycKIwupWsHJSLw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
@@ -172,7 +178,7 @@ sometimes collaborate with digital musicians and artists on some projects.
 # **Partners**
 
 **Sinfonia Viva**  
-a British orchestra based in Derby, England)  [https://www.sinfoniaviva.co.uk/](https://www.sinfoniaviva.co.uk/)
+a British orchestra based in Derby, England  [https://www.sinfoniaviva.co.uk/](https://www.sinfoniaviva.co.uk/)
 
 **Orchestras Live** 
 a national producer creating inspiring orchestral experiences for communities across England [https://www.orchestraslive.org.uk/]( https://www.orchestraslive.org.uk/)
