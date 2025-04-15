@@ -7,6 +7,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Books and Book chapters
 
+2025    Vear, C., & Poltronieri, F., (2025) "Crafting Artificial Musicians: building Solaris as a co-operative, perceiving and creative AI" in Zagalo, N., & Keller, D., (eds) Artificial Media: Emerging Trends in Narratives, Education and Creative Practice [https://link.springer.com/book/9783031890369](https://link.springer.com/book/9783031890369)
+
 2022    Vear, C., (ed) (2022) "The Routledge International Handbook of Practice-Based Research" - [https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435](https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435)
 
 2022    Vear, C., & Poltronieri, F., (eds)(2022) The Language of Creative AI - [https://link.springer.com/book/10.1007/978-3-031-10960-7](https://link.springer.com/book/10.1007/978-3-031-10960-7)
