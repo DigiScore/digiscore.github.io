@@ -21,7 +21,7 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Peer-reviewed published papers and articles
 
-2025    Vear, C., & Moroz, S. Transforming Practice: The Impact of Digital Scores on Creativity, Performance, and Accessibility. Tempo, 78(313), https://doi.org/10.1017/S0040298225000129
+2025    Moroz, S., & Vear, C. Transforming Practice: The Impact of Digital Scores on Creativity, Performance, and Accessibility. Tempo, 78(313), https://doi.org/10.1017/S0040298225000129
 
 2024    Vear, C., & Poltronieri, F., (2024)  “Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity”. Proceedings of First International Conference of MAI Music Studies, Stockholm, December 2024
 
