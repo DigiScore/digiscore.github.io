@@ -1,7 +1,7 @@
 ---
 layout: post
 title: DigiScore Concert as part of MNM Festival in Montreal
-subtitle: Supermusiqe Ensmble Performance
+subtitle: Supermusiqe Ensemble Performance
 cover-img: /assets/img/MNM.jpg
 thumbnail-img: /assets/img/MNM.jpg
 tags: [case_study]
