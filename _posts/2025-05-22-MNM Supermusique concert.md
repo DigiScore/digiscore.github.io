@@ -12,31 +12,31 @@ tags: [case_study]
 
 This was a concert by the ensemble SuperMusique from Montreal, showcasing animated and participatory graphic scores, blending music, technology, and research. This performance was featured in the MNM Festival under the artistic direction of DigiScore's partner, Sandeep Bhagwati. The program featured five varied works that explore the richness and diversity of the graphic language of these scores, offering a fascinating look into the world of digital notation. The works featured on the programmed:
 
-Pandemonium (Linda Bouchard) – A trio where musicians interpret a digital score in real-time, with colours indicating fixed notation, accompaniment, or improvisation. The software Ocular Scores analyses and visually represents their performance, creating a dynamic interplay of sound and image, feeding back its graphic imagery to the audience.
+_Pandemonium_ (Linda Bouchard) – A trio where musicians interpret a digital score in real-time, with colours indicating fixed notation, accompaniment, or improvisation. The software Ocular Scores analyses and visually represents their performance, creating a dynamic interplay of sound and image, feeding back its graphic imagery to the audience.
 
-Zero Waste (Nick Didkovsky) – A pianist-computer duet where the software generates music in real-time based on the performer’s interpretation, creating an evolving, unpredictable composition. Other musicians improvise alongside, forming a responsive soundscape.
+_Zero Waste_ (Nick Didkovsky) – A pianist-computer duet where the software generates music in real-time based on the performer’s interpretation, creating an evolving, unpredictable composition. Other musicians improvise alongside, forming a responsive soundscape.
 
-La vie de l'esprit (Joan Hetu & Manon de Pauw) – An allegory of the mind, combining live watercolor animations with fluid, electrifying music. The piece explores ideas, synapses, and imagination, with visuals created in real-time on a light table.
+_La vie de l'esprit_ (Joan Hetu & Manon de Pauw) – An allegory of the mind, combining live watercolor animations with fluid, electrifying music. The piece explores ideas, synapses, and imagination, with visuals created in real-time on a light table.
 
-Mouth of a River (Terri Hron) – Inspired by the St. Lawrence Estuary, this work integrates field recordings, geological research, and Indigenous perspectives. Four sections (Tension Zone, Water & Tides, Rocks, Shipwreck) guide the musicians’ interpretation.
+_Mouth of a River_ (Terri Hron) – Inspired by the St. Lawrence Estuary, this work integrates field recordings, geological research, and Indigenous perspectives. Four sections (Tension Zone, Water & Tides, Rocks, Shipwreck) guide the musicians’ interpretation.
 
-Tiroir bonbons pastel (Nour Symon) – A queer-inspired visual score using pastel colours and playful imagery (like candy and glitter) to represent sound. Pitch, duration, and dynamics are conveyed through intuitive symbols, merging "high" and "low" art aesthetics.
+_Tiroir bonbons pastel_ (Nour Symon) – A queer-inspired visual score using pastel colours and playful imagery (like candy and glitter) to represent sound. Pitch, duration, and dynamics are conveyed through intuitive symbols, merging "high" and "low" art aesthetics.
 
 **Critical Insights**
 
-The experiences of musicians working with digital scores Pandémonium, Zero Waste, La vie de l'esprit, The Mouth of a River, Tiroir bonbons pastel, reveal a complex interplay between musical interpretation, digital adaptation, and personal transformation.
+The experiences of musicians working with digital scores _Pandémonium_, _Zero Waste_, _La vie de l'esprit_, _The Mouth of a River_, _Tiroir bonbons pastel_, reveal a complex interplay between musical interpretation, digital adaptation, and personal transformation.
 
-**_Connectivity**_
+_**Connectivity_**
 
 •	Human-Score-Instrument focus split: Performers constantly negotiated between reading complex digital visuals, listening to the ensemble, and executing their instrumental or electronic responses. This triangular focus split attention, challenging traditional ensemble awareness.
 
 •	Disconnection from Ensemble Sound: Many players expressed difficulty tuning into the ensemble’s collective sound due to visual overload from screens and managing individual setups. They often became isolated in their own task loop, sacrificing real-time listening and interaction.
 
-•	Layered Role Allocation: In pieces like Mouth of a River, performers were assigned sonic representations of different visual layers (e.g., mountains, water, satellite views), enhancing thematic interconnection but demanding layered coordination without traditional cues.
+•	Layered Role Allocation: In pieces like _Mouth of a River_, performers were assigned sonic representations of different visual layers (e.g., mountains, water, satellite views), enhancing thematic interconnection but demanding layered coordination without traditional cues.
 
 •	Delayed Composer-Performer Feedback: Visual scores offered little room for immediate feedback or instruction, limiting direct musical direction. This often shifted the compositional decision-making onto performers, blurring the line between interpreting and composing.
 
-**_Flow**_
+_**Flow**_
 
 •	Flow Interrupted by Interface: Performers described a fractured flow state due to multitasking—managing scores, paper instructions, instrument parameters, and timing cues simultaneously. This multitasking reduced immersion and spontaneity.
 
@@ -46,7 +46,7 @@ The experiences of musicians working with digital scores Pandémonium, Zero Wast
 
 •	Moments of Flow in Slower Works: Slower-paced pieces, such as Terry Hron’s, enabled smoother performer engagement. These allowed more breathing room for listening, subtle interplay, and ensemble cohesion—demonstrating the importance of temporal spaciousness for digital-score performance.
 
-**_Digital Musicianship**_
+_**Digital Musicianship**_
 
 •	Real-Time Strategy Building: Performers developed adaptive strategies on the fly, such as prioritising visual targets (e.g., “only follow the yellow shapes”) or pre-memorising video structures to anticipate changes without needing to react live.
 
@@ -58,7 +58,7 @@ The experiences of musicians working with digital scores Pandémonium, Zero Wast
 
 •	Technological Limitations as Creative Constraints: In pieces like Didkovsky’s, where AI generated notated transformations in response to human input, performers had to intentionally “fail” or “strategize mistakes” to keep the system creatively unstable—a novel skill in gaming the machine.
 
-**_Transformations**_
+_**Transformations**_
 
 •	Redefined Composer-Performer Roles: Many participants expressed a shift in how they understood authorship—composers became “visual proposers,” while performers were de facto co-composers who shaped the sonic outcome from non-musical cues.
 
@@ -72,7 +72,7 @@ The experiences of musicians working with digital scores Pandémonium, Zero Wast
 
 **Summary**
 
-The DigiScore Concert at Montreal’s MNM Festival, curated by Sandeep Bhagwati and performed by SuperMusique, showcased five experimental works merging graphic notation, technology, and improvisation, including Linda Bouchard’s Pandemonium, Nick Didkovsky’s generative Zero Waste, and Nour Symon’s queer pastel inspired Tiroir bonbons pastel. These pieces redefined musical interpretation through real-time digital scores, with performers navigating dynamic visuals, algorithmic feedback, and layered role-playing—though challenges like visual overload, latency, and ambiguous notation disrupted traditional ensemble flow. Despite technical constraints, the concert revealed new modes of co-creation, where musicians became active composers, adapting to interactive systems and hybrid sight-improvisation. The event highlighted both the potential and friction of digital scores, pushing boundaries between notation, performance, and technology while reshaping concepts of authorship, structure, and collaboration in contemporary music.
+The DigiScore Concert at Montreal’s MNM Festival, curated by Sandeep Bhagwati and performed by SuperMusique, showcased five experimental works merging graphic notation, technology, and improvisation, including Linda Bouchard’s _Pandemonium_, Nick Didkovsky’s generative _Zero Waste_, and Nour Symon’s queer pastel inspired _Tiroir bonbons pastel_. These pieces redefined musical interpretation through real-time digital scores, with performers navigating dynamic visuals, algorithmic feedback, and layered role-playing—though challenges like visual overload, latency, and ambiguous notation disrupted traditional ensemble flow. Despite technical constraints, the concert revealed new modes of co-creation, where musicians became active composers, adapting to interactive systems and hybrid sight-improvisation. The event highlighted both the potential and friction of digital scores, pushing boundaries between notation, performance, and technology while reshaping concepts of authorship, structure, and collaboration in contemporary music.
 
 **Personnel**
 
