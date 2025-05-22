@@ -26,7 +26,7 @@ _Tiroir bonbons pastel_ (Nour Symon) – A queer-inspired visual score using pas
 
 The experiences of musicians working with digital scores _Pandémonium_, _Zero Waste_, _La vie de l'esprit_, _The Mouth of a River_, _Tiroir bonbons pastel_, reveal a complex interplay between musical interpretation, digital adaptation, and personal transformation.
 
-_**Connectivity_**
+_**Connectivity**_
 
 •	Human-Score-Instrument focus split: Performers constantly negotiated between reading complex digital visuals, listening to the ensemble, and executing their instrumental or electronic responses. This triangular focus split attention, challenging traditional ensemble awareness.
 
