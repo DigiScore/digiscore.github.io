@@ -25,6 +25,7 @@ The workshop led by Sandeep Bhagwati and his technical team centered around two 
 **_Flow_**
 
 •	Disruption and recovery: Participants highlighted how the flow was at times disrupted due to the need to “follow” the score visually—leading to loss of musical eye contact. However, over time, they adapted, integrating visual following into their performance flow.
+
 •	Emergent structure: While initial sessions resembled “chaotic polyphony,” musicians naturally moved toward emergent structural forms—e.g., jugalbandi (call and response), implied cadences, and climaxing narratives.
 
 •	Score as improvisational partner: The digital score’s dynamic visual cues (e.g., phrases growing/shrinking or changing color) influenced performance density and direction. This behavior shaped the unfolding of time and energy in music—acting as a co-creator rather than a static script.
