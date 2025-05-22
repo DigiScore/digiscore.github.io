@@ -2,7 +2,7 @@
 layout: post
 title: Netronomia II
 subtitle: Networked Digital Music Performance of Netronomia II
-cover-img: /assets/img/nodesRings.jpg
+cover-img: /assets/img/nodesRings.png
 thumbnail-img: /assets/img/nodesRings.png
 tags: [case_study]
 ---
