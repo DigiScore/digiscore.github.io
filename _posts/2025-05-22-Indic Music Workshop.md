@@ -63,8 +63,12 @@ Indic Music workshop explored two digital scores, Smruti Ranga and DigiTabla, wh
 Personnel
 
 [Sandeep Bhagwati](https://www.concordia.ca/faculty/sandeep-bhagwati.html), composition
+
 [Shawn Mativetsky](https://www.shawnmativetsky.com/), composition, tabla
+
 [Mathias Nybo](https://nybomusic.ca/), sitar
+
 Anjana Srinivisan, violin
+
 Saulo Evans, tabla
 
