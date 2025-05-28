@@ -257,6 +257,10 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
+2025 "Indic Music Workshop" [https://rdmc.nottingham.ac.uk/handle/internal/11990](https://rdmc.nottingham.ac.uk/handle/internal/11990)
+
+2025 "Netronomia II" by Kenneth Fields [http://doi.org/10.17639/nott.7553](http://doi.org/10.17639/nott.7553)
+
 2024  "Journey through a Changing World for Open Orchestra" [http://doi.org/10.17639/nott.7485](http://doi.org/10.17639/nott.7485)
 
 2024  "Exercices d’étrangeté III Mycorrhizia" by Sandeep Bhagwati [http://doi.org/10.17639/nott.7445](http://doi.org/10.17639/nott.7445)
