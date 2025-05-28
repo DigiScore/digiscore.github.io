@@ -7,6 +7,10 @@ thumbnail-img: /assets/img/nodesRings.png
 tags: [case_study]
 ---
 
+# Netronomia II
+
+Dataset: [http://doi.org/10.17639/nott.7553](http://doi.org/10.17639/nott.7553)
+
 _Netronomia II_, led by Kenneth Fields at Beijing's Conservatory of Music, utilises the Netronome—a networked metronome developed at UCSB—to synchronise multi-city performances despite latency variations. The project reimagined musical collaboration by linking dispersed performers (Wuhan, Beijing, Inner Mongolia) through latency-adjusted circle scores modeled after Beijing’s ring roads. This created a decentralised ecosystem where each node preserved its unique rhythmic identity (30–40ms offsets generating distinct "toporhythms"). Musicians could choose unconventional sound sources (vocal percussion, MIDI controllers) rather than conforming to standardised parts. 
 
 This project illustrates a transformative approach to creating, sharing, and experiencing music in the the digital age. Rather than erasing distance, the system composes with it—turning latency into texture, visual abstraction into groove, and performers into networked co-creators. It represents a compelling prototype for post-geographic, post-linear digital musicianship.
