@@ -257,7 +257,7 @@ Orpheus Institute - [https://orpheusinstituut.be/en/](https://orpheusinstituut.b
 
 ## Data set
 
-2025 "Indic Music Workshop" [https://rdmc.nottingham.ac.uk/handle/internal/11990](https://rdmc.nottingham.ac.uk/handle/internal/11990)
+2025 "Indic Music Workshop" [http://doi.org/10.17639/nott.7554](http://doi.org/10.17639/nott.7554)
 
 2025 "Netronomia II" by Kenneth Fields [http://doi.org/10.17639/nott.7553](http://doi.org/10.17639/nott.7553)
 
