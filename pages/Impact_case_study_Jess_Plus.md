@@ -18,6 +18,8 @@ improvisation with all the musicians benefiting, practices enhanced and relation
 
 Winner of the 2025 Global Tech Awards for Music Technology. [LINK](https://www.globaltechaward.com/winners)
 
+Winner of the 2025 Sound Of The Year Award for Best Sound Innovation [LINK](https://www.soundoftheyearawards.com/)
+
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
