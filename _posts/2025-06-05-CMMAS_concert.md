@@ -1,6 +1,6 @@
 ---
 layout: post
-title: DigiScore Concert as Part of Encuentro Montrealia, Mexico-Canada, (April 23-25, 2025)
+title: DigiScore Concert as Part of Encuentro Montrealia, Mexico-Canada
 subtitle: Three DigiScore Commissions
 cover-img: /assets/img/Quartet.jpeg
 thumbnail-img: /assets/img/CMMAS_composers.jpeg
@@ -10,7 +10,7 @@ tags: [case_study]
 
 **DigiScore Concert as Part of _Encuentro Montrealia_, Mexico-Canada, (April 23-25, 2025)**
 
-Encuentro Montrealia was a collaborative music event held at Mexico's Centre for Music and Sound Arts (CMMAS) and ENES Morelia, partnering with Quebec's leading music technology institutions including Matralab, GRMS, UQAM, and Concordia University. This initiative created a dynamic platform for learning, creative exchange, and dialogue about contemporary music composition through both academic and artistic activities.
+_Encuentro Montrealia_ was a collaborative music event held at Mexico's Centre for Music and Sound Arts (CMMAS) and ENES Morelia, partnering with Quebec's leading music technology institutions including Matralab, GRMS, UQAM, and Concordia University. This initiative created a dynamic platform for learning, creative exchange, and dialogue about contemporary music composition through both academic and artistic activities.
 
 The event featured the participation of the DigiScore project and its Canadian partner Sandeep Bhagwati from Concordia University. Three international composers were commissioned to create innovative works for string quartet and multimedia:
 
@@ -29,35 +29,35 @@ The world premieres of these works were performed by a specially assembled strin
 **_Connectivity_**
 
 * Multimodal Score Interactions: Across all projects discussed, performers connected not only to sound but also to images, gestures, fixed media, and algorithmically-driven interfaces. For example, Andrea Agostini’s piece involved real-time notational feeds and sliders controlling musical parameters, creating a feedback loop between composer/conductor, performer, and score.
-* 
+
 * Shared Sonic Territories and Visual Worlds: Gabriel Gendin’s project emphasized ecological and territorial connection, where sound materials and gestures in VR formed a sensory link between performers, audience, and environment. Even when one performer was isolated via VR headset, connection was maintained through a shared in-ear reference track and mutual response to sound textures.
-* 
+
 * Cross-performer Synchronisation Challenges: Both Sofia’s and Gabriel’s projects demonstrated how different media layers (visual images, live gestures, and real-time changes) can strain or enrich performer connectivity, requiring new forms of attention, negotiation, and pre-performance preparation.
-* 
+
 **_Flow_**
 
 * Real-time Control and Shifting Dynamics: Andrea’s project explored live notation scrolling and algorithmic decision-making, with a MIDI controller acting as a real-time conductor. This emphasised the performative flow between pre-conceived structures and reactive choices made in the moment.
-* 
+
 * Visual-to-sonic Mappings and Emergent Narratives: Sofia’s piece developed flow through contrasting visual behaviours (sea, fire, hands) and extended techniques mapped to them. Performers had to interpret these dynamic visuals in relation to timing cues and ensemble balance, with crossfading and visual flickers guiding transitions.
-* 
+
 * Technical Coordination as a Factor in Performance Flow: The discussions revealed how technical logistics like timer synchronisation, individual screen displays, and hardware constraints directly impact the flow and coherence of digital score performances.
 
-**_Digital Musicianship**_
+**_Digital Musicianship_**
 
 * Improvisational Responsiveness and Reading Skills: The projects cultivated performer skills in real-time responsiveness to constantly evolving digital stimuli — scrolling notation, image-based cues, and non-linear form structures. Agostini noted that the musicians had to learn to “read like crazy,” developing new reflexes for interpreting continuous, algorithmic visual feeds.
-* 
+
 * Learning Extended Techniques and Gesture Control: Sofia’s experience highlighted performers acquiring extended techniques and digital responsiveness through image-based prompts, while Gabriel expressed interest in advancing digital musicianship by integrating VR gesture capture and sensor-based sound manipulation.
-* 
+
 * Technical Adaptation and Collaborative Problem-solving: Musicians and sound engineers at CMMAS collaboratively navigated challenges like syncing video and fixed media, headset calibration, and screen management — all essential digital skills within live electronic and multimedia performance contexts.
 
-**_Transformations**_
+**_Transformations_**
 
 * Redefining Notational Necessity and Precision: Agostini reflected on how digital scores allowed him to escape unnecessary precision typical of traditional scores — leaving out accidentals, bar lines, and fixed pitches in favor of real-time, reactive structures. This opened new compositional freedoms and challenged assumptions about notation’s role in guiding performance.
-* 
+
 * Reimagining Performance Hierarchies and Roles: Digital scores facilitated distributed authorship and agency. Gendin’s situated, ecological piece blurred boundaries between performer, environment, and audience, while Sofia’s visual score invited performers to create sonic meaning from non-sonic cues, decentering the composer’s control.
-* 
+
 * Openness and Methodological Shifts: Several participants emphasized a move toward methodological openness — embracing modularity, improvisation, and emergent properties of live systems. The potential to re-stage works differently each time, with different instruments or performers, was a recurring theme.
-* 
+
 * Political and Ecological Dimensions: Gendin’s ethnobiological and politically engaged work underscored how digital scores can embody site-specific, culturally-rooted narratives — transforming not just music-making, but its sociopolitical function.
 
 **Summary**
