@@ -107,7 +107,9 @@ cover-img: /assets/img/outputs_banner.png
 
 2022    *Nautilus* in-lab performance by Carla Rees, DMU, March 2022 [https://youtu.be/XK-9eXCJxCg](https://youtu.be/XK-9eXCJxCg)
 
+## Commercially released Albums
 
+2025    *Tree Mountains - LIVE* performed by Solaris, May 2025 [LINK](https://open.spotify.com/album/4we8W22YAa9cQLXaEH3maa)
 
 ## Residencies & Fellowships
 
