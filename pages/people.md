@@ -18,25 +18,7 @@ emerging technologies for nearly three decades, and was editor for The Routledge
 Research, published in 2022. His recent monograph The Digital Score: creativity, musicianship and innovation, was published by
 Routledge in 2019, and he is Series Editor of Springer’s Cultural Computing Series. In 2021 he was awarded a €2Million ERC
 Consolidator Grant to continue to develop his Digital Score research.
- 
- 
- 
 
-<img align="right" width="10%" height="10%" src="/assets/img/thumbnail_S_Moroz1.jpg">
-
-**Post-Doctoral Research Fellow: Embodied Music Cognition:** Solomiya Moroz
-
-
-**Biog** Solomiya Moroz is a Canadian-Ukrainian musician, composer and researcher, based in the UK. 
-She has a PhD in music composition from the University of Huddersfield and a Master’s in Live Electronics 
-from the Conservatory of Amsterdam. Her work tends to progress towards the expansion of music-specific media 
-and the role of the musicians within them. Currently, she is working as a research fellow in embodied music 
-cognition on the Digital Score project at the University of Nottingham. Recent premiers of her compositions have 
-been performed by Ensemble Apparat, accordionist Teodoro Anzellotti, Quasar saxophone quartet, 
-Bozzini string quartet and accordion duo XAMP. She has also performed as a flautist with various 
-ensembles and presented her music in Canada, the UK, the US, and Europe. Her projects and research have been 
-supported by Canada Council for the Arts and Fonds Québécois de la Recherche sur la Société et Culture.
- 
  
 
 <img align="right" width="10%" height="10%" src="/assets/img/fabrizio.jpg">
@@ -65,7 +47,7 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 **Research Assistant: JoyInst (October 2024 - June 2025)** Macharia Kelvin Njoroge 
  
-**Post-Doctoral Research Associate: Human-AI Interaction (Dec 2024 - March 2025)** Oliver Miles
+**Post-Doctoral Research Associate: Human-AI Interaction (Dec 2024 - June 2025)** Oliver Miles
  
  
 
@@ -83,14 +65,16 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 ## Past Fellows:
 
+**Post-Doctoral Research Assistant: Embodied Music Cognition (2022-25)** Dr. Solomiya Moroz
+
 **Research Fellow: Open Orchestra (July 2023 - July 2024)** Ben Hopkinson
 
 **Excel in Science Fellowship: Neoscore optimisation (October 2023 - June 2024)** Oluwademilade Oshin
 
-**Senior Research Fellow: Jess+ (January - July 2023)** Adrian Hazzard
+**Senior Research Fellow: Jess+ (January - July 2023)** Dr. Adrian Hazzard
 
-**Post-Doctoral Research Fellow: Creative Computing (April - July 2023)** Johann Benerradi [https://hanbnrd.gitlab.io/#](https://hanbnrd.gitlab.io/#)
+**Post-Doctoral Research Fellow: Creative Computing (April - July 2023)** Dr. Johann Benerradi [https://hanbnrd.gitlab.io/#](https://hanbnrd.gitlab.io/#)
  
 **EPSRC mixed reality internship (June - Sept 2023)** Elsa Kitching
 
-**Post-Doctoral Research Assistant: Creative Computing (Feb-Oct 2022)** Prashanth Thattai
+**Post-Doctoral Research Assistant: Creative Computing (Feb-Oct 2022)** Dr. Prashanth Thattai
