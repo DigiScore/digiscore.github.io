@@ -112,6 +112,11 @@ cover-img: /assets/img/outputs_banner.png
 
 2025    *Tree Mountains - LIVE* performed by Solaris, May 2025 [LINK](https://open.spotify.com/album/4we8W22YAa9cQLXaEH3maa)
 
+## AWARD
+
+2025    Winner of the 2025 Global Tech Awards for Music Technology. [LINK](https://www.globaltechaward.com/winners)
+
+2025    Winner of the 2025 Sound Of The Year Award for Best Sound Innovation [LINK](https://www.soundoftheyearawards.com/)
 
 ## Residencies & Fellowships
 
