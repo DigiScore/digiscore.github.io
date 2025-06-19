@@ -127,6 +127,8 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Presentations & Workshops
 
+2025    DigiScore workshop. Kenyatta University, Nairobi, Kenya. March, 2025
+
 2024    Creativity Card Workshop. Sydney Conservatory of Music, Sydney. October 5-8, 2024
 
 2024    Creativity Card Workshop. Adelaide University, Melbourne. October 2, 2024
