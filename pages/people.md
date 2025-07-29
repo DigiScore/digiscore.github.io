@@ -49,7 +49,12 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
  
 **Post-Doctoral Research Associate: Human-AI Interaction (Dec 2024 - June 2026)** Dr. Oliver Miles
  
- 
+**Research Assistant: RAMI data analysis (October 2025 - June 2026)** Anastasiya Kryvanos 
+
+
+## International Collaborator:
+
+**RAMI project:** Dr Laura Bishop, University of Oslo. Co-I on the RAMI project (Robot Arm Musicking Inclusively) (October 2024 - June 2026)
 
 
 ## The research partners are:
