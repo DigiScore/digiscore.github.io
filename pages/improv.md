@@ -74,6 +74,8 @@ Further information (Location/time/date etc., will be sent to you after confirma
 
 Interested? Please follow this link to sign-up! [SIGN UP LINK](https://forms.office.com/e/aprdPFGqP0)
 
+![QR](/assets/img/improv_QR.png)
+
 
 ## Participation Information Sheets 
 
