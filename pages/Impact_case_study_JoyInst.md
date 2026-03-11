@@ -23,9 +23,9 @@ The longitudinal study confirms that JoyInst dramatically reshapes the learning 
 with disabilities. By translating physical constraints into joystick‑driven controls, the device enables 
 autonomous music making, reducing reliance on the teacher and allowing learners to meet goals previously 
 out of reach – for example, a student with only one functional hand can now play a recorder, and another without 
-hands can drum. Quantitatively, engagement rose from 3.30 to 4.86 (a 31.8 % gain), confidence from 3.50 to 4.77, 
+hands can drum. Quantitatively, engagement rose from 3.30 to 4.86 (a 31.8% gain), confidence from 3.50 to 4.77, 
 and social interaction averaged 4.35, indicating a collaborative, inclusive classroom. Four of six participants improved 
-practical skills by 15‑30 % in pitch, tonal control and sight‑reading, aligning with the competency‑based 
+practical skills by 15‑30% in pitch, tonal control and sight‑reading, aligning with the competency‑based 
 curriculum’s focus on demonstrable outcomes.
 
 Beyond music, students reported heightened motivation, enjoyment and transfer of perseverance to subjects such as 
