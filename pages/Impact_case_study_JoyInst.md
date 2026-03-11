@@ -16,7 +16,7 @@ accessibility to music education and making, while building bridges towards incl
 ---
 **FULL LONGITUDINAL STUDY REPORT 2026**
 
-Over 2025 and into 2026, Kelvin Macharia was a research fellow for DigiScore. He repeated hi work at SA 
+Over 2025 and into 2026, Kelvin Macharia was a research fellow for DigiScore. He repeated his work at SA 
 JoyTown school and led a longitudinal study on the impact of JoyInst on students. 
 
 The longitudinal study confirms that JoyInst dramatically reshapes the learning experience of Kenyan students 

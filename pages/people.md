@@ -44,8 +44,6 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 
 ## Current Fellows and Interns:
-
-**Research Assistant: JoyInst (October 2024 - December 2025)** Macharia Kelvin Njoroge 
  
 **Post-Doctoral Research Associate: Human-AI Interaction (Dec 2024 - June 2026)** Dr. Oliver Miles
  
@@ -69,6 +67,8 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 
 ## Past Fellows:
+
+**Research Assistant: JoyInst (October 2024 - March 2026)** Macharia Kelvin Njoroge 
 
 **Post-Doctoral Research Assistant: Embodied Music Cognition (2022-25)** Dr. Solomiya Moroz
 
