@@ -13,6 +13,32 @@ Developing a digital score as a platform for inclusive music education for disab
 digital score was embedded with a learning game, and a low-cost digital instrument interface that break barriers of 
 accessibility to music education and making, while building bridges towards inclusive music-making and learning.
 
+---
+**FULL LONGITUDINAL STUDY REPORT 2026**
+
+Over 2025 and into 2026, Kelvin Macharia was a research fellow for DigiScore. He repeated hi work at SA 
+JoyTown school and led a longitudinal study on the impact of JoyInst on students. 
+
+The longitudinal study confirms that JoyInst dramatically reshapes the learning experience of Kenyan students 
+with disabilities. By translating physical constraints into joystick‑driven controls, the device enables 
+autonomous music making, reducing reliance on the teacher and allowing learners to meet goals previously 
+out of reach – for example, a student with only one functional hand can now play a recorder, and another without 
+hands can drum. Quantitatively, engagement rose from 3.30 to 4.86 (a 31.8 % gain), confidence from 3.50 to 4.77, 
+and social interaction averaged 4.35, indicating a collaborative, inclusive classroom. Four of six participants improved 
+practical skills by 15‑30 % in pitch, tonal control and sight‑reading, aligning with the competency‑based 
+curriculum’s focus on demonstrable outcomes.
+
+Beyond music, students reported heightened motivation, enjoyment and transfer of perseverance to subjects such as 
+mathematics and physics, illustrating the broader psychosocial impact. They envision long‑term uses—self‑assessment, 
+composition, professional performance—underscoring a growing sense of agency and entrepreneurial potential. These 
+findings highlight JoyInst as a catalyst for student empowerment, skill development and inclusive pedagogy, provided 
+that teacher training, infrastructure and policy support accompany its scaling.
+
+DOWNLOAD THE FULL REPORT HERE [SA JoyTown Longitudinal Report](/assets/docs/JOYINST_FULL_LONGITUDINAL_STUDY.pdf) 
+
+---
+
+
 
 ## **The Issue**
 
