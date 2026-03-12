@@ -26,7 +26,7 @@ Not wanting to rewrite the whole of it here, it is important to understand what 
 
 There is, according to Ihde, a *First Phenomenology* which in the very next instance retreats into a *Second Phenomenology*. 
 The *First* is our immediate experience of some new phenomenon, say a game-engine score, 
-and how it shifts our “sense ratios” and “patterns of perception steadily and without any resistance” (McLuhan, 1964) [more about that here](../2022-01-17-The_Digital_Score_–_The_Medium_and_its_Message.md). 
+and how it shifts our “sense ratios” and “patterns of perception steadily and without any resistance” (McLuhan, 1964) [more about that here](../_posts/2022-01-17-The_Digital_Score_–_The_Medium_and_its_Message.md). 
 This sensation of the experience lasts for a brief instance before our conscious mind starts to assign it names, expectations, bias, understanding, memories, labels, perspectives, subjectivity
 which are characteristics of a *Second Phenomenology*.
 
