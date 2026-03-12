@@ -10,7 +10,7 @@ In this series, the musician Craig Vear talks with a range of musicians about wh
 
 ## Links
 
-Acast webpage - [https://open.acast.com/shows/6246daa76baf5b00124b9927/episodes](https://open.acast.com/shows/6246daa76baf5b00124b9927/episodes)
+Acast webpage - [https://shows.acast.com/in-music](https://shows.acast.com/in-music)
 
 -----------
 
