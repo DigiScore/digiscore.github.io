@@ -34,10 +34,7 @@ system they have created (*Solaris*) actually fulfils those capacities in practi
 - How does repeated co‑performance with *Solaris* affect human musicians’ trust, perceived responsiveness, and sense of togetherness? (longitudinal human‑AI interaction study)
 - Is an embodied musicking dataset that captures physiological and psychological parameters from professional jazz improvisers sufficient to train AI models that generate co‑creative improvisation? (assessment of the data foundation)
 - How do the four modular layers (Percept input, AI Factory, Gesture manager, Belief system) together enable real‑time, flow‑based music generation? (technical design question linking architecture to behavioural goals)
-- Do the three nested guiding principles
-  - (1) cope with dynamic flow, 
-  - (2) have a musically‑attuned basic‑package, 
-  - (3) maintain togetherness—constitute a robust framework for evaluating artificial musicians? (meta‑evaluation of the authors’ own framework)
+- Do the three nested guiding principles - cope with dynamic flow, have a musically‑attuned basic‑package, maintain togetherness—constitute a robust framework for evaluating artificial musicians? (meta‑evaluation of the authors’ own framework)
 
 ## **System Design**
 *Solaris* is a bottom‑up, flow‑driven artificial‑musician system that supplies three AI “instrument” agents (piano, bass, 
