@@ -2,8 +2,8 @@
 layout: page
 title: REF Portfolio - Solaris
 tags: impact
-thumbnail-img: /assets/img/*Solaris*.jpg
-cover-img: /assets/img/*Solaris*.jpg
+thumbnail-img: /assets/img/Solaris.jpg
+cover-img: /assets/img/Solaris.jpg
 ---
 
 
