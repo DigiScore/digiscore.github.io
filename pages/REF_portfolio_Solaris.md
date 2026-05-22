@@ -1,19 +1,19 @@
 ---
 layout: page
-title: REF Portfolio - *Solaris*
+title: REF Portfolio - Solaris
 tags: impact
-thumbnail-img: /assets/img/solaris.jpg
-cover-img: /assets/img/solaris.jpg
+thumbnail-img: /assets/img/*Solaris*.jpg
+cover-img: /assets/img/*Solaris*.jpg
 ---
 
 
-# **Solaris: AI Jazz Quartet investigating embodied AI, togetherness and artificial perception.**
+# ***Solaris*: AI Jazz Quartet investigating embodied AI, togetherness and artificial perception.**
 
 ## **Description**
 *Solaris* is a live‑performance jazz quartet that pairs three Embodied‑Intelligence‑driven AI agents (piano, bass, and 
 a TR‑909 drum machine) with a single human drummer, embodying the Human‑AI Musicking Framework to generate core musical 
 impetus from within the real‑time flow of music‑making. Acting as the centerpiece of a systematic musicological method, 
-Solaris provides a concrete test‑bed for probing human‑AI co‑creativity—specifically relationship building, togetherness, 
+*Solaris* provides a concrete test‑bed for probing human‑AI co‑creativity—specifically relationship building, togetherness, 
 and embodied meaning‑making—by examining how musicians perceive AI behaviour and using those insights to iteratively 
 fine‑tune the AI’s operational parameters.
 
@@ -21,17 +21,17 @@ fine‑tune the AI’s operational parameters.
 ## **Questions**
 
 ***Core: How an artificial musician can be built, what minimal capacities it must possess, and whether the concrete 
-system they have created (Solaris) actually fulfils those capacities in practice.?***
+system they have created (*Solaris*) actually fulfils those capacities in practice.?***
 
 **Sub-Questions**
 
 - How might we craft an artificial musician? (the overarching design problem that drives the whole study)
 - What are the minimal conditions—a “basic‑package”—that an AI system must satisfy to exhibit perceptual experience in a musical context? (the theoretical foundation drawn from Kirk(2017))
-- Does Solaris meet the criteria for perceptual experience as defined by Kirk’s basic‑package? (empirical test of the theoretical construct)
-- Can Solaris achieve and sustain a sense of musical togetherness with human partners? (one of the three nested guiding principles)
-- Is Solaris—or Creative‑AI more generally—sentient, or does it possess a form of mind when viewed through Peirce’s notion of synechism? (philosophical‑empirical question that follows from perceptual experience)
+- Does *Solaris* meet the criteria for perceptual experience as defined by Kirk’s basic‑package? (empirical test of the theoretical construct)
+- Can *Solaris* achieve and sustain a sense of musical togetherness with human partners? (one of the three nested guiding principles)
+- Is *Solaris*—or Creative‑AI more generally—sentient, or does it possess a form of mind when viewed through Peirce’s notion of synechism? (philosophical‑empirical question that follows from perceptual experience)
 - How does the digital‑score interface communicate the AI’s internal state and support human perception of liveness, responsivity, and flow? (evaluation of the mediating visual medium)
-- How does repeated co‑performance with Solaris affect human musicians’ trust, perceived responsiveness, and sense of togetherness? (longitudinal human‑AI interaction study)
+- How does repeated co‑performance with *Solaris* affect human musicians’ trust, perceived responsiveness, and sense of togetherness? (longitudinal human‑AI interaction study)
 - Is an embodied musicking dataset that captures physiological and psychological parameters from professional jazz improvisers sufficient to train AI models that generate co‑creative improvisation? (assessment of the data foundation)
 - How do the four modular layers (Percept input, AI Factory, Gesture manager, Belief system) together enable real‑time, flow‑based music generation? (technical design question linking architecture to behavioural goals)
 - Do the three nested guiding principles
@@ -40,7 +40,7 @@ system they have created (Solaris) actually fulfils those capacities in practice
   - (3) maintain togetherness—constitute a robust framework for evaluating artificial musicians? (meta‑evaluation of the authors’ own framework)
 
 ## **System Design**
-Solaris is a bottom‑up, flow‑driven artificial‑musician system that supplies three AI “instrument” agents (piano, bass, 
+*Solaris* is a bottom‑up, flow‑driven artificial‑musician system that supplies three AI “instrument” agents (piano, bass, 
 TR‑909‑style drum machine) to improvise in real time with a single human drummer. Its engineering rests on a purpose‑built, 
 embodied‑musicking dataset that records audio, video‑based body motion, physiological signals (EEG and electro‑dermal 
 activity) and self‑rated flow from professional jazz pianists. From this data five tightly coupled neural‑network models 
@@ -86,7 +86,7 @@ a machine to exhibit perceptual experience and, by extension, a form of sentient
 - Projects in real time for the human drummer to anticipate AI intention, fostering trust and togetherness. 
 - Can be ignored for a purely auditory focus, providing a flexible modality.
 
-*Key design choices that differentiate Solaris*
+*Key design choices that differentiate *Solaris**
 - No symbolic music representation (no MIDI or notation) → AI operates directly in the flow of perception‑action. 
 - Multimodal physiological training data → embeds a minimal “basic‑package” of perceptual experience (Kirk 2017). 
 - Closed‑loop predictive ensemble → self‑sustaining mental dynamics that continue when external input momentarily drops. 
@@ -96,7 +96,7 @@ a machine to exhibit perceptual experience and, by extension, a form of sentient
 
 
 ## **Methodology**
-The Solaris project was grounded in a practice‑based research design that treated the authors themselves as the primary 
+The *Solaris* project was grounded in a practice‑based research design that treated the authors themselves as the primary 
 musician‑participants. Starting from a theoretical scaffold that combined musical togetherness (Bishop 2024), Robert 
 Kirk’s “basic‑package” of perceptual experience (2017), and the authors’ own Embodied Intelligence/Human‑AI Musicking 
 Framework, the team distilled three nested guiding principles: (1) the system must cope with the dynamic flow of 
@@ -124,11 +124,11 @@ Simultaneously it drives a digital‑score visualiser, a projected abstraction o
 the AI’s internal state and provides the human drummer with a second sensory channel for anticipating the machine’s 
 intentions.
 
-Evaluation proceeded iteratively. Solaris performed in a series of public concerts (recorded and posted on Bandcamp) to 
+Evaluation proceeded iteratively. *Solaris* performed in a series of public concerts (recorded and posted on Bandcamp) to 
 test system stability in uncontrolled environments. Controlled laboratory sessions invited three professional drummers 
-(representing free‑jazz, mainstream, and hybrid backgrounds) to improvise with Solaris across multiple tracks; after 
+(representing free‑jazz, mainstream, and hybrid backgrounds) to improvise with *Solaris* across multiple tracks; after 
 each session the drummers completed an eight‑item Likert questionnaire probing perceived competence, responsiveness, 
-trust, and togetherness, and offered free‑form comments. A broader RENCON listening test presented a single Solaris 
+trust, and togetherness, and offered free‑form comments. A broader RENCON listening test presented a single *Solaris* 
 recording to a music‑technology community, asking listeners to attribute authorship (AI vs. human) and to comment on 
 artistic quality. The data from these evaluations fed back into the system: temperature, affect weighting, and startle 
 thresholds were tuned, and the visual‑score mapping was refined. Across repeated sessions participants reported 
@@ -142,15 +142,15 @@ allowed the authors to iteratively craft a system that meets their minimal perce
 
 
 ## **Findings**
-Insights from the Solaris project suggest that a bottom‑up, embodied‑AI approach could produce an artificial musician 
+Insights from the *Solaris* project suggest that a bottom‑up, embodied‑AI approach could produce an artificial musician 
 that is experienced by human players as a genuine, co‑creative partner. By training on a multimodal “embodied musicking” 
 dataset (audio, motion, EEG/EDA and self‑reported flow) and wiring the models into a four‑layer, affect‑driven architecture, 
-the Solaris quartet generates real‑time improvisations that satisfy the behavioural criteria for musical togetherness 
+the *Solaris* quartet generates real‑time improvisations that satisfy the behavioural criteria for musical togetherness 
 (awareness of intentional partners, mutual perception of liveness and responsivity) and the minimal “basic‑package” of 
 perceptual experience proposed by Kirk. The visual “digital‑score” interface further mediates the AI’s internal state, 
 making the machine’s intentions perceptible and strengthening trust and joint attention. 
 
-Empirical tests with professional drummers and a broader listening audience confirm that musicians perceive Solaris as 
+Empirical tests with professional drummers and a broader listening audience confirm that musicians perceive *Solaris* as 
 a competent, sometimes surprising jazz improviser, report increasing feelings of togetherness and flow over repeated 
 interactions, and react positively when the digital score is used. On the philosophical side, the authors argue—using 
 Peirce’s notion of synechism—that such context‑bound, embodied behaviour justifies speaking of sentience for a 
@@ -173,19 +173,19 @@ music in a way that feels sentient, collaborative and artistically valuable.
   - Abstract shapes and colours convey affect, density and instrument role in real time, giving the human drummer a perceptible window onto the AI’s “mental state” and enhancing joint action. 
 
 - Empirical evidence of musical togetherness 
-  - Professional drummers rated Solaris higher on competence, responsiveness, trust and flow after repeated sessions.
+  - Professional drummers rated *Solaris* higher on competence, responsiveness, trust and flow after repeated sessions.
   - Those who attended to the digital score reported significantly stronger feelings of togetherness.
 
 - Surprising, creative decisions emerge from the system
   - “Startled” events and affect‑driven gesture selection lead to spontaneous, musically coherent turns (e.g., unexpected quiet passages that force the human player to adapt), mirroring the improvisational dynamics of human jazz ensembles.
 
 - Validation of the three nested guiding principles
-  - (i) Coping with dynamic flow – Solaris maintains performance despite fluctuating musical inputs.
+  - (i) Coping with dynamic flow – *Solaris* maintains performance despite fluctuating musical inputs.
   - (ii) Musically‑attuned basic‑package – the embodied dataset satisfies Kirk’s perceptual‑experience criteria.
   - (iii) Maintenance of togetherness – musicians experience the four Bishop conditions in real time.
 
 - Contextual sentience claim
-  - Using Peirce’s synechism, the authors argue that Solaris exhibits a form of mind‑continuity: it perceives, reacts, and communicates within the musical environment, justifying the term “sentient” when the concept is taken as relational and contextual rather than absolute.
+  - Using Peirce’s synechism, the authors argue that *Solaris* exhibits a form of mind‑continuity: it perceives, reacts, and communicates within the musical environment, justifying the term “sentient” when the concept is taken as relational and contextual rather than absolute.
 
 - Implications for AI‑human artistic collaboration
   - The study demonstrates that creative‑AI need not mimic symbolic representations (MIDI, scores) to be musically meaningful; instead, grounding AI in embodied perception and affect yields a partnership that expands human creative horizons.
@@ -196,23 +196,23 @@ music in a way that feels sentient, collaborative and artistically valuable.
 ## **Dissemination**
 - a. Conference papers
     - i. Vear, C., Benford, S., Avila, J. M., & Moroz, S. (2023, August 30-September 2). Human-AI Musicking: A Framework for Designing AI for Music Co-creativity [Paper presentation]. Artificial Intelligence and Music Creativity 2023, Sussex University. https://aimc2023.pubpub.org/pub/zd46ltn3/release/2
-    - ii. Vear, C., & Poltronieri, F., (2024) “Musicking with Solaris – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity”. Proceedings of First International Conference of AI Music Studies, Stockholm, December 2024
+    - ii. Vear, C., & Poltronieri, F., (2024) “Musicking with *Solaris* – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity”. Proceedings of First International Conference of AI Music Studies, Stockholm, December 2024
     - iii. Vear, C., Poltronieri, F., DiDonato, B., Zhang, Y., Benerradi, J., Hutchinson, S., Turowski, P., Shell, J., & Malekmohamadi, H. (2024, April). Building an Embodied Musicking Dataset for co-creative music-making. Presented at 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART) 2024, Aberystwyth University, Wales https://dl.acm.org/doi/10.1007/978-3-031-56992-0_24
     - iv. Poltronieri, F., & Vear, C. (2024, June). Towards sentience: A path through jazz, datasets and digital scores. Paper presented at International Symposium of Electronic Art 2024, Brisbane, Australia https://doi.org/10.5204/book.eprints.256296
     - v. Benford, S., Hazzard, A., Vear, C., Webb, H., Chamberlain, A., Greenhalgh, C., Ramchurn, R., & Marshall, J. (Eds.). (2023). Five Provocations for a More Creative TAS [Edited Proceedings]. First International Symposium on Trustworthy Autonomous Systems (TAS 23), Edinburgh, UK. https://doi.org/10.1145/3597512.3599709
-    - vi. Poltronieri, F., & Vear, C. (2025, October 25-27). AI sentience is just around the corner: SOLARIS 2, a creative-AI score and punk rock band with human in the loop [Paper presentation]. TENOR2025: The 10th International Conference on Technologies for Music Notation and Representation, Beijing, China. https://www.tenor-conference.org/
+    - vi. Poltronieri, F., & Vear, C. (2025, October 25-27). AI sentience is just around the corner: *Solaris* 2, a creative-AI score and punk rock band with human in the loop [Paper presentation]. TENOR2025: The 10th International Conference on Technologies for Music Notation and Representation, Beijing, China. https://www.tenor-conference.org/
     - vii. Vear, C. (2025, October 25). Digital Musicking -Transformational Encounters with the Digital Score [Keynote]. TENOR2025: The 10th International Conference on Technologies for Music Notation and Representation, Beijing. https://doi.org/10.1145/3771594.3771600
 - b. Book Chapters
-  - i. Vear, C., & Poltronieri, F. (2025). Crafting Artificial Musicians: Building Solaris as a Co-operative, Perceiving and Creative AI. In N. Zagalo, & D. Keller (Eds.), Artificial Media: Emerging Trends in Narratives, Education and Creative Practice (Part F717, pp. 215-239). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-89037-6_11
+  - i. Vear, C., & Poltronieri, F. (2025). Crafting Artificial Musicians: Building *Solaris* as a Co-operative, Perceiving and Creative AI. In N. Zagalo, & D. Keller (Eds.), Artificial Media: Emerging Trends in Narratives, Education and Creative Practice (Part F717, pp. 215-239). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-89037-6_11
   - ii. in *Digital Musicking* - Vear, C., & Poltronieri, F., *Under Development*
   - iii. Vear, C. (2022). Embodied AI and Musicking Robotics. In C. Vear, & F. Poltronieri (Eds.), The Language of Creative AI: Practices, Aesthetics and Structures (pp. 113-135). Springer International Publishing. https://doi.org/10.1007/978-3-031-10960-7_7
 - c. Full AI  code (CV as main designer, Dr Fabrizio Poltronieri as designer of visual score) [LINK](https://github.com/DigiScore/AI_jazz_trio) 
-- d. Complete Recordings of Live and Studio Performances [LINK](https://solarisjazz.bandcamp.com/): 
+- d. Complete Recordings of Live and Studio Performances [LINK](https://*Solaris*jazz.bandcamp.com/): 
   - Live Performances: TENOR conference (2024), Oxford University (2024), KTH University, Sweden (2024), Artificial Intelligence and Musical Creativity conference (2024), Australian Tour (2025), 
   - Studio Recordings:
-    - "Tree Mountains": https://solarisjazz.bandcamp.com/album/tree-mountains-2 (Produced by Jonathon Eato)
-    - "Tree Mountains Live": https://solarisjazz.bandcamp.com/album/tree-mountains-live (Produced by Simon Patterson)
-    - "Extensors" demo: https://solarisjazz.bandcamp.com/album/ambleside-demos
+    - "Tree Mountains": https://Solarisjazz.bandcamp.com/album/tree-mountains-2 (Produced by Jonathon Eato)
+    - "Tree Mountains Live": https://Solarisjazz.bandcamp.com/album/tree-mountains-live (Produced by Simon Patterson)
+    - "Extensors" demo: https://Solarisjazz.bandcamp.com/album/ambleside-demos
     - "Extensors": TBC
 - e. Documented performances
     - [Blue in Green](https://www.youtube.com/watch?v=KZwHuRAml78&t=112s)
