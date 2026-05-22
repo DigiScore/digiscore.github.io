@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Impact case study - *Jess+*
+title: REF Portfolio - *Jess+*
 tags: impact
 thumbnail-img: /assets/img/jess_plus.jpg
 cover-img: /assets/img/jess_plus.jpg
 ---
 
 
-# ***Jess+*: Intelligent DigiScore as a creative platform for inclusive music-making for disabled and non-disabled musicians.**
+# **Jess+: Intelligent DigiScore as a creative platform for inclusive music-making for disabled and non-disabled musicians.**
 
 ![*Jess+* Team performing at the BBC](/assets/img/jess_plus_BBC.JPG)
 
@@ -159,6 +159,7 @@ would take far longer to develop in purely human ensembles.
     - i. BBC 2024 [LINK](https://www.youtube.com/embed/NPFqTpd91wo?si=AMycKIwupWsHJSLw)
     - ii. Workshop performance using the XArm drawing with 4 pens and with wearable sensors: [LINK](https://youtu.be/MBPQNmAXvXk) 
     - iii. Workshop performance using the XArm with a feather: with ([LINK](https://youtu.be/7dQKIpjKJu4) and without [LINK](https://youtu.be/sK4KAmv3ikw).
+    - iv. Performance in Beijing China with Shen [LINK](https://www.youtube.com/watch?v=PXzWlM4BunM)
 
 ## **Project Highlights**
 

@@ -62,10 +62,7 @@ navbar-links:
     - Open Orch: "/pages/Impact_case_study_Open_Orchestra"
   REF:
     - Jess+: "/pages/REF_portfolio_Jess_Plus"
-    - RAMI: "/pages/REF_portfolio_RAMI"
     - Solaris: "/pages/REF_portfolio_Solaris"
-    - JoyInst: "/pages/REF_portfolio_JoyInst"
-    - Dataset: "/pages/REF_portfolio_Dataset"
   Cards:
     - About: "/pages/Creativity_cards_about"
     - How to use: "/pages/cards_how_to_use"
