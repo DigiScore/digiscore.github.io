@@ -7,6 +7,10 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Books and Book chapters
 
+2027    Vear, C. (2027) "Digital Musicking: Transformational Encounters With Digital Scores". Routledge Publishing (In production)
+
+2026    Candy, L., Edmonds, E., Vear, C., (2026) "Practice-based Research: Foundations and Frameworks". Routledge Publishing (In production) 
+
 2025    Vear, C., & Poltronieri, F., (2025) "Crafting Artificial Musicians: building Solaris as a co-operative, perceiving and creative AI" in Zagalo, N., & Keller, D., (eds) Artificial Media: Emerging Trends in Narratives, Education and Creative Practice [https://link.springer.com/book/9783031890369](https://link.springer.com/book/9783031890369)
 
 2022    Vear, C., (ed) (2022) "The Routledge International Handbook of Practice-Based Research" - [https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435](https://www.routledge.com/The-Routledge-International-Handbook-of-Practice-Based-Research/Vear/p/book/9780367341435)
@@ -20,6 +24,8 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Peer-reviewed published papers and articles
+
+2025    Miles, O., Hazzard, A., Moroz, S., Bishop, L., & Vear, C. (2025, June). Meaningful Interactions in Human-AI Musicking. In Proceedings of the 20th International Audio Mostly Conference (pp. 58-69).
 
 2025    Moroz, S., & Vear, C. Transforming Practice: The Impact of Digital Scores on Creativity, Performance, and Accessibility. Tempo, 78(313), https://doi.org/10.1017/S0040298225000129
 
