@@ -207,7 +207,13 @@ music in a way that feels sentient, collaborative and artistically valuable.
   - ii. in *Digital Musicking* - Vear, C., & Poltronieri, F., *Under Development*
   - iii. Vear, C. (2022). Embodied AI and Musicking Robotics. In C. Vear, & F. Poltronieri (Eds.), The Language of Creative AI: Practices, Aesthetics and Structures (pp. 113-135). Springer International Publishing. https://doi.org/10.1007/978-3-031-10960-7_7
 - c. Full AI  code (CV as main designer, Dr Fabrizio Poltronieri as designer of visual score) [LINK](https://github.com/DigiScore/AI_jazz_trio) 
-- d. Complete Recordings of Live and Studio Performance [LINK](https://solarisjazz.bandcamp.com/)
+- d. Complete Recordings of Live and Studio Performances [LINK](https://solarisjazz.bandcamp.com/): 
+  - Live Performances: TENOR conference (2024), Oxford University (2024), KTH University, Sweden (2024), Artificial Intelligence and Musical Creativity conference (2024), Australian Tour (2025), 
+  - Studio Recordings:
+    - "Tree Mountains": https://solarisjazz.bandcamp.com/album/tree-mountains-2 (Produced by Jonathon Eato)
+    - "Tree Mountains Live": https://solarisjazz.bandcamp.com/album/tree-mountains-live (Produced by Simon Patterson)
+    - "Extensors" demo: https://solarisjazz.bandcamp.com/album/ambleside-demos
+    - "Extensors": TBC
 - e. Documented performances
     - [Blue in Green](https://www.youtube.com/watch?v=KZwHuRAml78&t=112s)
     - [Breaking the Law](https://www.youtube.com/watch?v=15zECmGMX4I)
