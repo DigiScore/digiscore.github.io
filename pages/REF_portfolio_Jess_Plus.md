@@ -148,14 +148,14 @@ would take far longer to develop in purely human ensembles.
 
 
 ## **Dissemination**
-- a. Conference papers
+- a. Full AI and robotic code (Prof Craig Vear as main designer and developer, Dr Johann Benerradi as RA) [LINK](https://github.com/DigiScore/jess_plus) 
+- b. Conference papers
     - i.	Vear, C., Hazzard, A., Moroz, S., & Benerradi, J. (2024, May). Jess+: AI and robotics with inclusive music-making. In Proceedings of the CHI Conference on Human Factors in Computing Systems (pp. 1-17).
     - ii. Vear, C., & Benerradi, J. (2024). Jess+: Designing embodied AI for interactive music-making. ArXiv. https://arxiv.org/abs/2412.06469
     - iii. Workshop paper (published) GenAICHI 2024 https://generativeaiandhci.github.io/ (in print)
     - iv.	Vear, C (2021) Creative AI and Musicking Robots. Front. Robot. AI 8:631752. doi: 10.3389/frobt.2021.631752 
     - v. Miles, O., Moroz, S., Hazzard, A., Bishop, L., & Vear, C. (Eds.). (2025). Meaningful Interactions in Human-AI Musicking [Edited Proceedings]. 20th International Audio Mostly Conference (AM'25), Coimbra, Portugal. https://doi.org/10.1145/3771594.3771600
-- b. Book Chapter in *Digital Musicking* - Vear, C., & Hazzard, A., *Under Development*
-- c. Full AI and robotic code (CV as main designer, Dr Johann Benerradi as RA) [LINK](https://github.com/DigiScore/jess_plus) 
+- c. Book Chapter in *Digital Musicking* - Vear, C., & Hazzard, A., *Under Development*
 - d.	Documented performances
     - i. BBC 2024 [LINK](https://www.youtube.com/embed/NPFqTpd91wo?si=AMycKIwupWsHJSLw)
     - ii. Workshop performance using the XArm drawing with 4 pens and with wearable sensors: [LINK](https://youtu.be/MBPQNmAXvXk) 

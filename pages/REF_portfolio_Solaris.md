@@ -191,7 +191,8 @@ music in a way that feels sentient, collaborative and artistically valuable.
 
 
 ## **Dissemination**
-- a. Conference papers
+- a. Full AI  code (Prof Craig Vear as main designer, developer and AI architect, Dr Fabrizio Poltronieri as designer of visual score) [LINK](https://github.com/DigiScore/AI_jazz_trio) 
+- b. Conference papers
     - i. Vear, C., Benford, S., Avila, J. M., & Moroz, S. (2023, August 30-September 2). Human-AI Musicking: A Framework for Designing AI for Music Co-creativity [Paper presentation]. Artificial Intelligence and Music Creativity 2023, Sussex University. https://aimc2023.pubpub.org/pub/zd46ltn3/release/2
     - ii. Vear, C., & Poltronieri, F., (2024) “Musicking with *Solaris* – a systematic musicology method to identifying relationship building, togetherness and meaning-making in human-AI co-creativity”. Proceedings of First International Conference of AI Music Studies, Stockholm, December 2024
     - iii. Vear, C., Poltronieri, F., DiDonato, B., Zhang, Y., Benerradi, J., Hutchinson, S., Turowski, P., Shell, J., & Malekmohamadi, H. (2024, April). Building an Embodied Musicking Dataset for co-creative music-making. Presented at 13th International Conference on Artificial Intelligence in Music, Sound, Art and Design (EvoMUSART) 2024, Aberystwyth University, Wales https://dl.acm.org/doi/10.1007/978-3-031-56992-0_24
@@ -199,11 +200,10 @@ music in a way that feels sentient, collaborative and artistically valuable.
     - v. Benford, S., Hazzard, A., Vear, C., Webb, H., Chamberlain, A., Greenhalgh, C., Ramchurn, R., & Marshall, J. (Eds.). (2023). Five Provocations for a More Creative TAS [Edited Proceedings]. First International Symposium on Trustworthy Autonomous Systems (TAS 23), Edinburgh, UK. https://doi.org/10.1145/3597512.3599709
     - vi. Poltronieri, F., & Vear, C. (2025, October 25-27). AI sentience is just around the corner: *Solaris* 2, a creative-AI score and punk rock band with human in the loop [Paper presentation]. TENOR2025: The 10th International Conference on Technologies for Music Notation and Representation, Beijing, China. https://www.tenor-conference.org/
     - vii. Vear, C. (2025, October 25). Digital Musicking -Transformational Encounters with the Digital Score [Keynote]. TENOR2025: The 10th International Conference on Technologies for Music Notation and Representation, Beijing. https://doi.org/10.1145/3771594.3771600
-- b. Book Chapters
+- c. Book Chapters
   - i. Vear, C., & Poltronieri, F. (2025). Crafting Artificial Musicians: Building *Solaris* as a Co-operative, Perceiving and Creative AI. In N. Zagalo, & D. Keller (Eds.), Artificial Media: Emerging Trends in Narratives, Education and Creative Practice (Part F717, pp. 215-239). Springer Nature Switzerland. https://doi.org/10.1007/978-3-031-89037-6_11
   - ii. in *Digital Musicking* - Vear, C., & Poltronieri, F., *Under Development*
   - iii. Vear, C. (2022). Embodied AI and Musicking Robotics. In C. Vear, & F. Poltronieri (Eds.), The Language of Creative AI: Practices, Aesthetics and Structures (pp. 113-135). Springer International Publishing. https://doi.org/10.1007/978-3-031-10960-7_7
-- c. Full AI  code (CV as main designer, Dr Fabrizio Poltronieri as designer of visual score) [LINK](https://github.com/DigiScore/AI_jazz_trio) 
 - d. Complete Recordings of Live and Studio Performances [LINK](https://*Solaris*jazz.bandcamp.com/): 
   - Live Performances: TENOR conference (2024), Oxford University (2024), KTH University, Sweden (2024), Artificial Intelligence and Musical Creativity conference (2024), Australian Tour (2025), 
   - Studio Recordings:
