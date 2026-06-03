@@ -5,7 +5,7 @@ cover-img: /assets/img/outputs_banner.png
 ---
 
 
-## Books and Book chapters
+## Books and Chapters
 
 2027    Vear, C. (2027) "Digital Musicking: Transformational Encounters With Digital Scores". Routledge Publishing (In production)
 
@@ -24,6 +24,8 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Peer-reviewed published papers and articles
+
+2026    Hope C, Fields K, Vear C, Bhagwati S. Editorial: New Strategies for Music Notation and Representation in Electroacoustic Music. Organised Sound. Published online 2Feb  2026:1-3. doi:10.1017/S135577182510109X 
 
 2025    Miles, O., Hazzard, A., Moroz, S., Bishop, L., & Vear, C. (2025, June). Meaningful Interactions in Human-AI Musicking. In Proceedings of the 20th International Audio Mostly Conference (pp. 58-69).
 
@@ -137,6 +139,8 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Presentations & Workshops
+
+2026    The Second International Conference on Music AI Studies (as co-chair), Nottingham, April 2026 https://www.aims2026.com/home
 
 2025    DigiScore workshop. Kenyatta University, Nairobi, Kenya. March, 2025
 
