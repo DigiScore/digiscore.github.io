@@ -160,7 +160,7 @@ would take far longer to develop in purely human ensembles.
     - i. BBC 2024 [LINK](https://www.youtube.com/embed/NPFqTpd91wo?si=AMycKIwupWsHJSLw)
     - ii. Workshop performance using the XArm drawing with 4 pens and with wearable sensors: [LINK](https://youtu.be/MBPQNmAXvXk) 
     - iii. Workshop performance using the XArm with a feather: with ([LINK](https://youtu.be/7dQKIpjKJu4) and without [LINK](https://youtu.be/sK4KAmv3ikw).
-    - iv. Performance in Beijing China with Shen [LINK](https://www.youtube.com/watch?v=PXzWlM4BunM)
+    - iv. Performance in Beijing China with Shen [LINK](https://youtu.be/L_K8MuN1WyM)
 
 ## **Project Highlights**
 
