@@ -45,9 +45,7 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 ## Current Fellows and Interns:
  
-**Post-Doctoral Research Associate: Human-AI Interaction (Dec 2024 - June 2026)** Dr. Oliver Miles
- 
-**Research Assistant: RAMI data analysis (October 2025 - June 2026)** Anastasiya Kryvanos 
+
 
 
 ## International Collaborator:
@@ -67,6 +65,10 @@ co-editor of the books The Language of Creative AI and Explorations in Art and T
 
 
 ## Past Fellows:
+
+**Post-Doctoral Research Associate: Human-AI Interaction (Dec 2024 - June 2026)** Dr. Oliver Miles
+ 
+**Research Assistant: RAMI data analysis (October 2025 - June 2026)** Anastasiya Kryvanos 
 
 **Research Assistant: JoyInst (October 2024 - March 2026)** Macharia Kelvin Njoroge 
 
