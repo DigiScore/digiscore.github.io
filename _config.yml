@@ -54,6 +54,9 @@ navbar-links:
     - 24. CMMAS Festival Commissions (x3): "2025-06-05-CMMAS_concert"
   Research: "/pages/research"
   Outputs:  "/pages/outputs"
+  PACMMAN:
+    - About: "/pages/PACMMAN"
+    - Ontology: "/pages/ontology"
   Ensemble: "/pages/ensemble"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
