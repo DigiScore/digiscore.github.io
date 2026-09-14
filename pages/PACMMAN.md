@@ -4,8 +4,11 @@ title: PACMMAN Framework
 cover-img: /assets/img/outputs_banner.png
 ---
 
+---
+**FULL PAPER**
 [FULL PACMMAN PAPER HERE]("/assets/docs/TENOR2025_PACMMAN.pdf")
 
+---
 
 <img align="right" width="100%" height="100%" src="/assets/img/PACMMAN.jpg">
 
