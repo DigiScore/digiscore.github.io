@@ -62,8 +62,8 @@ navbar-links:
     - Code: "/pages/code"
     - Meta: "/pages/meta"
     - Music: "/pages/music"
-    - Acoustic: "/pages/acoustic"
-    - Network: "/pages/network"
+    - Acoustics: "/pages/acoustic"
+    - Networks: "/pages/network"
   Ensemble: "/pages/ensemble"
   Impact:
     - Digital Sygygies: "/pages/Impact_case_study_Digital_Syzygies"
