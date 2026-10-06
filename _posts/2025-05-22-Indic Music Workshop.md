@@ -14,9 +14,15 @@ Dataset: [http://doi.org/10.17639/nott.7554](http://doi.org/10.17639/nott.7554)
 ## **Digiscore India Meeting**
 
 ZOOM Jan 9, 2026
+
+
 Host: Sandeep Bhagwati
+
+
 Participants: Sameer Dublay (vocals, Flame University Pune), Shawn Mativetsky (Tabla, McGill University), Saulo Olmedo Evans (Tabla), 
 Ninad Puranik (Software, Mc Gill University), Michal Seta (Software, 148 labs), Alberto Acquilino (Software, McGill University, as Guest) 
+
+
 This conversation took place on Zoom on January 9, 2026, almost a year after the research-creation phase of DigiScore 
 India had ended. It brought together several of the musicians and researchers involved in the project to revisit the 
 experiments from a distance: to recall their experiences with the digital-score prototypes, reflect on what had remained 
