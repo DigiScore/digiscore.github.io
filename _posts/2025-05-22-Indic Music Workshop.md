@@ -11,6 +11,22 @@ tags: [case_study]
 
 Dataset: [http://doi.org/10.17639/nott.7554](http://doi.org/10.17639/nott.7554)
 
+## **Digiscore India Meeting**
+
+ZOOM Jan 9, 2026
+Host: Sandeep Bhagwati
+Participants: Sameer Dublay (vocals, Flame University Pune), Shawn Mativetsky (Tabla, McGill University), Saulo Olmedo Evans (Tabla), 
+Ninad Puranik (Software, Mc Gill University), Michal Seta (Software, 148 labs), Alberto Acquilino (Software, McGill University, as Guest) 
+This conversation took place on Zoom on January 9, 2026, almost a year after the research-creation phase of DigiScore 
+India had ended. It brought together several of the musicians and researchers involved in the project to revisit the 
+experiments from a distance: to recall their experiences with the digital-score prototypes, reflect on what had remained 
+significant, and consider their possible implications for Indic art musics. Conceived as a recapitulation rather than a 
+further research experiment, the conversation offered an opportunity to compare perspectives that had emerged during the 
+project with reflections formed after a longer period of distance. The following is an edited transcript of that discussion.
+
+TRANSCRIPT: [DOWNLOAD PDF](/assets/docs/DigiscoreIndia_Zoom_Jan9_2026_Edited_Transcript.pdf)
+
+
 The workshop led by Sandeep Bhagwati and his technical team centered around two digital scores designed to bridge traditional Indian classical music with contemporary technology. The workshop examined two digital scores—Smruti Ranga, composed by Sandeep Bhagwati, and DigiTabla, created by tabla performer and composer Shawn Mativetsky—which merge Indian classical music with interactive technology. Through collaborative experimentation, musicians engaged with the digital scores to rethink improvisation, notation, and ensemble dynamics. Designed for trained Indian musicians, these scores utilised North Indian Sargam notation while incorporating generative algorithms and colour-coded visual elements to guide the performance. The system presents short raga-derived phrases (yellow) and directives (green) that musicians interpret in real-time, creating a dynamic interplay between fixed structures and open improvisation. Unlike traditional performances that typically follow set forms or teacher-student dynamics, these digital scores encourage collaborative experimentation among multiple musicians, including both vocalists and instrumentalists, while maintaining connections to classical frameworks.
 
 
