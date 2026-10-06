@@ -26,8 +26,18 @@ project with reflections formed after a longer period of distance. The following
 
 TRANSCRIPT: [DOWNLOAD PDF](/assets/docs/DigiscoreIndia_Zoom_Jan9_2026_Edited_Transcript.pdf)
 
+## **The workshop**
 
-The workshop led by Sandeep Bhagwati and his technical team centered around two digital scores designed to bridge traditional Indian classical music with contemporary technology. The workshop examined two digital scores—Smruti Ranga, composed by Sandeep Bhagwati, and DigiTabla, created by tabla performer and composer Shawn Mativetsky—which merge Indian classical music with interactive technology. Through collaborative experimentation, musicians engaged with the digital scores to rethink improvisation, notation, and ensemble dynamics. Designed for trained Indian musicians, these scores utilised North Indian Sargam notation while incorporating generative algorithms and colour-coded visual elements to guide the performance. The system presents short raga-derived phrases (yellow) and directives (green) that musicians interpret in real-time, creating a dynamic interplay between fixed structures and open improvisation. Unlike traditional performances that typically follow set forms or teacher-student dynamics, these digital scores encourage collaborative experimentation among multiple musicians, including both vocalists and instrumentalists, while maintaining connections to classical frameworks.
+The workshop led by Sandeep Bhagwati and his technical team centered around two digital scores designed to bridge 
+traditional Indian classical music with contemporary technology. The workshop examined two digital scores—Smruti Ranga, 
+composed by Sandeep Bhagwati, and DigiTabla, created by tabla performer and composer Shawn Mativetsky—which merge Indian 
+classical music with interactive technology. Through collaborative experimentation, musicians engaged with the digital 
+scores to rethink improvisation, notation, and ensemble dynamics. Designed for trained Indian musicians, these scores 
+utilised North Indian Sargam notation while incorporating generative algorithms and colour-coded visual elements to guide 
+the performance. The system presents short raga-derived phrases (yellow) and directives (green) that musicians interpret 
+in real-time, creating a dynamic interplay between fixed structures and open improvisation. Unlike traditional performances 
+that typically follow set forms or teacher-student dynamics, these digital scores encourage collaborative experimentation 
+among multiple musicians, including both vocalists and instrumentalists, while maintaining connections to classical frameworks.
 
 
 **_Connectivity_**
