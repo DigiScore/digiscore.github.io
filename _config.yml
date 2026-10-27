@@ -28,6 +28,7 @@ navbar-links:
     - P word: "/pages/p-word"
   People: "/pages/people"
   Case Studies:
+    - Overview: "/pages/cs_overview"
     - 1. Nautilus: "/pages/nautilus"
     - 2. TENOR commissions 2022 (x5): "2022-10-05-DigiScore_TENOR22_commissions"
     - 3. Digital Syzygies: "/pages/digital_syzygies"
