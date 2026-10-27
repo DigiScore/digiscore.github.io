@@ -6,7 +6,7 @@ cover-img: /assets/img/outputs_banner.png
 
 ## UK
 
-See [OUTPUTS](/pages/outputs.md)
+See [OUTPUTS](/pages/outputs)
 
 
 ## Monash (Australia)
