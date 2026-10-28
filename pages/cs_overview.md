@@ -4,12 +4,12 @@ title: Case Studies & Outputs Overview
 cover-img: /assets/img/outputs_banner.png
 ---
 
-## UK
+# UK
 
 See [OUTPUTS](/pages/outputs)
 
 
-## Monash (Australia)
+# Monash (Australia)
 ### Case Studies
 - Drawing Sound in Space performance: [LINK](https://doi.org/10.26180/33475474) and [LINK](http://doi.org/10.17639/nott.7411)
 - Cat Hope 'Speechless' performance: https://doi.org/10.26180/5c591dc038001 and http://doi.org/10.17639/nott.7338
@@ -19,7 +19,7 @@ See [OUTPUTS](/pages/outputs)
 - Decibel Score Player (new all platform version) https://doi.org/10.26180/22580239
 
 
-## UCSB (USA)
+# UCSB (USA)
 ### Case Studies
 1. Ethan Cayko: _Netronomia_
 - [Performance videos and composer’s documentation](https://ethancayko.com/netronomia)
@@ -76,71 +76,28 @@ See [OUTPUTS](/pages/outputs)
 
 
 ### Published papers/articles/book chapters etc.
-- Fields, K. (2023). Sheng Yijing: Book of sound changes. In P. De Ritis, V. Zappi, E. Van Buskirk, & R. Mallia (Eds.), Proceedings of the Eighth International Conference on Technologies for Music Notation and Representation (pp. 171-175). Northeastern University. ( https://www.tenor-conference.org/proceedings/2023/22-TENOR_BOSTON_2023_paper_6796Fields.pdf )
-- Fields, K. (2025). The well-tempered network: From monochrony to polychrony. Organised Sound, 30(3), 269–279: Cambridge University Press. DOI: https://doi.org/10.1017/S1355771825100976
+- Fields, K. (2023). Sheng Yijing: Book of sound changes. In P. De Ritis, V. Zappi, E. Van Buskirk, & R. Mallia (Eds.), Proceedings of the Eighth International Conference on Technologies for Music Notation and Representation (pp. 171-175). Northeastern University. [PDF](https://www.tenor-conference.org/proceedings/2023/22-TENOR_BOSTON_2023_paper_6796Fields.pdf)
+- Fields, K. (2025). The well-tempered network: From monochrony to polychrony. Organised Sound, 30(3), 269–279: Cambridge University Press. [DOI](https://doi.org/10.1017/S1355771825100976)
 - Fields, K. (2026). The Urklangwerk: The leaf, the center and the sonus. In C. Vear (Ed.), Digital musicking: Transformational encounters through the digital score. Routledge Press. In Press. 
 - 菲尔兹，肯尼斯，2026：《原声作：叶、中心与声聚》，《中国艺术》第4期，第90—112页. (Chinese translation of excerpt from Urklangwerk chapter: Fēiěrzī, Kěnnísī, 2026: “Yuánshēngzuò: Yè, Zhōngxīn yǔ Shēngjù”, “Zhōngguó Yìshù” dì 4 qī, dì 90—112 yè)
 
+### Workshops delivered.
+- [Wuhan](https://drive.google.com/drive/folders/1z-wEw3Dq6MevA22kTba3KTtPtIHG0z5H?usp=sharing)
+- [Boston: ICMC Talk on Polychrony and Netronomia](https://drive.google.com/drive/u/0/folders/1kF0mCdo4wTXmG9DTZS3BdshrqP1WkFr-?ths=true)
+- [ICMC Folder](https://drive.google.com/drive/folders/1WgHnbpYAN345iVlrLGTUcNXaJEgdLK7C?usp=sharing)
+- [Beijing](https://drive.google.com/drive/folders/1KK8VL1zebMCpg-8mHv78qibrkHeBSRBC?usp=sharing) 
 
 
+### Presentations
+- [Musicacoustica Festival Hangzhou - Annual Reports 2024-25 on network and laptop ensemble work. 2024-25](https://drive.google.com/drive/folders/1k3Kcc7_fVI1q9GoDMlfb5ALGGn7vxLvh?usp=sharing)
+- [SOMI AI conference Beijing (2021, 23 and 26). (Summit on Music Intelligence)](https://drive.google.com/drive/folders/1E8WpkgiG8byBcPZ1bQqOZygNcq_QcWeL?usp=sharing)
+- [TENOR 2023](https://drive.google.com/drive/folders/1T59Tb3czysQKnKZ_gnCWvoYrTpufu6HR?usp=sharing)
+- [TENOR 2025](https://drive.google.com/drive/folders/1j6YNo4Gs9nk5cgIm487U1XJJ4m5ayXjp?usp=sharing)
+- [CMA Exhibition and Symposium 2025 (Computational Media Arts, Hong Kong university of science and technology, Guangzhou)](https://drive.google.com/drive/folders/1T5xdyUiBm6ue9RgJShvGUKmV72_Yq49-?usp=sharing)
+- [Consciousness Reframed Conference 2024, Shanghai, China.](https://drive.google.com/drive/folders/11o16QzzILrAdDgEe3cFJo7PwDPL-uC1B?usp=sharing) 
 
 
-
-
-Any workshops delivered.
-
-
-
-3 - Beijing, Boston (ICMC) and Wuhan)
-
-    a. wuhan: https://drive.google.com/drive/folders/1z-wEw3Dq6MevA22kTba3KTtPtIHG0z5H?usp=sharing 
-
-    b. Boston: ICMC Talk on Polychrony and Netronomia:  https://drive.google.com/drive/u/0/folders/1kF0mCdo4wTXmG9DTZS3BdshrqP1WkFr-?ths=true  
-
-    c. ICMC Folder: https://drive.google.com/drive/folders/1WgHnbpYAN345iVlrLGTUcNXaJEgdLK7C?usp=sharing  
-
-    d. Beijing: https://drive.google.com/drive/folders/1KK8VL1zebMCpg-8mHv78qibrkHeBSRBC?usp=sharing 
-
-
-
-Any presentations where you talked about the DigiScore work.
-
-
-
-Musicacoustica Festival Hangzhou - Annual Reports 2024-25 on network and laptop ensemble work.
-
-A. 2024-25: https://drive.google.com/drive/folders/1k3Kcc7_fVI1q9GoDMlfb5ALGGn7vxLvh?usp=sharing 
-
-
-
-SOMI AI conference Beijing (2021, 23 and 26). (Summit on Music Intelligence)
-
-https://drive.google.com/drive/folders/1E8WpkgiG8byBcPZ1bQqOZygNcq_QcWeL?usp=sharing
-
-
-
-TENOR 2023-25 - https://drive.google.com/drive/folders/1T59Tb3czysQKnKZ_gnCWvoYrTpufu6HR?usp=sharing 
-
-https://drive.google.com/drive/folders/1j6YNo4Gs9nk5cgIm487U1XJJ4m5ayXjp?usp=sharing  
-
-
-
-CMA Exhibition and Symposium 2025 (Computational Media Arts, Hong Kong university of science and technology, Guangzhou) - 
-
-https://drive.google.com/drive/folders/1T5xdyUiBm6ue9RgJShvGUKmV72_Yq49-?usp=sharing 
-
-
-
-Consciousness Reframed Conference 2024, Shanghai, China. 
-
-https://drive.google.com/drive/folders/11o16QzzILrAdDgEe3cFJo7PwDPL-uC1B?usp=sharing 
-
-
-
-
-
-
-## CCOM (China)
+# CCOM (China)
 ### Case Studies
 Lin Chiwei.  
 Meng Qi. 
@@ -153,7 +110,7 @@ Meng Qi.
 - Granular Poem Project: A Digital Score Based on Deconstruction of Chinese Idioms  TENOR 2024 Proceedings, pp. 179–182. https://www.tenor-conference.org/proceedings/2024/22_TENOR2024_Zhang.pdf 
 
  
-## Concordia (Canada)
+# Concordia (Canada)
 ### Case Studies
 Indic Score.
 Montreal Fest.
