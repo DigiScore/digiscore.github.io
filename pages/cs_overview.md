@@ -74,7 +74,6 @@ See [OUTPUTS](/pages/outputs)
 - [Zylork](https://www.youtube.com/watch?v=944ss00k9f0&list=PL7fp8OaImSfJ4dqm3ylRLyn_F6FaG0TIp)
 - [UCAS Scores](https://www.youtube.com/watch?v=0LcDvnTXmA0&list=PL7fp8OaImSfJcC2u-oi1s3VtKll9CCrc9) 
 
-
 ### Published papers/articles/book chapters etc.
 - Fields, K. (2023). Sheng Yijing: Book of sound changes. In P. De Ritis, V. Zappi, E. Van Buskirk, & R. Mallia (Eds.), Proceedings of the Eighth International Conference on Technologies for Music Notation and Representation (pp. 171-175). Northeastern University. [PDF](https://www.tenor-conference.org/proceedings/2023/22-TENOR_BOSTON_2023_paper_6796Fields.pdf)
 - Fields, K. (2025). The well-tempered network: From monochrony to polychrony. Organised Sound, 30(3), 269–279: Cambridge University Press. [DOI](https://doi.org/10.1017/S1355771825100976)
@@ -87,7 +86,6 @@ See [OUTPUTS](/pages/outputs)
 - [ICMC Folder](https://drive.google.com/drive/folders/1WgHnbpYAN345iVlrLGTUcNXaJEgdLK7C?usp=sharing)
 - [Beijing](https://drive.google.com/drive/folders/1KK8VL1zebMCpg-8mHv78qibrkHeBSRBC?usp=sharing) 
 
-
 ### Presentations
 - [Musicacoustica Festival Hangzhou - Annual Reports 2024-25 on network and laptop ensemble work. 2024-25](https://drive.google.com/drive/folders/1k3Kcc7_fVI1q9GoDMlfb5ALGGn7vxLvh?usp=sharing)
 - [SOMI AI conference Beijing (2021, 23 and 26). (Summit on Music Intelligence)](https://drive.google.com/drive/folders/1E8WpkgiG8byBcPZ1bQqOZygNcq_QcWeL?usp=sharing)
@@ -99,21 +97,45 @@ See [OUTPUTS](/pages/outputs)
 
 # CCOM (China)
 ### Case Studies
-Lin Chiwei.  
-Meng Qi. 
+1. Lin Chiwei.  
+2. Meng Qi. 
 
 ### Outputs
-- Digital Scores and the Frontiers of Music Representation: A Review of TENOR 2025  Journal of the Central Conservatory of Music, 2026(1), pp. 157–165. https://xuebao.ccom.edu.cn/CN/Y2026/V0/I1/157
-- Hexagram-Based Semantic Composition: Discretizing Embedding Spaces into Symbolic Compositional States for Improvised Performance  ICMC 2026 Proceedings (preliminary version). https://icmc2026.ligeti-zentrum.de/proceedings/
-- Virtual Ensemble: Exploring Musicking Through Networked Digital Score ICMC 2025 Proceedings, pp. 140–144.https://www.fulcrum.org/concern/monographs/zg64tq53m
-- Chinese Characters as Digital Scores: A Prototype for Explainable, Semantics-Driven Composition TENOR 2025 Proceedings, pp. 276–286. https://www.tenor-conference.org/proceedings/2025/32_TENOR2025_Zhang_Yuan.pdf 
-- Granular Poem Project: A Digital Score Based on Deconstruction of Chinese Idioms  TENOR 2024 Proceedings, pp. 179–182. https://www.tenor-conference.org/proceedings/2024/22_TENOR2024_Zhang.pdf 
+- Digital Scores and the Frontiers of Music Representation: A Review of TENOR 2025  Journal of the Central Conservatory of Music, 2026(1), pp. 157–165.[LINK](https://xuebao.ccom.edu.cn/CN/Y2026/V0/I1/157)
+- Hexagram-Based Semantic Composition: Discretizing Embedding Spaces into Symbolic Compositional States for Improvised Performance  ICMC 2026 Proceedings (preliminary version). [LINK](https://icmc2026.ligeti-zentrum.de/proceedings/)
+- Virtual Ensemble: Exploring Musicking Through Networked Digital Score ICMC 2025 Proceedings, pp. 140–144. [LINK](https://www.fulcrum.org/concern/monographs/zg64tq53m)
+- Chinese Characters as Digital Scores: A Prototype for Explainable, Semantics-Driven Composition TENOR 2025 Proceedings, pp. 276–286. [LINK](https://www.tenor-conference.org/proceedings/2025/32_TENOR2025_Zhang_Yuan.pdf) 
+- Granular Poem Project: A Digital Score Based on Deconstruction of Chinese Idioms  TENOR 2024 Proceedings, pp. 179–182. [LINK](https://www.tenor-conference.org/proceedings/2024/22_TENOR2024_Zhang.pdf) 
 
  
 # Concordia (Canada)
 ### Case Studies
-Indic Score.
-Montreal Fest.
-Morelia (CMMAS) 3 commissions.
+1. [Antikairos](https://smcq.qc.ca/smcq/en/oeuvre/51384-anti-kairos)
+2. [Tenor Conference Boston](https://tenorboston23.sites.northeastern.edu/performances/)
+3. [Exercises en Etrangété III Mycorrhizia](https://quasar4.com/fr/evenements/saison-2023-2024/exercices-detrangete-iii-mycorrhizia)
+4. [Montrealia Morelia](https://www.cmmas.com/news/conciertos-y-conferencias%3A-encuentro-montrealia-%5Bm%C3%A9xico-canad%C3%A1%5D)
+5. [Digiscore Concert Montréal](https://smcq.qc.ca/smcq/fr/evenement/46618-digiscores)
+6. [Digiscore Indic Music Workshop](https://digiscore.github.io/2025-05-22-Indic-Music-Workshop/) 
 
-### Outputs
+### Published papers/articles/book chapters etc.(in print), 
+- Bhagwati, S./ Pocius, K.: GENERATIVE AUDIOSCORES AS ENGINES OF SOCIAL CHOREOGRAPHY IN ”VILLANELLES DE VOYELLES II“ [LINK](https://www.tenor-conference.org/proceedings/2026/07_TENOR26_Sandeep_Bhagwati.pdf)
+- Bhagwati, Sandeep, Smruti Ranga & DigiTabla: Experiments with Digital Real-Time Scores for Indic Art Musics, In C. Vear (Ed.), Digital musicking: Transformational encounters through the digital score. Routledge Press. In Press. 
+- Bhagwati, Sandeep. “Inhabiting Time: Towards a Heterophony of Temporalities and Traditions.” 
+- Intersections: Canadian Journal of Music Volume 41, Number 1, 2021, p. 57–67 [LINK](https://www.erudit.org/en/journals/is/2021-v41-n1-is09705/1114851ar/)
+- Bhagwati, Sandeep Faire de la musique en temps difficiles [LINK](https://doi.org/10.7202/1116275ar) [(English version: Musicking in difficult times](https://revuecircuit.ca/en/article/1384-music-in-difficult-times)
+
+### Impact
+- How many musicians you worked with: Antikairos (13), Tenor Boston (5), Tenor Beijing (4), Quasar Exercises (5), Morelia (5), Concert Montréal (7), DigiIndia (6) - so 45 all in all. (I also count one music software developer and live computer "conductor" in almost each performance/project).
+- How many public performances: 8 concerts (Montreal (4) , Toronto, Boston, Beijing, Morelia)
+- How many countries you travelled to share the research: 8 (Canada, USA, Mexiko, Germany, Austria, Switzerland, France, India)
+- Any other impacts or influences the research had Two festival world premieres of large scale works (Antikairos @ "Montréal Nouvelles Musiques 2022", Exercises in Estrangement III Mycorrhizia @ Semaine du Neuf 2024), two symposia organized around scores and digital scores (Montreal SMCQ 2025 and Morelia CMMA 2025). A new Austrian FWF grant on "Sound As Scores" grew from the insights into audio scoring and has continued the work.
+
+### Videos/Audio recordings 
+- [Exercises en Etrangété III Mycorrhizia](https://vimeo.com/934892624?fl=pl&fe=vl)
+- [PRANA II MUSIC OF BREATHS](https://youtu.be/i8aghvlPMxg?si=pTeaU01kHmIrjMMT)
+
+### Workshops and presentations
+- La Grande Nuit 2021 Au déla de la notation - conversation entre Sandeep Bhagwati et Simon Pierre Gourd [LINK](https://youtu.be/gXVFi9mChl4?si=L3i5QMgy2BKGycmx)
+- La Grande Nuit 2022 Du moment pas juste - Formations du temps dans la musique algorithmique [LINK](https://youtu.be/DBNUDFwcR6E?si=iVJKku-MyF4uGi9P)
+- Here in this french-language documentary about me (with english subtitles), certain passages mention Digiscore projects: [watch from roughly min 12:50:](https://youtu.be/38gph2IIdi0?si=sUAXwJHAremxc6aU)
+
