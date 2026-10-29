@@ -7,7 +7,11 @@ cover-img: /assets/img/outputs_banner.png
 
 ## Books and Chapters
 
-2027    Vear, C. (2027) "Digital Musicking: Transformational Encounters With Digital Scores". Routledge Publishing (In production)
+2027    Vear, C. (2027) "Digital Musicking: Transformational Encounters Through Digital Scores". Routledge Publishing (In production)
+
+2027    Vear, C & Bishop, L., (2027) “Finding connection and meaning during musicking with an AI-driven “dancing” robot” in AI Music Studies: Springer (in development)
+
+2027    Vear, C., Sturm, B., & Benford, S., (Eds) (2027) Music AI Studies, 1st Edition. London, Springer (in development)
 
 2026    Candy, L., Edmonds, E., Vear, C., (2026) "Practice-based Research: Foundations and Frameworks". Routledge Publishing (In production) 
 
@@ -24,6 +28,8 @@ cover-img: /assets/img/outputs_banner.png
 
 
 ## Peer-reviewed published papers and articles
+
+2027    Bishop, L., Vear, C., Miles, O., (2027) “Improvising with Otherness: Negotiating Agency, Togetherness and Meaning in Human-Robot Musical Interaction”. Music & Science (in development)
 
 2026    Hope C, Fields K, Vear C, Bhagwati S. Editorial: New Strategies for Music Notation and Representation in Electroacoustic Music. Organised Sound. Published online 2Feb  2026:1-3. doi:10.1017/S135577182510109X 
 
