@@ -45,13 +45,13 @@ See [OUTPUTS](/pages/outputs)
 - _Never At Sea_. For solo bass guitar and bass orchestra. (2022). 15’ [10.26180/21803607] [paper][book chapter]
 - _The Low Tone Orchestra_: 9 Options. For any number of instruments playing below 200Hz (2022) 7’ [recording] [live performance] [score sample]
 
-How many musicians you worked with. 49
-How many public performances. 11 (China, US, Australia, Germany)
-How many countries you travelled to share the research. (UK, China,USA, New Zealand, Japan, Germany, France, Australia)
-Any other impacts or influences the research had.
-How many Videos/Audio recordings created. one 20 minute documentary, 1  x 6 minute music film, 8 live performance videos, 15 score videos), 1 CD album,  14 live recordings of works.
-Any workshops delivered. 5
-Any presentations where you talked about the DigiScore work. 7
+### Additional Output
+- How many musicians you worked with. **49** 
+- How many public performances. **11 (China, US, Australia, Germany)**
+- How many countries you travelled to share the research. **(UK, China,USA, New Zealand, Japan, Germany, France, Australia)**
+- How many Videos/Audio recordings created. one 20 minute documentary, **1  x 6 minute music film, 8 live performance videos, 15 score videos), 1 CD album,  14 live recordings of works.** 
+- Any workshops delivered. **5** 
+- Any presentations where you talked about the DigiScore work. **7**
 
 
 # UCSB (USA)
