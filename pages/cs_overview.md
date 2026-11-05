@@ -11,12 +11,47 @@ See [OUTPUTS](/pages/outputs)
 
 # Monash (Australia)
 ### Case Studies
-- Drawing Sound in Space performance: [LINK](https://doi.org/10.26180/33475474) and [LINK](http://doi.org/10.17639/nott.7411)
-- Cat Hope 'Speechless' performance: https://doi.org/10.26180/5c591dc038001 and http://doi.org/10.17639/nott.7338
-- Monash at HfMT performance: http://doi.org/10.17639/nott.7297 
+1. Drawing Sound in Space performance: [LINK}(https://doi.org/10.26180/33475474) and [LINK](http://doi.org/10.17639/nott.7411)
+2. Cat Hope 'Speechless' performance: [LINK}(https://doi.org/10.26180/5c591dc038001) and [LINK](http://doi.org/10.17639/nott.7338)
+3. Decibel Score Player (new all platform version) [LINK](https://doi.org/10.26180/22580239) 
+4. Monash at HfMT performance: [LINK](http://doi.org/10.17639/nott.7297)
 
-### Outputs
-- Decibel Score Player (new all platform version) https://doi.org/10.26180/22580239
+### Published papers/articles/book chapters etc. 
+18 new compositions, 3 book chapters, 2 journal articles, 6 conference papers, 2  journalistic articles
+
+- Hope, C. (in review) Music writing, reading and expression for all: Digital Scores as the path beyond musicking toward muscikin. In  Vear, C. et al  (eds) Digital Musicking: Transformational Encounters with Digital Scores. Routledge. 
+- Hope C., Fields K., Vear C., Bhagwati S. (2026) Editorial: New Strategies for Music Notation and Representation in Electroacoustic Music. Organised Sound. Published online 2026:1 doi:10.1017/S135577182510109X 
+- Hope C. (2025). Drawing sound in space: Digital spatial notation as constitutive audiovisuality. Organised Sound. 30(3): 301-312 https://doi.org/10.1017/S1355771825101027
+- Svoboda, H. & Hope, C. (2024) The Composer Photograph: A Framework Towards Describing Overtones in Animated Notation. In Proceedings of the Ninth International Conference on Technologies for Music Notation and Representation, Zurich, Switzerland, April 2024, pp 1 – 8. https://doi.org/10.5281/zenodo.13144433
+- Sobek,C. (2024) Immanence: Envisioning Music in a Post-AnthropocentricWorld Through VR Representation, Proceedings of the Ninth International Conference on Technologies for Music Notation and Representation, Zurich, Switzerland, April 2024 pp28-24 https://doi.org/10.5281/zenodo.13144433
+- Sanadzadeh, I. & Hope, C. (2023) ‘Interpreting notated works using the Terpsichora Pressure-Sensitive Floors’ Proceedings of the Eighth International Conference on Technologies for Music Notation and Representation, Boston MA, USA, May 2023, pp 147-152. 
+- Wyatt, A. & Hope, C. (2022). ‘The Decibel ScorePlayer – Learning From And For Usability.’ Proceedings of the Seventh International Conference on Technologies for Music Notation and Representation, Marseille, France May 2022. Pp 145-150 
+- Robertson, J., Moroz, S., Hope, C., Vear, C., Sanadzadeh, I., Svoboda, H., & Sobek, C. (2024). Transforming Practice with Digital Scores: Developments and Challenges in a Transcontinental Residency. Tempo, 78(309), 37–48. doi:10.1017/S0040298224000044 
+- Robertson, J. (2023) 'Structuring Censorship in Digital Score' , Proceedings of the Seventh International Conference on Technologies for Music Notation and Representation, Boston, USA May 2023. . pp1 -5.  https://doi.org/10.17760/D20511476
+- Zihan Wang 'A Lake within A Lake' (2023)  https://doi.org/10.26180/29755673
+
+### Creative works:
+- _A Lake Within A Lake_. For Ghuzeng and electronics (2025) 7’ [DOI:10.26180/29755673] [Premiere performance]
+- _Les Serpents_. For Bass Flute and partition concrete by Lionel Marchetti. (2022) 9’ [DOI:10.26180/30776945 ] [recording]
+- _The Long Now III_. For Modular synthesiser and subtone (2024) 7’ [DOI:10.26180/19068227] [world premiere performance]
+- _The Long Now II_. For bass flute and subtone. (2022).7’ [DOI: 10.26180/19068227][recording] [performance video]
+- _The Long Now I_. For bass trombone and subtone. (2021).7’ [DOI:10.26180/19068227] [recording]
+- _Vibrissae_ for violin, double bass and fixed media [2025] 6’. [DOI:10.26180/31866463] [Score video]
+- _The Lost Question_ for two percussionists [2025] 13’ [DOI:10.26180/29946017] [Video of premiere.]
+- _The River’s Stomach_ (Songs of Empire) for two voices and fixed media (2025) 10’ [DOI:10.26180/27373722] [score video]
+- _Zal_ (2024). For 2 double basses and electronics [2024] 7’ [live recording] [DOI:10.26180/27157314]
+- _The Quiet Friend_. For piano, percussion and subtone (2023).15’ [DOI:10.26180/22202929.v1]
+- _Voluminum_. For concert organ, guitar, bass, harp and percussion. [2023] [live video] [DOI: 10.26180/24946263]
+- _Never At Sea_. For solo bass guitar and bass orchestra. (2022). 15’ [10.26180/21803607] [paper][book chapter]
+- _The Low Tone Orchestra_: 9 Options. For any number of instruments playing below 200Hz (2022) 7’ [recording] [live performance] [score sample]
+
+How many musicians you worked with. 49
+How many public performances. 11 (China, US, Australia, Germany)
+How many countries you travelled to share the research. (UK, China,USA, New Zealand, Japan, Germany, France, Australia)
+Any other impacts or influences the research had.
+How many Videos/Audio recordings created. one 20 minute documentary, 1  x 6 minute music film, 8 live performance videos, 15 score videos), 1 CD album,  14 live recordings of works.
+Any workshops delivered. 5
+Any presentations where you talked about the DigiScore work. 7
 
 
 # UCSB (USA)
